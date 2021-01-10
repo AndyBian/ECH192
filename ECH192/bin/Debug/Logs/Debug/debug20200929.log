@@ -1,0 +1,1772 @@
+﻿2020-09-29 09:04:04 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 09:04:04 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 09:04:04 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 09:04:04 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 09:04:04 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 09:04:04 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 09:04:04 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 09:04:04 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 09:04:04 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 09:04:04 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 09:04:04 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 09:04:04 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 09:04:04 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 09:04:04 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 09:04:04 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 09:04:04 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 09:04:11 ECH192.MainForm 2222222:2020-09-29 09:04:11:635
+2020-09-29 09:04:12 ECH192.MainForm 2222222:2020-09-29 09:04:12:191
+2020-09-29 09:04:12 ECH192.MainForm 2222222:2020-09-29 09:04:12:870
+2020-09-29 09:04:13 ECH192.MainForm 2222222:2020-09-29 09:04:13:533
+2020-09-29 09:04:14 ECH192.MainForm 2222222:2020-09-29 09:04:14:099
+2020-09-29 09:04:14 ECH192.MainForm 2222222:2020-09-29 09:04:14:871
+2020-09-29 09:04:42 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 09:04:42 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 09:04:42 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 09:04:42 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 09:04:42 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 09:04:42 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 09:04:42 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 09:04:42 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 09:04:42 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 09:04:42 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 09:04:42 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 09:04:42 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 09:04:42 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 09:04:42 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 09:04:42 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 09:04:42 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 09:06:03 ECH192.MainForm 2222222:2020-09-29 09:06:03:926
+2020-09-29 09:06:17 ECH192.MainForm 2222222:2020-09-29 09:06:17:446
+2020-09-29 09:06:24 ECH192.MainForm 2222222:2020-09-29 09:06:24:581
+2020-09-29 09:06:25 ECH192.MainForm 2222222:2020-09-29 09:06:25:377
+2020-09-29 09:06:25 ECH192.MainForm 2222222:2020-09-29 09:06:25:746
+2020-09-29 09:06:26 ECH192.MainForm 2222222:2020-09-29 09:06:26:078
+2020-09-29 09:09:25 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 09:09:25 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 09:09:25 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 09:09:25 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 09:09:25 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 09:09:25 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 09:09:25 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 09:09:25 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 09:09:25 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 09:09:25 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 09:09:25 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 09:09:25 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 09:09:25 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 09:09:25 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 09:09:25 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 09:09:25 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 09:09:28 ECH192.MainForm 2222222:2020-09-29 09:09:28:232
+2020-09-29 09:09:28 ECH192.MainForm 2222222:2020-09-29 09:09:28:235
+2020-09-29 09:09:28 ECH192.MainForm 2222222:2020-09-29 09:09:28:236
+2020-09-29 09:09:28 ECH192.MainForm 2222222:2020-09-29 09:09:28:237
+2020-09-29 09:09:28 ECH192.MainForm 2222222:2020-09-29 09:09:28:239
+2020-09-29 09:09:28 ECH192.MainForm 2222222:2020-09-29 09:09:28:240
+2020-09-29 09:09:32 ECH192.MainForm 2222222:2020-09-29 09:09:32:330
+2020-09-29 09:09:32 ECH192.MainForm 2222222:2020-09-29 09:09:32:331
+2020-09-29 09:09:32 ECH192.MainForm 2222222:2020-09-29 09:09:32:333
+2020-09-29 09:09:32 ECH192.MainForm 2222222:2020-09-29 09:09:32:335
+2020-09-29 09:09:32 ECH192.MainForm 2222222:2020-09-29 09:09:32:338
+2020-09-29 09:09:32 ECH192.MainForm 2222222:2020-09-29 09:09:32:339
+2020-09-29 09:09:33 ECH192.MainForm 2222222:2020-09-29 09:09:33:183
+2020-09-29 09:09:33 ECH192.MainForm 2222222:2020-09-29 09:09:33:184
+2020-09-29 09:09:33 ECH192.MainForm 2222222:2020-09-29 09:09:33:188
+2020-09-29 09:09:33 ECH192.MainForm 2222222:2020-09-29 09:09:33:190
+2020-09-29 09:09:33 ECH192.MainForm 2222222:2020-09-29 09:09:33:193
+2020-09-29 09:09:33 ECH192.MainForm 2222222:2020-09-29 09:09:33:195
+2020-09-29 09:09:33 ECH192.MainForm 2222222:2020-09-29 09:09:33:960
+2020-09-29 09:09:33 ECH192.MainForm 2222222:2020-09-29 09:09:33:963
+2020-09-29 09:09:33 ECH192.MainForm 2222222:2020-09-29 09:09:33:965
+2020-09-29 09:09:33 ECH192.MainForm 2222222:2020-09-29 09:09:33:967
+2020-09-29 09:09:33 ECH192.MainForm 2222222:2020-09-29 09:09:33:969
+2020-09-29 09:09:33 ECH192.MainForm 2222222:2020-09-29 09:09:33:972
+2020-09-29 09:09:34 ECH192.MainForm 2222222:2020-09-29 09:09:34:713
+2020-09-29 09:09:34 ECH192.MainForm 2222222:2020-09-29 09:09:34:719
+2020-09-29 09:09:34 ECH192.MainForm 2222222:2020-09-29 09:09:34:723
+2020-09-29 09:09:34 ECH192.MainForm 2222222:2020-09-29 09:09:34:725
+2020-09-29 09:09:34 ECH192.MainForm 2222222:2020-09-29 09:09:34:729
+2020-09-29 09:09:34 ECH192.MainForm 2222222:2020-09-29 09:09:34:734
+2020-09-29 09:09:35 ECH192.MainForm 2222222:2020-09-29 09:09:35:486
+2020-09-29 09:09:35 ECH192.MainForm 2222222:2020-09-29 09:09:35:489
+2020-09-29 09:09:35 ECH192.MainForm 2222222:2020-09-29 09:09:35:492
+2020-09-29 09:09:35 ECH192.MainForm 2222222:2020-09-29 09:09:35:494
+2020-09-29 09:09:35 ECH192.MainForm 2222222:2020-09-29 09:09:35:498
+2020-09-29 09:09:35 ECH192.MainForm 2222222:2020-09-29 09:09:35:501
+2020-09-29 09:09:36 ECH192.MainForm 2222222:2020-09-29 09:09:36:330
+2020-09-29 09:09:36 ECH192.MainForm 2222222:2020-09-29 09:09:36:332
+2020-09-29 09:09:36 ECH192.MainForm 2222222:2020-09-29 09:09:36:337
+2020-09-29 09:09:36 ECH192.MainForm 2222222:2020-09-29 09:09:36:340
+2020-09-29 09:09:36 ECH192.MainForm 2222222:2020-09-29 09:09:36:342
+2020-09-29 09:09:36 ECH192.MainForm 2222222:2020-09-29 09:09:36:345
+2020-09-29 09:09:40 ECH192.MainForm 2222222:2020-09-29 09:09:40:121
+2020-09-29 09:09:40 ECH192.MainForm 2222222:2020-09-29 09:09:40:125
+2020-09-29 09:09:40 ECH192.MainForm 2222222:2020-09-29 09:09:40:129
+2020-09-29 09:09:40 ECH192.MainForm 2222222:2020-09-29 09:09:40:132
+2020-09-29 09:09:40 ECH192.MainForm 2222222:2020-09-29 09:09:40:137
+2020-09-29 09:09:40 ECH192.MainForm 2222222:2020-09-29 09:09:40:142
+2020-09-29 09:09:41 ECH192.MainForm 2222222:2020-09-29 09:09:41:016
+2020-09-29 09:09:41 ECH192.MainForm 2222222:2020-09-29 09:09:41:021
+2020-09-29 09:09:41 ECH192.MainForm 2222222:2020-09-29 09:09:41:027
+2020-09-29 09:09:41 ECH192.MainForm 2222222:2020-09-29 09:09:41:034
+2020-09-29 09:09:41 ECH192.MainForm 2222222:2020-09-29 09:09:41:041
+2020-09-29 09:09:41 ECH192.MainForm 2222222:2020-09-29 09:09:41:048
+2020-09-29 09:09:41 ECH192.MainForm 2222222:2020-09-29 09:09:41:902
+2020-09-29 09:09:41 ECH192.MainForm 2222222:2020-09-29 09:09:41:906
+2020-09-29 09:09:41 ECH192.MainForm 2222222:2020-09-29 09:09:41:913
+2020-09-29 09:09:41 ECH192.MainForm 2222222:2020-09-29 09:09:41:918
+2020-09-29 09:09:41 ECH192.MainForm 2222222:2020-09-29 09:09:41:925
+2020-09-29 09:09:41 ECH192.MainForm 2222222:2020-09-29 09:09:41:933
+2020-09-29 09:09:42 ECH192.MainForm 2222222:2020-09-29 09:09:42:803
+2020-09-29 09:09:42 ECH192.MainForm 2222222:2020-09-29 09:09:42:807
+2020-09-29 09:09:42 ECH192.MainForm 2222222:2020-09-29 09:09:42:818
+2020-09-29 09:09:42 ECH192.MainForm 2222222:2020-09-29 09:09:42:823
+2020-09-29 09:09:42 ECH192.MainForm 2222222:2020-09-29 09:09:42:830
+2020-09-29 09:09:42 ECH192.MainForm 2222222:2020-09-29 09:09:42:837
+2020-09-29 09:09:43 ECH192.MainForm 2222222:2020-09-29 09:09:43:681
+2020-09-29 09:09:43 ECH192.MainForm 2222222:2020-09-29 09:09:43:686
+2020-09-29 09:09:43 ECH192.MainForm 2222222:2020-09-29 09:09:43:691
+2020-09-29 09:09:43 ECH192.MainForm 2222222:2020-09-29 09:09:43:701
+2020-09-29 09:09:43 ECH192.MainForm 2222222:2020-09-29 09:09:43:706
+2020-09-29 09:09:43 ECH192.MainForm 2222222:2020-09-29 09:09:43:710
+2020-09-29 09:09:44 ECH192.MainForm 2222222:2020-09-29 09:09:44:534
+2020-09-29 09:09:44 ECH192.MainForm 2222222:2020-09-29 09:09:44:540
+2020-09-29 09:09:44 ECH192.MainForm 2222222:2020-09-29 09:09:44:545
+2020-09-29 09:09:44 ECH192.MainForm 2222222:2020-09-29 09:09:44:551
+2020-09-29 09:09:44 ECH192.MainForm 2222222:2020-09-29 09:09:44:559
+2020-09-29 09:09:44 ECH192.MainForm 2222222:2020-09-29 09:09:44:564
+2020-09-29 09:09:45 ECH192.MainForm 2222222:2020-09-29 09:09:45:452
+2020-09-29 09:09:45 ECH192.MainForm 2222222:2020-09-29 09:09:45:463
+2020-09-29 09:09:45 ECH192.MainForm 2222222:2020-09-29 09:09:45:474
+2020-09-29 09:09:45 ECH192.MainForm 2222222:2020-09-29 09:09:45:485
+2020-09-29 09:09:45 ECH192.MainForm 2222222:2020-09-29 09:09:45:496
+2020-09-29 09:09:45 ECH192.MainForm 2222222:2020-09-29 09:09:45:506
+2020-09-29 09:09:46 ECH192.MainForm 2222222:2020-09-29 09:09:46:350
+2020-09-29 09:09:46 ECH192.MainForm 2222222:2020-09-29 09:09:46:360
+2020-09-29 09:09:46 ECH192.MainForm 2222222:2020-09-29 09:09:46:366
+2020-09-29 09:09:46 ECH192.MainForm 2222222:2020-09-29 09:09:46:373
+2020-09-29 09:09:46 ECH192.MainForm 2222222:2020-09-29 09:09:46:379
+2020-09-29 09:09:46 ECH192.MainForm 2222222:2020-09-29 09:09:46:389
+2020-09-29 09:09:47 ECH192.MainForm 2222222:2020-09-29 09:09:47:271
+2020-09-29 09:09:47 ECH192.MainForm 2222222:2020-09-29 09:09:47:282
+2020-09-29 09:09:47 ECH192.MainForm 2222222:2020-09-29 09:09:47:294
+2020-09-29 09:09:47 ECH192.MainForm 2222222:2020-09-29 09:09:47:303
+2020-09-29 09:09:47 ECH192.MainForm 2222222:2020-09-29 09:09:47:311
+2020-09-29 09:09:47 ECH192.MainForm 2222222:2020-09-29 09:09:47:320
+2020-09-29 09:09:48 ECH192.MainForm 2222222:2020-09-29 09:09:48:239
+2020-09-29 09:09:48 ECH192.MainForm 2222222:2020-09-29 09:09:48:250
+2020-09-29 09:09:48 ECH192.MainForm 2222222:2020-09-29 09:09:48:255
+2020-09-29 09:09:48 ECH192.MainForm 2222222:2020-09-29 09:09:48:263
+2020-09-29 09:09:48 ECH192.MainForm 2222222:2020-09-29 09:09:48:269
+2020-09-29 09:09:48 ECH192.MainForm 2222222:2020-09-29 09:09:48:279
+2020-09-29 09:09:55 ECH192.MainForm 2222222:2020-09-29 09:09:55:967
+2020-09-29 09:09:55 ECH192.MainForm 2222222:2020-09-29 09:09:55:981
+2020-09-29 09:09:55 ECH192.MainForm 2222222:2020-09-29 09:09:55:990
+2020-09-29 09:09:56 ECH192.MainForm 2222222:2020-09-29 09:09:56:000
+2020-09-29 09:09:56 ECH192.MainForm 2222222:2020-09-29 09:09:56:008
+2020-09-29 09:09:56 ECH192.MainForm 2222222:2020-09-29 09:09:56:018
+2020-09-29 09:09:56 ECH192.MainForm 2222222:2020-09-29 09:09:56:913
+2020-09-29 09:09:56 ECH192.MainForm 2222222:2020-09-29 09:09:56:929
+2020-09-29 09:09:56 ECH192.MainForm 2222222:2020-09-29 09:09:56:938
+2020-09-29 09:09:56 ECH192.MainForm 2222222:2020-09-29 09:09:56:951
+2020-09-29 09:09:56 ECH192.MainForm 2222222:2020-09-29 09:09:56:962
+2020-09-29 09:09:56 ECH192.MainForm 2222222:2020-09-29 09:09:56:970
+2020-09-29 09:09:57 ECH192.MainForm 2222222:2020-09-29 09:09:57:886
+2020-09-29 09:09:57 ECH192.MainForm 2222222:2020-09-29 09:09:57:900
+2020-09-29 09:09:57 ECH192.MainForm 2222222:2020-09-29 09:09:57:907
+2020-09-29 09:09:57 ECH192.MainForm 2222222:2020-09-29 09:09:57:914
+2020-09-29 09:09:57 ECH192.MainForm 2222222:2020-09-29 09:09:57:925
+2020-09-29 09:09:57 ECH192.MainForm 2222222:2020-09-29 09:09:57:931
+2020-09-29 09:09:58 ECH192.MainForm 2222222:2020-09-29 09:09:58:873
+2020-09-29 09:09:58 ECH192.MainForm 2222222:2020-09-29 09:09:58:883
+2020-09-29 09:09:58 ECH192.MainForm 2222222:2020-09-29 09:09:58:898
+2020-09-29 09:09:58 ECH192.MainForm 2222222:2020-09-29 09:09:58:912
+2020-09-29 09:09:58 ECH192.MainForm 2222222:2020-09-29 09:09:58:925
+2020-09-29 09:09:58 ECH192.MainForm 2222222:2020-09-29 09:09:58:931
+2020-09-29 09:09:59 ECH192.MainForm 2222222:2020-09-29 09:09:59:927
+2020-09-29 09:09:59 ECH192.MainForm 2222222:2020-09-29 09:09:59:936
+2020-09-29 09:09:59 ECH192.MainForm 2222222:2020-09-29 09:09:59:947
+2020-09-29 09:09:59 ECH192.MainForm 2222222:2020-09-29 09:09:59:963
+2020-09-29 09:09:59 ECH192.MainForm 2222222:2020-09-29 09:09:59:970
+2020-09-29 09:09:59 ECH192.MainForm 2222222:2020-09-29 09:09:59:977
+2020-09-29 09:10:00 ECH192.MainForm 2222222:2020-09-29 09:10:00:970
+2020-09-29 09:10:00 ECH192.MainForm 2222222:2020-09-29 09:10:00:980
+2020-09-29 09:10:00 ECH192.MainForm 2222222:2020-09-29 09:10:00:993
+2020-09-29 09:10:01 ECH192.MainForm 2222222:2020-09-29 09:10:01:002
+2020-09-29 09:10:01 ECH192.MainForm 2222222:2020-09-29 09:10:01:015
+2020-09-29 09:10:01 ECH192.MainForm 2222222:2020-09-29 09:10:01:029
+2020-09-29 09:10:01 ECH192.MainForm 2222222:2020-09-29 09:10:01:635
+2020-09-29 09:10:01 ECH192.MainForm 2222222:2020-09-29 09:10:01:646
+2020-09-29 09:10:01 ECH192.MainForm 2222222:2020-09-29 09:10:01:664
+2020-09-29 09:10:01 ECH192.MainForm 2222222:2020-09-29 09:10:01:674
+2020-09-29 09:10:01 ECH192.MainForm 2222222:2020-09-29 09:10:01:691
+2020-09-29 09:10:01 ECH192.MainForm 2222222:2020-09-29 09:10:01:701
+2020-09-29 09:10:02 ECH192.MainForm 2222222:2020-09-29 09:10:02:251
+2020-09-29 09:10:02 ECH192.MainForm 2222222:2020-09-29 09:10:02:260
+2020-09-29 09:10:02 ECH192.MainForm 2222222:2020-09-29 09:10:02:274
+2020-09-29 09:10:02 ECH192.MainForm 2222222:2020-09-29 09:10:02:284
+2020-09-29 09:10:02 ECH192.MainForm 2222222:2020-09-29 09:10:02:295
+2020-09-29 09:10:02 ECH192.MainForm 2222222:2020-09-29 09:10:02:309
+2020-09-29 09:10:02 ECH192.MainForm 2222222:2020-09-29 09:10:02:899
+2020-09-29 09:10:02 ECH192.MainForm 2222222:2020-09-29 09:10:02:916
+2020-09-29 09:10:02 ECH192.MainForm 2222222:2020-09-29 09:10:02:926
+2020-09-29 09:10:02 ECH192.MainForm 2222222:2020-09-29 09:10:02:943
+2020-09-29 09:10:02 ECH192.MainForm 2222222:2020-09-29 09:10:02:951
+2020-09-29 09:10:02 ECH192.MainForm 2222222:2020-09-29 09:10:02:959
+2020-09-29 09:13:13 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 09:13:13 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 09:13:13 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 09:13:13 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 09:13:13 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 09:13:13 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 09:13:13 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 09:13:13 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 09:13:13 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 09:13:13 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 09:13:13 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 09:13:13 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 09:13:13 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 09:13:13 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 09:13:13 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 09:13:13 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 09:13:17 ECH192.MainForm 2222222:2020-09-29 09:13:17:715
+2020-09-29 09:13:17 ECH192.MainForm 2222222:2020-09-29 09:13:17:770
+2020-09-29 09:13:17 ECH192.MainForm 2222222:2020-09-29 09:13:17:830
+2020-09-29 09:13:17 ECH192.MainForm 2222222:2020-09-29 09:13:17:900
+2020-09-29 09:13:17 ECH192.MainForm 2222222:2020-09-29 09:13:17:951
+2020-09-29 09:13:18 ECH192.MainForm 2222222:2020-09-29 09:13:18:015
+2020-09-29 09:13:33 ECH192.MainForm 2222222:2020-09-29 09:13:33:221
+2020-09-29 09:13:33 ECH192.MainForm 2222222:2020-09-29 09:13:33:308
+2020-09-29 09:13:33 ECH192.MainForm 2222222:2020-09-29 09:13:33:408
+2020-09-29 09:13:33 ECH192.MainForm 2222222:2020-09-29 09:13:33:489
+2020-09-29 09:13:33 ECH192.MainForm 2222222:2020-09-29 09:13:33:602
+2020-09-29 09:13:33 ECH192.MainForm 2222222:2020-09-29 09:13:33:689
+2020-09-29 09:15:52 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 09:15:52 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 09:15:52 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 09:15:52 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 09:15:52 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 09:15:52 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 09:15:52 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 09:15:52 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 09:15:52 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 09:15:52 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 09:15:52 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 09:15:52 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 09:15:52 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 09:15:52 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 09:15:52 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 09:15:52 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 09:15:57 ECH192.MainForm 2222222:2020-09-29 09:15:57:229
+2020-09-29 09:15:57 ECH192.MainForm 2222222:2020-09-29 09:15:57:296
+2020-09-29 09:15:57 ECH192.MainForm 2222222:2020-09-29 09:15:57:352
+2020-09-29 09:15:57 ECH192.MainForm 2222222:2020-09-29 09:15:57:416
+2020-09-29 09:15:57 ECH192.MainForm 2222222:2020-09-29 09:15:57:464
+2020-09-29 09:15:57 ECH192.MainForm 2222222:2020-09-29 09:15:57:510
+2020-09-29 09:17:45 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 09:17:45 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 09:17:45 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 09:17:45 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 09:17:45 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 09:17:45 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 09:17:45 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 09:17:45 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 09:17:45 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 09:17:45 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 09:17:45 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 09:17:45 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 09:17:45 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 09:17:45 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 09:17:45 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 09:17:45 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 09:17:49 ECH192.MainForm 2222222:2020-09-29 09:17:49:767
+2020-09-29 09:17:49 ECH192.MainForm 2222222:2020-09-29 09:17:49:794
+2020-09-29 09:17:49 ECH192.MainForm 2222222:2020-09-29 09:17:49:811
+2020-09-29 09:17:49 ECH192.MainForm 2222222:2020-09-29 09:17:49:829
+2020-09-29 09:17:49 ECH192.MainForm 2222222:2020-09-29 09:17:49:850
+2020-09-29 09:17:49 ECH192.MainForm 2222222:2020-09-29 09:17:49:878
+2020-09-29 09:17:52 ECH192.MainForm 2222222:2020-09-29 09:17:52:163
+2020-09-29 09:17:52 ECH192.MainForm 2222222:2020-09-29 09:17:52:247
+2020-09-29 09:17:52 ECH192.MainForm 2222222:2020-09-29 09:17:52:346
+2020-09-29 09:17:52 ECH192.MainForm 2222222:2020-09-29 09:17:52:444
+2020-09-29 09:17:52 ECH192.MainForm 2222222:2020-09-29 09:17:52:525
+2020-09-29 09:17:52 ECH192.MainForm 2222222:2020-09-29 09:17:52:697
+2020-09-29 09:17:54 ECH192.MainForm 2222222:2020-09-29 09:17:54:902
+2020-09-29 09:17:55 ECH192.MainForm 2222222:2020-09-29 09:17:55:040
+2020-09-29 09:17:55 ECH192.MainForm 2222222:2020-09-29 09:17:55:175
+2020-09-29 09:17:55 ECH192.MainForm 2222222:2020-09-29 09:17:55:315
+2020-09-29 09:17:55 ECH192.MainForm 2222222:2020-09-29 09:17:55:538
+2020-09-29 09:17:55 ECH192.MainForm 2222222:2020-09-29 09:17:55:691
+2020-09-29 09:17:59 ECH192.MainForm 2222222:2020-09-29 09:17:59:686
+2020-09-29 09:17:59 ECH192.MainForm 2222222:2020-09-29 09:17:59:888
+2020-09-29 09:18:00 ECH192.MainForm 2222222:2020-09-29 09:18:00:081
+2020-09-29 09:18:00 ECH192.MainForm 2222222:2020-09-29 09:18:00:330
+2020-09-29 09:18:00 ECH192.MainForm 2222222:2020-09-29 09:18:00:540
+2020-09-29 09:18:00 ECH192.MainForm 2222222:2020-09-29 09:18:00:743
+2020-09-29 09:28:30 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 09:28:30 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 09:28:30 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 09:28:30 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 09:28:30 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 09:28:30 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 09:28:30 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 09:28:30 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 09:28:30 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 09:28:30 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 09:28:30 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 09:28:30 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 09:28:30 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 09:28:30 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 09:28:30 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 09:28:30 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 09:28:58 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 09:28:58 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 09:28:58 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 09:28:58 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 09:28:58 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 09:28:58 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 09:28:58 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 09:28:58 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 09:28:58 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 09:28:58 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 09:28:58 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 09:28:58 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 09:28:58 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 09:28:58 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 09:28:58 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 09:28:58 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 09:34:27 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 09:34:27 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 09:34:27 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 09:34:27 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 09:34:27 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 09:34:27 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 09:34:27 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 09:34:27 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 09:34:27 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 09:34:27 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 09:34:27 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 09:34:27 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 09:34:27 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 09:34:27 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 09:34:27 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 09:34:27 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 09:34:31 ECH192.MainForm 2222222:2020-09-29 09:34:31:717
+2020-09-29 09:34:31 ECH192.MainForm 2222222:2020-09-29 09:34:31:766
+2020-09-29 09:34:31 ECH192.MainForm 2222222:2020-09-29 09:34:31:817
+2020-09-29 09:34:31 ECH192.MainForm 2222222:2020-09-29 09:34:31:881
+2020-09-29 09:34:31 ECH192.MainForm 2222222:2020-09-29 09:34:31:940
+2020-09-29 09:34:31 ECH192.MainForm 2222222:2020-09-29 09:34:31:979
+2020-09-29 09:34:40 ECH192.MainForm 2222222:2020-09-29 09:34:40:174
+2020-09-29 09:34:40 ECH192.MainForm 2222222:2020-09-29 09:34:40:254
+2020-09-29 09:34:40 ECH192.MainForm 2222222:2020-09-29 09:34:40:394
+2020-09-29 09:34:40 ECH192.MainForm 2222222:2020-09-29 09:34:40:494
+2020-09-29 09:34:40 ECH192.MainForm 2222222:2020-09-29 09:34:40:607
+2020-09-29 09:34:40 ECH192.MainForm 2222222:2020-09-29 09:34:40:687
+2020-09-29 09:34:46 ECH192.MainForm 2222222:2020-09-29 09:34:46:638
+2020-09-29 09:34:46 ECH192.MainForm 2222222:2020-09-29 09:34:46:868
+2020-09-29 09:34:46 ECH192.MainForm 2222222:2020-09-29 09:34:46:999
+2020-09-29 09:34:47 ECH192.MainForm 2222222:2020-09-29 09:34:47:171
+2020-09-29 09:34:47 ECH192.MainForm 2222222:2020-09-29 09:34:47:397
+2020-09-29 09:34:47 ECH192.MainForm 2222222:2020-09-29 09:34:47:572
+2020-09-29 09:56:32 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 09:56:32 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 09:56:32 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 09:56:32 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 09:56:32 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 09:56:32 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 09:56:32 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 09:56:32 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 09:56:32 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 09:56:32 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 09:56:32 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 09:56:32 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 09:56:32 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 09:56:32 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 09:56:32 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 09:56:32 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 09:57:23 ECH192.MainForm 2222222:2020-09-29 09:57:23:699
+2020-09-29 09:57:23 ECH192.MainForm 2222222:2020-09-29 09:57:23:766
+2020-09-29 09:57:23 ECH192.MainForm 2222222:2020-09-29 09:57:23:846
+2020-09-29 09:57:23 ECH192.MainForm 2222222:2020-09-29 09:57:23:930
+2020-09-29 09:57:23 ECH192.MainForm 2222222:2020-09-29 09:57:23:987
+2020-09-29 09:57:24 ECH192.MainForm 2222222:2020-09-29 09:57:24:022
+2020-09-29 09:57:30 ECH192.MainForm 2222222:2020-09-29 09:57:30:085
+2020-09-29 09:57:30 ECH192.MainForm 2222222:2020-09-29 09:57:30:209
+2020-09-29 09:57:30 ECH192.MainForm 2222222:2020-09-29 09:57:30:317
+2020-09-29 09:57:30 ECH192.MainForm 2222222:2020-09-29 09:57:30:424
+2020-09-29 09:57:30 ECH192.MainForm 2222222:2020-09-29 09:57:30:539
+2020-09-29 09:57:30 ECH192.MainForm 2222222:2020-09-29 09:57:30:651
+2020-09-29 09:58:34 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 09:58:34 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 09:58:34 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 09:58:34 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 09:58:34 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 09:58:34 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 09:58:34 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 09:58:34 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 09:58:34 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 09:58:34 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 09:58:34 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 09:58:34 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 09:58:34 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 09:58:34 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 09:58:34 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 09:58:34 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 09:58:40 ECH192.MainForm 2222222:2020-09-29 09:58:40:201
+2020-09-29 09:58:40 ECH192.MainForm 2222222:2020-09-29 09:58:40:260
+2020-09-29 09:58:40 ECH192.MainForm 2222222:2020-09-29 09:58:40:318
+2020-09-29 09:58:40 ECH192.MainForm 2222222:2020-09-29 09:58:40:366
+2020-09-29 09:58:40 ECH192.MainForm 2222222:2020-09-29 09:58:40:407
+2020-09-29 09:58:40 ECH192.MainForm 2222222:2020-09-29 09:58:40:449
+2020-09-29 09:59:46 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 09:59:46 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 09:59:46 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 09:59:46 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 09:59:46 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 09:59:46 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 09:59:46 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 09:59:46 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 09:59:46 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 09:59:46 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 09:59:46 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 09:59:46 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 09:59:46 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 09:59:46 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 09:59:46 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 09:59:46 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 10:00:39 ECH192.MainForm 2222222:2020-09-29 10:00:39:908
+2020-09-29 10:00:39 ECH192.MainForm 2222222:2020-09-29 10:00:39:979
+2020-09-29 10:00:40 ECH192.MainForm 2222222:2020-09-29 10:00:40:030
+2020-09-29 10:00:40 ECH192.MainForm 2222222:2020-09-29 10:00:40:069
+2020-09-29 10:00:40 ECH192.MainForm 2222222:2020-09-29 10:00:40:121
+2020-09-29 10:00:40 ECH192.MainForm 2222222:2020-09-29 10:00:40:177
+2020-09-29 10:05:11 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 10:05:11 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 10:05:11 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 10:05:11 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 10:05:11 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 10:05:11 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 10:05:11 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 10:05:11 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 10:05:11 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 10:05:11 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 10:05:11 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 10:05:11 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 10:05:11 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 10:05:11 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 10:05:11 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 10:05:11 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 10:05:14 ECH192.MainForm 2222222:2020-09-29 10:05:14:811
+2020-09-29 10:05:14 ECH192.MainForm 2222222:2020-09-29 10:05:14:890
+2020-09-29 10:05:14 ECH192.MainForm 2222222:2020-09-29 10:05:14:922
+2020-09-29 10:05:14 ECH192.MainForm 2222222:2020-09-29 10:05:14:973
+2020-09-29 10:05:15 ECH192.MainForm 2222222:2020-09-29 10:05:15:029
+2020-09-29 10:05:15 ECH192.MainForm 2222222:2020-09-29 10:05:15:089
+2020-09-29 10:06:06 ECH192.MainForm 2222222:2020-09-29 10:06:06:045
+2020-09-29 10:06:07 ECH192.MainForm 2222222:2020-09-29 10:06:07:434
+2020-09-29 10:06:10 ECH192.MainForm 2222222:2020-09-29 10:06:10:038
+2020-09-29 10:06:10 ECH192.MainForm 2222222:2020-09-29 10:06:10:121
+2020-09-29 10:06:10 ECH192.MainForm 2222222:2020-09-29 10:06:10:243
+2020-09-29 10:06:10 ECH192.MainForm 2222222:2020-09-29 10:06:10:328
+2020-09-29 10:06:17 ECH192.MainForm 2222222:2020-09-29 10:06:17:987
+2020-09-29 10:06:18 ECH192.MainForm 2222222:2020-09-29 10:06:18:132
+2020-09-29 10:06:18 ECH192.MainForm 2222222:2020-09-29 10:06:18:300
+2020-09-29 10:06:18 ECH192.MainForm 2222222:2020-09-29 10:06:18:377
+2020-09-29 10:06:18 ECH192.MainForm 2222222:2020-09-29 10:06:18:535
+2020-09-29 10:06:18 ECH192.MainForm 2222222:2020-09-29 10:06:18:680
+2020-09-29 10:06:39 ECH192.MainForm 2222222:2020-09-29 10:06:39:467
+2020-09-29 10:06:39 ECH192.MainForm 2222222:2020-09-29 10:06:39:679
+2020-09-29 10:06:39 ECH192.MainForm 2222222:2020-09-29 10:06:39:874
+2020-09-29 10:06:40 ECH192.MainForm 2222222:2020-09-29 10:06:40:078
+2020-09-29 10:06:40 ECH192.MainForm 2222222:2020-09-29 10:06:40:289
+2020-09-29 10:06:40 ECH192.MainForm 2222222:2020-09-29 10:06:40:553
+2020-09-29 10:09:26 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 10:09:26 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 10:09:26 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 10:09:26 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 10:09:26 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 10:09:26 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 10:09:26 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 10:09:26 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 10:09:26 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 10:09:26 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 10:09:26 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 10:09:26 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 10:09:26 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 10:09:26 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 10:09:26 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 10:09:26 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 10:12:40 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 10:12:40 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 10:12:40 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 10:12:40 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 10:12:40 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 10:12:40 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 10:12:40 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 10:12:40 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 10:12:40 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 10:12:40 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 10:12:40 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 10:12:40 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 10:12:40 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 10:12:40 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 10:12:40 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 10:12:40 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 10:15:06 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 10:15:06 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 10:15:06 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 10:15:06 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 10:15:06 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 10:15:06 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 10:15:06 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 10:15:06 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 10:15:06 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 10:15:06 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 10:15:06 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 10:15:06 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 10:15:06 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 10:15:06 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 10:15:06 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 10:15:07 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 10:16:28 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 10:16:28 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 10:16:28 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 10:16:28 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 10:16:28 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 10:16:28 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 10:16:28 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 10:16:28 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 10:16:28 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 10:16:28 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 10:16:28 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 10:16:28 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 10:16:28 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 10:16:28 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 10:16:28 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 10:16:28 commandServer Listener (192.168.14.18:8765) failed to start
+2020-09-29 10:21:34 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 10:21:34 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 10:21:34 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 10:21:34 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 10:21:34 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 10:21:34 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 10:21:34 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 10:21:34 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 10:21:34 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 10:21:34 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 10:21:34 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 10:21:34 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 10:21:34 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 10:21:34 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 10:21:34 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 10:21:34 commandServer Listener (192.168.14.33:8765) was started
+2020-09-29 11:05:19 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 11:05:20 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 11:05:20 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 11:05:20 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 11:05:20 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 11:05:20 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 11:05:20 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 11:05:20 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 11:05:20 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 11:05:20 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 11:05:20 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 11:05:20 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 11:05:20 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 11:05:20 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 11:05:20 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 11:05:20 commandServer Listener (192.168.14.33:8765) was started
+2020-09-29 11:10:35 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 11:10:35 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 11:10:35 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 11:10:35 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 11:10:35 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 11:10:35 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 11:10:35 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 11:10:35 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 11:10:35 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 11:10:35 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 11:10:35 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 11:10:35 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 11:10:35 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 11:10:35 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 11:10:35 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 11:10:35 commandServer Listener (192.168.14.33:8765) was started
+2020-09-29 11:19:09 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 11:19:09 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 11:19:09 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 11:19:09 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 11:19:09 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 11:19:09 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 11:19:09 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 11:19:09 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 11:19:09 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 11:19:09 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 11:19:09 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 11:19:09 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 11:19:09 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 11:19:09 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 11:19:09 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 11:19:09 commandServer Listener (192.168.14.33:8765) was started
+2020-09-29 11:19:25 ECH192.MainForm 2222222:2020-09-29 11:19:25:004
+2020-09-29 11:19:25 ECH192.MainForm 2222222:2020-09-29 11:19:25:006
+2020-09-29 11:19:25 ECH192.MainForm 2222222:2020-09-29 11:19:25:007
+2020-09-29 11:19:25 ECH192.MainForm 2222222:2020-09-29 11:19:25:009
+2020-09-29 11:19:25 ECH192.MainForm 2222222:2020-09-29 11:19:25:011
+2020-09-29 11:19:25 ECH192.MainForm 2222222:2020-09-29 11:19:25:016
+2020-09-29 11:19:26 ECH192.MainForm 2222222:2020-09-29 11:19:26:388
+2020-09-29 11:19:26 ECH192.MainForm 2222222:2020-09-29 11:19:26:395
+2020-09-29 11:19:26 ECH192.MainForm 2222222:2020-09-29 11:19:26:398
+2020-09-29 11:19:26 ECH192.MainForm 2222222:2020-09-29 11:19:26:400
+2020-09-29 11:19:26 ECH192.MainForm 2222222:2020-09-29 11:19:26:403
+2020-09-29 11:19:26 ECH192.MainForm 2222222:2020-09-29 11:19:26:405
+2020-09-29 11:19:28 ECH192.MainForm 2222222:2020-09-29 11:19:28:061
+2020-09-29 11:19:28 ECH192.MainForm 2222222:2020-09-29 11:19:28:066
+2020-09-29 11:19:28 ECH192.MainForm 2222222:2020-09-29 11:19:28:070
+2020-09-29 11:19:28 ECH192.MainForm 2222222:2020-09-29 11:19:28:073
+2020-09-29 11:19:28 ECH192.MainForm 2222222:2020-09-29 11:19:28:076
+2020-09-29 11:19:28 ECH192.MainForm 2222222:2020-09-29 11:19:28:082
+2020-09-29 11:19:29 ECH192.MainForm 2222222:2020-09-29 11:19:29:614
+2020-09-29 11:19:29 ECH192.MainForm 2222222:2020-09-29 11:19:29:619
+2020-09-29 11:19:29 ECH192.MainForm 2222222:2020-09-29 11:19:29:626
+2020-09-29 11:19:29 ECH192.MainForm 2222222:2020-09-29 11:19:29:633
+2020-09-29 11:19:29 ECH192.MainForm 2222222:2020-09-29 11:19:29:638
+2020-09-29 11:19:29 ECH192.MainForm 2222222:2020-09-29 11:19:29:645
+2020-09-29 11:19:36 ECH192.MainForm 2222222:2020-09-29 11:19:36:306
+2020-09-29 11:19:36 ECH192.MainForm 2222222:2020-09-29 11:19:36:309
+2020-09-29 11:19:36 ECH192.MainForm 2222222:2020-09-29 11:19:36:312
+2020-09-29 11:19:36 ECH192.MainForm 2222222:2020-09-29 11:19:36:315
+2020-09-29 11:19:36 ECH192.MainForm 2222222:2020-09-29 11:19:36:319
+2020-09-29 11:19:36 ECH192.MainForm 2222222:2020-09-29 11:19:36:322
+2020-09-29 11:19:37 ECH192.MainForm 2222222:2020-09-29 11:19:37:830
+2020-09-29 11:19:37 ECH192.MainForm 2222222:2020-09-29 11:19:37:839
+2020-09-29 11:19:37 ECH192.MainForm 2222222:2020-09-29 11:19:37:842
+2020-09-29 11:19:37 ECH192.MainForm 2222222:2020-09-29 11:19:37:846
+2020-09-29 11:19:37 ECH192.MainForm 2222222:2020-09-29 11:19:37:852
+2020-09-29 11:19:37 ECH192.MainForm 2222222:2020-09-29 11:19:37:856
+2020-09-29 11:19:39 ECH192.MainForm 2222222:2020-09-29 11:19:39:496
+2020-09-29 11:19:39 ECH192.MainForm 2222222:2020-09-29 11:19:39:501
+2020-09-29 11:19:39 ECH192.MainForm 2222222:2020-09-29 11:19:39:507
+2020-09-29 11:19:39 ECH192.MainForm 2222222:2020-09-29 11:19:39:511
+2020-09-29 11:19:39 ECH192.MainForm 2222222:2020-09-29 11:19:39:516
+2020-09-29 11:19:39 ECH192.MainForm 2222222:2020-09-29 11:19:39:520
+2020-09-29 11:21:34 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 11:21:34 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 11:21:34 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 11:21:34 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 11:21:34 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 11:21:34 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 11:21:34 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 11:21:34 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 11:21:34 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 11:21:34 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 11:21:34 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 11:21:34 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 11:21:34 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 11:21:34 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 11:21:34 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 11:21:34 commandServer Listener (192.168.14.33:8765) was started
+2020-09-29 11:21:41 ECH192.MainForm 2222222:2020-09-29 11:21:41:439
+2020-09-29 11:21:41 ECH192.MainForm 2222222:2020-09-29 11:21:41:445
+2020-09-29 11:21:41 ECH192.MainForm 2222222:2020-09-29 11:21:41:448
+2020-09-29 11:21:41 ECH192.MainForm 2222222:2020-09-29 11:21:41:451
+2020-09-29 11:21:41 ECH192.MainForm 2222222:2020-09-29 11:21:41:454
+2020-09-29 11:21:41 ECH192.MainForm 2222222:2020-09-29 11:21:41:458
+2020-09-29 11:21:43 ECH192.MainForm 2222222:2020-09-29 11:21:43:452
+2020-09-29 11:21:43 ECH192.MainForm 2222222:2020-09-29 11:21:43:457
+2020-09-29 11:21:43 ECH192.MainForm 2222222:2020-09-29 11:21:43:461
+2020-09-29 11:21:43 ECH192.MainForm 2222222:2020-09-29 11:21:43:470
+2020-09-29 11:21:43 ECH192.MainForm 2222222:2020-09-29 11:21:43:476
+2020-09-29 11:21:43 ECH192.MainForm 2222222:2020-09-29 11:21:43:483
+2020-09-29 11:21:45 ECH192.MainForm 2222222:2020-09-29 11:21:45:177
+2020-09-29 11:21:45 ECH192.MainForm 2222222:2020-09-29 11:21:45:179
+2020-09-29 11:21:45 ECH192.MainForm 2222222:2020-09-29 11:21:45:181
+2020-09-29 11:21:45 ECH192.MainForm 2222222:2020-09-29 11:21:45:182
+2020-09-29 11:21:45 ECH192.MainForm 2222222:2020-09-29 11:21:45:185
+2020-09-29 11:21:45 ECH192.MainForm 2222222:2020-09-29 11:21:45:187
+2020-09-29 11:21:46 ECH192.MainForm 2222222:2020-09-29 11:21:46:701
+2020-09-29 11:21:46 ECH192.MainForm 2222222:2020-09-29 11:21:46:705
+2020-09-29 11:21:46 ECH192.MainForm 2222222:2020-09-29 11:21:46:711
+2020-09-29 11:21:46 ECH192.MainForm 2222222:2020-09-29 11:21:46:715
+2020-09-29 11:21:46 ECH192.MainForm 2222222:2020-09-29 11:21:46:721
+2020-09-29 11:21:46 ECH192.MainForm 2222222:2020-09-29 11:21:46:724
+2020-09-29 11:21:48 ECH192.MainForm 2222222:2020-09-29 11:21:48:331
+2020-09-29 11:21:48 ECH192.MainForm 2222222:2020-09-29 11:21:48:334
+2020-09-29 11:21:48 ECH192.MainForm 2222222:2020-09-29 11:21:48:338
+2020-09-29 11:21:48 ECH192.MainForm 2222222:2020-09-29 11:21:48:341
+2020-09-29 11:21:48 ECH192.MainForm 2222222:2020-09-29 11:21:48:345
+2020-09-29 11:21:48 ECH192.MainForm 2222222:2020-09-29 11:21:48:348
+2020-09-29 11:21:53 ECH192.MainForm 2222222:2020-09-29 11:21:53:132
+2020-09-29 11:21:53 ECH192.MainForm 2222222:2020-09-29 11:21:53:136
+2020-09-29 11:21:53 ECH192.MainForm 2222222:2020-09-29 11:21:53:139
+2020-09-29 11:21:53 ECH192.MainForm 2222222:2020-09-29 11:21:53:147
+2020-09-29 11:21:53 ECH192.MainForm 2222222:2020-09-29 11:21:53:154
+2020-09-29 11:21:53 ECH192.MainForm 2222222:2020-09-29 11:21:53:160
+2020-09-29 11:22:49 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 11:22:49 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 11:22:49 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 11:22:49 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 11:22:49 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 11:22:49 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 11:22:49 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 11:22:49 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 11:22:49 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 11:22:49 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 11:22:49 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 11:22:49 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 11:22:49 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 11:22:49 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 11:22:49 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 11:22:49 commandServer Listener (192.168.14.33:8765) was started
+2020-09-29 11:22:55 ECH192.MainForm 2222222:2020-09-29 11:22:55:168
+2020-09-29 11:22:55 ECH192.MainForm 2222222:2020-09-29 11:22:55:171
+2020-09-29 11:22:55 ECH192.MainForm 2222222:2020-09-29 11:22:55:172
+2020-09-29 11:22:55 ECH192.MainForm 2222222:2020-09-29 11:22:55:173
+2020-09-29 11:22:55 ECH192.MainForm 2222222:2020-09-29 11:22:55:173
+2020-09-29 11:22:55 ECH192.MainForm 2222222:2020-09-29 11:22:55:175
+2020-09-29 11:22:56 ECH192.MainForm 2222222:2020-09-29 11:22:56:135
+2020-09-29 11:22:56 ECH192.MainForm 2222222:2020-09-29 11:22:56:136
+2020-09-29 11:22:56 ECH192.MainForm 2222222:2020-09-29 11:22:56:137
+2020-09-29 11:22:56 ECH192.MainForm 2222222:2020-09-29 11:22:56:139
+2020-09-29 11:22:56 ECH192.MainForm 2222222:2020-09-29 11:22:56:140
+2020-09-29 11:22:56 ECH192.MainForm 2222222:2020-09-29 11:22:56:141
+2020-09-29 11:22:56 ECH192.MainForm 2222222:2020-09-29 11:22:56:978
+2020-09-29 11:22:56 ECH192.MainForm 2222222:2020-09-29 11:22:56:980
+2020-09-29 11:22:56 ECH192.MainForm 2222222:2020-09-29 11:22:56:981
+2020-09-29 11:22:56 ECH192.MainForm 2222222:2020-09-29 11:22:56:982
+2020-09-29 11:22:56 ECH192.MainForm 2222222:2020-09-29 11:22:56:983
+2020-09-29 11:22:56 ECH192.MainForm 2222222:2020-09-29 11:22:56:985
+2020-09-29 11:22:57 ECH192.MainForm 2222222:2020-09-29 11:22:57:786
+2020-09-29 11:22:57 ECH192.MainForm 2222222:2020-09-29 11:22:57:788
+2020-09-29 11:22:57 ECH192.MainForm 2222222:2020-09-29 11:22:57:790
+2020-09-29 11:22:57 ECH192.MainForm 2222222:2020-09-29 11:22:57:792
+2020-09-29 11:22:57 ECH192.MainForm 2222222:2020-09-29 11:22:57:793
+2020-09-29 11:22:57 ECH192.MainForm 2222222:2020-09-29 11:22:57:795
+2020-09-29 11:22:58 ECH192.MainForm 2222222:2020-09-29 11:22:58:577
+2020-09-29 11:22:58 ECH192.MainForm 2222222:2020-09-29 11:22:58:580
+2020-09-29 11:22:58 ECH192.MainForm 2222222:2020-09-29 11:22:58:584
+2020-09-29 11:22:58 ECH192.MainForm 2222222:2020-09-29 11:22:58:587
+2020-09-29 11:22:58 ECH192.MainForm 2222222:2020-09-29 11:22:58:591
+2020-09-29 11:22:58 ECH192.MainForm 2222222:2020-09-29 11:22:58:596
+2020-09-29 11:22:59 ECH192.MainForm 2222222:2020-09-29 11:22:59:457
+2020-09-29 11:22:59 ECH192.MainForm 2222222:2020-09-29 11:22:59:460
+2020-09-29 11:22:59 ECH192.MainForm 2222222:2020-09-29 11:22:59:463
+2020-09-29 11:22:59 ECH192.MainForm 2222222:2020-09-29 11:22:59:465
+2020-09-29 11:22:59 ECH192.MainForm 2222222:2020-09-29 11:22:59:469
+2020-09-29 11:22:59 ECH192.MainForm 2222222:2020-09-29 11:22:59:471
+2020-09-29 11:23:00 ECH192.MainForm 2222222:2020-09-29 11:23:00:273
+2020-09-29 11:23:00 ECH192.MainForm 2222222:2020-09-29 11:23:00:279
+2020-09-29 11:23:00 ECH192.MainForm 2222222:2020-09-29 11:23:00:298
+2020-09-29 11:23:00 ECH192.MainForm 2222222:2020-09-29 11:23:00:303
+2020-09-29 11:23:00 ECH192.MainForm 2222222:2020-09-29 11:23:00:307
+2020-09-29 11:23:00 ECH192.MainForm 2222222:2020-09-29 11:23:00:313
+2020-09-29 11:23:03 ECH192.MainForm 2222222:2020-09-29 11:23:03:984
+2020-09-29 11:23:03 ECH192.MainForm 2222222:2020-09-29 11:23:03:987
+2020-09-29 11:23:03 ECH192.MainForm 2222222:2020-09-29 11:23:03:989
+2020-09-29 11:23:03 ECH192.MainForm 2222222:2020-09-29 11:23:03:993
+2020-09-29 11:23:03 ECH192.MainForm 2222222:2020-09-29 11:23:03:996
+2020-09-29 11:23:03 ECH192.MainForm 2222222:2020-09-29 11:23:03:998
+2020-09-29 11:23:04 ECH192.MainForm 2222222:2020-09-29 11:23:04:778
+2020-09-29 11:23:04 ECH192.MainForm 2222222:2020-09-29 11:23:04:795
+2020-09-29 11:23:04 ECH192.MainForm 2222222:2020-09-29 11:23:04:800
+2020-09-29 11:23:04 ECH192.MainForm 2222222:2020-09-29 11:23:04:803
+2020-09-29 11:23:04 ECH192.MainForm 2222222:2020-09-29 11:23:04:807
+2020-09-29 11:23:04 ECH192.MainForm 2222222:2020-09-29 11:23:04:810
+2020-09-29 11:23:05 ECH192.MainForm 2222222:2020-09-29 11:23:05:681
+2020-09-29 11:23:05 ECH192.MainForm 2222222:2020-09-29 11:23:05:685
+2020-09-29 11:23:05 ECH192.MainForm 2222222:2020-09-29 11:23:05:689
+2020-09-29 11:23:05 ECH192.MainForm 2222222:2020-09-29 11:23:05:692
+2020-09-29 11:23:05 ECH192.MainForm 2222222:2020-09-29 11:23:05:695
+2020-09-29 11:23:05 ECH192.MainForm 2222222:2020-09-29 11:23:05:699
+2020-09-29 11:23:06 ECH192.MainForm 2222222:2020-09-29 11:23:06:622
+2020-09-29 11:23:06 ECH192.MainForm 2222222:2020-09-29 11:23:06:628
+2020-09-29 11:23:06 ECH192.MainForm 2222222:2020-09-29 11:23:06:632
+2020-09-29 11:23:06 ECH192.MainForm 2222222:2020-09-29 11:23:06:636
+2020-09-29 11:23:06 ECH192.MainForm 2222222:2020-09-29 11:23:06:639
+2020-09-29 11:23:06 ECH192.MainForm 2222222:2020-09-29 11:23:06:642
+2020-09-29 11:23:07 ECH192.MainForm 2222222:2020-09-29 11:23:07:453
+2020-09-29 11:23:07 ECH192.MainForm 2222222:2020-09-29 11:23:07:457
+2020-09-29 11:23:07 ECH192.MainForm 2222222:2020-09-29 11:23:07:460
+2020-09-29 11:23:07 ECH192.MainForm 2222222:2020-09-29 11:23:07:465
+2020-09-29 11:23:07 ECH192.MainForm 2222222:2020-09-29 11:23:07:471
+2020-09-29 11:23:07 ECH192.MainForm 2222222:2020-09-29 11:23:07:474
+2020-09-29 11:23:08 ECH192.MainForm 2222222:2020-09-29 11:23:08:301
+2020-09-29 11:23:08 ECH192.MainForm 2222222:2020-09-29 11:23:08:305
+2020-09-29 11:23:08 ECH192.MainForm 2222222:2020-09-29 11:23:08:309
+2020-09-29 11:23:08 ECH192.MainForm 2222222:2020-09-29 11:23:08:315
+2020-09-29 11:23:08 ECH192.MainForm 2222222:2020-09-29 11:23:08:320
+2020-09-29 11:23:08 ECH192.MainForm 2222222:2020-09-29 11:23:08:324
+2020-09-29 11:23:09 ECH192.MainForm 2222222:2020-09-29 11:23:09:182
+2020-09-29 11:23:09 ECH192.MainForm 2222222:2020-09-29 11:23:09:185
+2020-09-29 11:23:09 ECH192.MainForm 2222222:2020-09-29 11:23:09:190
+2020-09-29 11:23:09 ECH192.MainForm 2222222:2020-09-29 11:23:09:194
+2020-09-29 11:23:09 ECH192.MainForm 2222222:2020-09-29 11:23:09:197
+2020-09-29 11:23:09 ECH192.MainForm 2222222:2020-09-29 11:23:09:201
+2020-09-29 11:23:10 ECH192.MainForm 2222222:2020-09-29 11:23:10:084
+2020-09-29 11:23:10 ECH192.MainForm 2222222:2020-09-29 11:23:10:088
+2020-09-29 11:23:10 ECH192.MainForm 2222222:2020-09-29 11:23:10:092
+2020-09-29 11:23:10 ECH192.MainForm 2222222:2020-09-29 11:23:10:096
+2020-09-29 11:23:10 ECH192.MainForm 2222222:2020-09-29 11:23:10:100
+2020-09-29 11:23:10 ECH192.MainForm 2222222:2020-09-29 11:23:10:104
+2020-09-29 11:23:10 ECH192.MainForm 2222222:2020-09-29 11:23:10:843
+2020-09-29 11:23:10 ECH192.MainForm 2222222:2020-09-29 11:23:10:848
+2020-09-29 11:23:10 ECH192.MainForm 2222222:2020-09-29 11:23:10:853
+2020-09-29 11:23:10 ECH192.MainForm 2222222:2020-09-29 11:23:10:858
+2020-09-29 11:23:10 ECH192.MainForm 2222222:2020-09-29 11:23:10:863
+2020-09-29 11:23:10 ECH192.MainForm 2222222:2020-09-29 11:23:10:867
+2020-09-29 11:23:11 ECH192.MainForm 2222222:2020-09-29 11:23:11:628
+2020-09-29 11:23:11 ECH192.MainForm 2222222:2020-09-29 11:23:11:633
+2020-09-29 11:23:11 ECH192.MainForm 2222222:2020-09-29 11:23:11:636
+2020-09-29 11:23:11 ECH192.MainForm 2222222:2020-09-29 11:23:11:643
+2020-09-29 11:23:11 ECH192.MainForm 2222222:2020-09-29 11:23:11:649
+2020-09-29 11:23:11 ECH192.MainForm 2222222:2020-09-29 11:23:11:658
+2020-09-29 11:23:12 ECH192.MainForm 2222222:2020-09-29 11:23:12:419
+2020-09-29 11:23:12 ECH192.MainForm 2222222:2020-09-29 11:23:12:423
+2020-09-29 11:23:12 ECH192.MainForm 2222222:2020-09-29 11:23:12:427
+2020-09-29 11:23:12 ECH192.MainForm 2222222:2020-09-29 11:23:12:435
+2020-09-29 11:23:12 ECH192.MainForm 2222222:2020-09-29 11:23:12:440
+2020-09-29 11:23:12 ECH192.MainForm 2222222:2020-09-29 11:23:12:445
+2020-09-29 11:23:13 ECH192.MainForm 2222222:2020-09-29 11:23:13:677
+2020-09-29 11:23:13 ECH192.MainForm 2222222:2020-09-29 11:23:13:684
+2020-09-29 11:23:13 ECH192.MainForm 2222222:2020-09-29 11:23:13:688
+2020-09-29 11:23:13 ECH192.MainForm 2222222:2020-09-29 11:23:13:693
+2020-09-29 11:23:13 ECH192.MainForm 2222222:2020-09-29 11:23:13:697
+2020-09-29 11:23:13 ECH192.MainForm 2222222:2020-09-29 11:23:13:714
+2020-09-29 11:23:14 ECH192.MainForm 2222222:2020-09-29 11:23:14:458
+2020-09-29 11:23:14 ECH192.MainForm 2222222:2020-09-29 11:23:14:461
+2020-09-29 11:23:14 ECH192.MainForm 2222222:2020-09-29 11:23:14:464
+2020-09-29 11:23:14 ECH192.MainForm 2222222:2020-09-29 11:23:14:467
+2020-09-29 11:23:14 ECH192.MainForm 2222222:2020-09-29 11:23:14:470
+2020-09-29 11:23:14 ECH192.MainForm 2222222:2020-09-29 11:23:14:474
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:223
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:227
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:231
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:238
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:242
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:246
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:526
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:533
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:538
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:542
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:545
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:550
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:886
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:892
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:898
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:901
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:912
+2020-09-29 11:23:15 ECH192.MainForm 2222222:2020-09-29 11:23:15:916
+2020-09-29 11:23:16 ECH192.MainForm 2222222:2020-09-29 11:23:16:315
+2020-09-29 11:23:16 ECH192.MainForm 2222222:2020-09-29 11:23:16:320
+2020-09-29 11:23:16 ECH192.MainForm 2222222:2020-09-29 11:23:16:325
+2020-09-29 11:23:16 ECH192.MainForm 2222222:2020-09-29 11:23:16:334
+2020-09-29 11:23:16 ECH192.MainForm 2222222:2020-09-29 11:23:16:338
+2020-09-29 11:23:16 ECH192.MainForm 2222222:2020-09-29 11:23:16:342
+2020-09-29 11:23:16 ECH192.MainForm 2222222:2020-09-29 11:23:16:702
+2020-09-29 11:23:16 ECH192.MainForm 2222222:2020-09-29 11:23:16:711
+2020-09-29 11:23:16 ECH192.MainForm 2222222:2020-09-29 11:23:16:717
+2020-09-29 11:23:16 ECH192.MainForm 2222222:2020-09-29 11:23:16:720
+2020-09-29 11:23:16 ECH192.MainForm 2222222:2020-09-29 11:23:16:728
+2020-09-29 11:23:16 ECH192.MainForm 2222222:2020-09-29 11:23:16:732
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:041
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:050
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:057
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:062
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:066
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:069
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:369
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:372
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:378
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:382
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:387
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:392
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:755
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:761
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:764
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:771
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:775
+2020-09-29 11:23:17 ECH192.MainForm 2222222:2020-09-29 11:23:17:779
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:124
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:129
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:138
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:150
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:153
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:156
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:438
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:442
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:445
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:452
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:459
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:467
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:750
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:753
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:756
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:759
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:762
+2020-09-29 11:23:18 ECH192.MainForm 2222222:2020-09-29 11:23:18:765
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:053
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:056
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:059
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:061
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:064
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:067
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:434
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:440
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:443
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:446
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:449
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:453
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:821
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:826
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:831
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:838
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:842
+2020-09-29 11:23:19 ECH192.MainForm 2222222:2020-09-29 11:23:19:847
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:188
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:194
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:197
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:207
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:213
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:219
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:510
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:513
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:517
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:520
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:524
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:530
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:849
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:854
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:858
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:863
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:866
+2020-09-29 11:23:20 ECH192.MainForm 2222222:2020-09-29 11:23:20:868
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:102
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:107
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:111
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:115
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:119
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:125
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:436
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:442
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:459
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:463
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:466
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:472
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:750
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:760
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:768
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:775
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:781
+2020-09-29 11:23:21 ECH192.MainForm 2222222:2020-09-29 11:23:21:787
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:134
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:137
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:142
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:146
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:150
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:155
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:498
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:506
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:512
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:519
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:526
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:531
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:873
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:879
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:889
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:897
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:904
+2020-09-29 11:23:22 ECH192.MainForm 2222222:2020-09-29 11:23:22:910
+2020-09-29 11:23:23 ECH192.MainForm 2222222:2020-09-29 11:23:23:253
+2020-09-29 11:23:23 ECH192.MainForm 2222222:2020-09-29 11:23:23:259
+2020-09-29 11:23:23 ECH192.MainForm 2222222:2020-09-29 11:23:23:268
+2020-09-29 11:23:23 ECH192.MainForm 2222222:2020-09-29 11:23:23:276
+2020-09-29 11:23:23 ECH192.MainForm 2222222:2020-09-29 11:23:23:282
+2020-09-29 11:23:23 ECH192.MainForm 2222222:2020-09-29 11:23:23:288
+2020-09-29 11:23:23 ECH192.MainForm 2222222:2020-09-29 11:23:23:633
+2020-09-29 11:23:23 ECH192.MainForm 2222222:2020-09-29 11:23:23:637
+2020-09-29 11:23:23 ECH192.MainForm 2222222:2020-09-29 11:23:23:640
+2020-09-29 11:23:23 ECH192.MainForm 2222222:2020-09-29 11:23:23:648
+2020-09-29 11:23:23 ECH192.MainForm 2222222:2020-09-29 11:23:23:653
+2020-09-29 11:23:23 ECH192.MainForm 2222222:2020-09-29 11:23:23:657
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:032
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:038
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:043
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:047
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:051
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:055
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:395
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:403
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:409
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:414
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:417
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:420
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:664
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:667
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:670
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:676
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:680
+2020-09-29 11:23:24 ECH192.MainForm 2222222:2020-09-29 11:23:24:684
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:019
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:023
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:027
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:032
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:037
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:042
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:392
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:396
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:400
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:405
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:413
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:419
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:724
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:727
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:730
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:733
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:738
+2020-09-29 11:23:25 ECH192.MainForm 2222222:2020-09-29 11:23:25:746
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:085
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:088
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:091
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:093
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:096
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:099
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:400
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:406
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:415
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:421
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:426
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:431
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:780
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:789
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:799
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:806
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:810
+2020-09-29 11:23:26 ECH192.MainForm 2222222:2020-09-29 11:23:26:814
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:147
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:151
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:155
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:159
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:164
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:169
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:477
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:484
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:492
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:499
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:505
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:511
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:867
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:875
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:880
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:884
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:890
+2020-09-29 11:23:27 ECH192.MainForm 2222222:2020-09-29 11:23:27:897
+2020-09-29 11:23:28 ECH192.MainForm 2222222:2020-09-29 11:23:28:231
+2020-09-29 11:23:28 ECH192.MainForm 2222222:2020-09-29 11:23:28:236
+2020-09-29 11:23:28 ECH192.MainForm 2222222:2020-09-29 11:23:28:241
+2020-09-29 11:23:28 ECH192.MainForm 2222222:2020-09-29 11:23:28:246
+2020-09-29 11:23:28 ECH192.MainForm 2222222:2020-09-29 11:23:28:250
+2020-09-29 11:23:28 ECH192.MainForm 2222222:2020-09-29 11:23:28:257
+2020-09-29 11:23:28 ECH192.MainForm 2222222:2020-09-29 11:23:28:579
+2020-09-29 11:23:28 ECH192.MainForm 2222222:2020-09-29 11:23:28:583
+2020-09-29 11:23:28 ECH192.MainForm 2222222:2020-09-29 11:23:28:587
+2020-09-29 11:23:28 ECH192.MainForm 2222222:2020-09-29 11:23:28:592
+2020-09-29 11:23:28 ECH192.MainForm 2222222:2020-09-29 11:23:28:595
+2020-09-29 11:23:28 ECH192.MainForm 2222222:2020-09-29 11:23:28:599
+2020-09-29 11:24:11 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 11:24:11 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 11:24:11 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 11:24:11 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 11:24:11 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 11:24:11 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 11:24:11 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 11:24:11 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 11:24:11 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 11:24:11 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 11:24:11 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 11:24:11 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 11:24:11 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 11:24:11 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 11:24:11 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 11:24:11 commandServer Listener (192.168.14.33:8765) was started
+2020-09-29 11:24:15 ECH192.MainForm 2222222:2020-09-29 11:24:15:635
+2020-09-29 11:24:15 ECH192.MainForm 2222222:2020-09-29 11:24:15:638
+2020-09-29 11:24:15 ECH192.MainForm 2222222:2020-09-29 11:24:15:639
+2020-09-29 11:24:15 ECH192.MainForm 2222222:2020-09-29 11:24:15:640
+2020-09-29 11:24:15 ECH192.MainForm 2222222:2020-09-29 11:24:15:641
+2020-09-29 11:24:15 ECH192.MainForm 2222222:2020-09-29 11:24:15:642
+2020-09-29 11:24:16 ECH192.MainForm 2222222:2020-09-29 11:24:16:611
+2020-09-29 11:24:16 ECH192.MainForm 2222222:2020-09-29 11:24:16:612
+2020-09-29 11:24:16 ECH192.MainForm 2222222:2020-09-29 11:24:16:613
+2020-09-29 11:24:16 ECH192.MainForm 2222222:2020-09-29 11:24:16:615
+2020-09-29 11:24:16 ECH192.MainForm 2222222:2020-09-29 11:24:16:617
+2020-09-29 11:24:16 ECH192.MainForm 2222222:2020-09-29 11:24:16:620
+2020-09-29 11:24:16 ECH192.MainForm 2222222:2020-09-29 11:24:16:851
+2020-09-29 11:24:16 ECH192.MainForm 2222222:2020-09-29 11:24:16:852
+2020-09-29 11:24:16 ECH192.MainForm 2222222:2020-09-29 11:24:16:854
+2020-09-29 11:24:16 ECH192.MainForm 2222222:2020-09-29 11:24:16:855
+2020-09-29 11:24:16 ECH192.MainForm 2222222:2020-09-29 11:24:16:856
+2020-09-29 11:24:16 ECH192.MainForm 2222222:2020-09-29 11:24:16:858
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:128
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:130
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:131
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:132
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:134
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:136
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:351
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:354
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:356
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:357
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:361
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:363
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:596
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:598
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:600
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:603
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:606
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:609
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:921
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:928
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:930
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:933
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:936
+2020-09-29 11:24:17 ECH192.MainForm 2222222:2020-09-29 11:24:17:942
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:222
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:224
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:227
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:230
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:233
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:235
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:524
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:531
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:538
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:543
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:550
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:555
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:839
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:843
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:847
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:850
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:855
+2020-09-29 11:24:18 ECH192.MainForm 2222222:2020-09-29 11:24:18:859
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:194
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:199
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:204
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:209
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:214
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:218
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:510
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:514
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:523
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:533
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:542
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:551
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:901
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:905
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:915
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:922
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:928
+2020-09-29 11:24:19 ECH192.MainForm 2222222:2020-09-29 11:24:19:933
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:230
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:232
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:235
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:242
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:246
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:254
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:649
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:656
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:672
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:677
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:681
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:685
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:965
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:971
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:977
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:984
+2020-09-29 11:24:20 ECH192.MainForm 2222222:2020-09-29 11:24:20:994
+2020-09-29 11:24:21 ECH192.MainForm 2222222:2020-09-29 11:24:21:006
+2020-09-29 11:24:21 ECH192.MainForm 2222222:2020-09-29 11:24:21:416
+2020-09-29 11:24:21 ECH192.MainForm 2222222:2020-09-29 11:24:21:429
+2020-09-29 11:24:21 ECH192.MainForm 2222222:2020-09-29 11:24:21:443
+2020-09-29 11:24:21 ECH192.MainForm 2222222:2020-09-29 11:24:21:452
+2020-09-29 11:24:21 ECH192.MainForm 2222222:2020-09-29 11:24:21:460
+2020-09-29 11:24:21 ECH192.MainForm 2222222:2020-09-29 11:24:21:467
+2020-09-29 11:24:21 ECH192.MainForm 2222222:2020-09-29 11:24:21:880
+2020-09-29 11:24:21 ECH192.MainForm 2222222:2020-09-29 11:24:21:894
+2020-09-29 11:24:21 ECH192.MainForm 2222222:2020-09-29 11:24:21:903
+2020-09-29 11:24:21 ECH192.MainForm 2222222:2020-09-29 11:24:21:912
+2020-09-29 11:24:21 ECH192.MainForm 2222222:2020-09-29 11:24:21:920
+2020-09-29 11:24:21 ECH192.MainForm 2222222:2020-09-29 11:24:21:928
+2020-09-29 11:24:22 ECH192.MainForm 2222222:2020-09-29 11:24:22:286
+2020-09-29 11:24:22 ECH192.MainForm 2222222:2020-09-29 11:24:22:294
+2020-09-29 11:24:22 ECH192.MainForm 2222222:2020-09-29 11:24:22:299
+2020-09-29 11:24:22 ECH192.MainForm 2222222:2020-09-29 11:24:22:305
+2020-09-29 11:24:22 ECH192.MainForm 2222222:2020-09-29 11:24:22:308
+2020-09-29 11:24:22 ECH192.MainForm 2222222:2020-09-29 11:24:22:315
+2020-09-29 11:24:22 ECH192.MainForm 2222222:2020-09-29 11:24:22:731
+2020-09-29 11:24:22 ECH192.MainForm 2222222:2020-09-29 11:24:22:756
+2020-09-29 11:24:22 ECH192.MainForm 2222222:2020-09-29 11:24:22:769
+2020-09-29 11:24:22 ECH192.MainForm 2222222:2020-09-29 11:24:22:779
+2020-09-29 11:24:22 ECH192.MainForm 2222222:2020-09-29 11:24:22:787
+2020-09-29 11:24:22 ECH192.MainForm 2222222:2020-09-29 11:24:22:797
+2020-09-29 11:24:23 ECH192.MainForm 2222222:2020-09-29 11:24:23:177
+2020-09-29 11:24:23 ECH192.MainForm 2222222:2020-09-29 11:24:23:184
+2020-09-29 11:24:23 ECH192.MainForm 2222222:2020-09-29 11:24:23:193
+2020-09-29 11:24:23 ECH192.MainForm 2222222:2020-09-29 11:24:23:200
+2020-09-29 11:24:23 ECH192.MainForm 2222222:2020-09-29 11:24:23:210
+2020-09-29 11:24:23 ECH192.MainForm 2222222:2020-09-29 11:24:23:218
+2020-09-29 11:24:23 ECH192.MainForm 2222222:2020-09-29 11:24:23:690
+2020-09-29 11:24:23 ECH192.MainForm 2222222:2020-09-29 11:24:23:696
+2020-09-29 11:24:23 ECH192.MainForm 2222222:2020-09-29 11:24:23:705
+2020-09-29 11:24:23 ECH192.MainForm 2222222:2020-09-29 11:24:23:716
+2020-09-29 11:24:23 ECH192.MainForm 2222222:2020-09-29 11:24:23:725
+2020-09-29 11:24:23 ECH192.MainForm 2222222:2020-09-29 11:24:23:736
+2020-09-29 11:24:24 ECH192.MainForm 2222222:2020-09-29 11:24:24:229
+2020-09-29 11:24:24 ECH192.MainForm 2222222:2020-09-29 11:24:24:237
+2020-09-29 11:24:24 ECH192.MainForm 2222222:2020-09-29 11:24:24:264
+2020-09-29 11:24:24 ECH192.MainForm 2222222:2020-09-29 11:24:24:274
+2020-09-29 11:24:24 ECH192.MainForm 2222222:2020-09-29 11:24:24:281
+2020-09-29 11:24:24 ECH192.MainForm 2222222:2020-09-29 11:24:24:289
+2020-09-29 11:24:24 ECH192.MainForm 2222222:2020-09-29 11:24:24:719
+2020-09-29 11:24:24 ECH192.MainForm 2222222:2020-09-29 11:24:24:727
+2020-09-29 11:24:24 ECH192.MainForm 2222222:2020-09-29 11:24:24:734
+2020-09-29 11:24:24 ECH192.MainForm 2222222:2020-09-29 11:24:24:742
+2020-09-29 11:24:24 ECH192.MainForm 2222222:2020-09-29 11:24:24:760
+2020-09-29 11:24:24 ECH192.MainForm 2222222:2020-09-29 11:24:24:771
+2020-09-29 11:24:25 ECH192.MainForm 2222222:2020-09-29 11:24:25:267
+2020-09-29 11:24:25 ECH192.MainForm 2222222:2020-09-29 11:24:25:278
+2020-09-29 11:24:25 ECH192.MainForm 2222222:2020-09-29 11:24:25:289
+2020-09-29 11:24:25 ECH192.MainForm 2222222:2020-09-29 11:24:25:297
+2020-09-29 11:24:25 ECH192.MainForm 2222222:2020-09-29 11:24:25:306
+2020-09-29 11:24:25 ECH192.MainForm 2222222:2020-09-29 11:24:25:315
+2020-09-29 11:24:25 ECH192.MainForm 2222222:2020-09-29 11:24:25:762
+2020-09-29 11:24:25 ECH192.MainForm 2222222:2020-09-29 11:24:25:771
+2020-09-29 11:24:25 ECH192.MainForm 2222222:2020-09-29 11:24:25:800
+2020-09-29 11:24:25 ECH192.MainForm 2222222:2020-09-29 11:24:25:810
+2020-09-29 11:24:25 ECH192.MainForm 2222222:2020-09-29 11:24:25:820
+2020-09-29 11:24:25 ECH192.MainForm 2222222:2020-09-29 11:24:25:831
+2020-09-29 11:24:26 ECH192.MainForm 2222222:2020-09-29 11:24:26:241
+2020-09-29 11:24:26 ECH192.MainForm 2222222:2020-09-29 11:24:26:249
+2020-09-29 11:24:26 ECH192.MainForm 2222222:2020-09-29 11:24:26:259
+2020-09-29 11:24:26 ECH192.MainForm 2222222:2020-09-29 11:24:26:267
+2020-09-29 11:24:26 ECH192.MainForm 2222222:2020-09-29 11:24:26:274
+2020-09-29 11:24:26 ECH192.MainForm 2222222:2020-09-29 11:24:26:283
+2020-09-29 11:24:26 ECH192.MainForm 2222222:2020-09-29 11:24:26:636
+2020-09-29 11:24:26 ECH192.MainForm 2222222:2020-09-29 11:24:26:648
+2020-09-29 11:24:26 ECH192.MainForm 2222222:2020-09-29 11:24:26:669
+2020-09-29 11:24:26 ECH192.MainForm 2222222:2020-09-29 11:24:26:680
+2020-09-29 11:24:26 ECH192.MainForm 2222222:2020-09-29 11:24:26:690
+2020-09-29 11:24:26 ECH192.MainForm 2222222:2020-09-29 11:24:26:700
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:163
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:170
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:180
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:202
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:210
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:218
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:694
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:709
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:718
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:725
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:732
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:739
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:761
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:775
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:785
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:791
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:801
+2020-09-29 11:24:27 ECH192.MainForm 2222222:2020-09-29 11:24:27:809
+2020-09-29 11:24:28 ECH192.MainForm 2222222:2020-09-29 11:24:28:286
+2020-09-29 11:24:28 ECH192.MainForm 2222222:2020-09-29 11:24:28:291
+2020-09-29 11:24:28 ECH192.MainForm 2222222:2020-09-29 11:24:28:295
+2020-09-29 11:24:28 ECH192.MainForm 2222222:2020-09-29 11:24:28:302
+2020-09-29 11:24:28 ECH192.MainForm 2222222:2020-09-29 11:24:28:308
+2020-09-29 11:24:28 ECH192.MainForm 2222222:2020-09-29 11:24:28:317
+2020-09-29 11:24:28 ECH192.MainForm 2222222:2020-09-29 11:24:28:715
+2020-09-29 11:24:28 ECH192.MainForm 2222222:2020-09-29 11:24:28:719
+2020-09-29 11:24:28 ECH192.MainForm 2222222:2020-09-29 11:24:28:724
+2020-09-29 11:24:28 ECH192.MainForm 2222222:2020-09-29 11:24:28:728
+2020-09-29 11:24:28 ECH192.MainForm 2222222:2020-09-29 11:24:28:736
+2020-09-29 11:24:28 ECH192.MainForm 2222222:2020-09-29 11:24:28:749
+2020-09-29 11:24:29 ECH192.MainForm 2222222:2020-09-29 11:24:29:150
+2020-09-29 11:24:29 ECH192.MainForm 2222222:2020-09-29 11:24:29:157
+2020-09-29 11:24:29 ECH192.MainForm 2222222:2020-09-29 11:24:29:164
+2020-09-29 11:24:29 ECH192.MainForm 2222222:2020-09-29 11:24:29:175
+2020-09-29 11:24:29 ECH192.MainForm 2222222:2020-09-29 11:24:29:186
+2020-09-29 11:24:29 ECH192.MainForm 2222222:2020-09-29 11:24:29:195
+2020-09-29 11:25:09 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 11:25:09 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 11:25:09 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 11:25:09 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 11:25:09 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 11:25:09 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 11:25:09 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 11:25:09 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 11:25:09 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 11:25:09 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 11:25:09 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 11:25:09 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 11:25:09 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 11:25:09 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 11:25:09 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 11:25:09 commandServer Listener (192.168.14.33:8765) was started
+2020-09-29 11:25:47 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-29 11:25:47 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-29 11:25:47 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-29 11:25:47 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-29 11:25:47 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-29 11:25:47 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-29 11:25:47 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-29 11:25:47 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-29 11:25:47 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-29 11:25:47 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-29 11:25:47 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-29 11:25:47 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-29 11:25:47 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-29 11:25:47 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-29 11:25:47 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-29 11:25:47 commandServer Listener (192.168.14.33:8765) was started
+2020-09-29 11:25:51 ECH192.MainForm 2222222:2020-09-29 11:25:51:428
+2020-09-29 11:25:51 ECH192.MainForm 2222222:2020-09-29 11:25:51:431
+2020-09-29 11:25:51 ECH192.MainForm 2222222:2020-09-29 11:25:51:432
+2020-09-29 11:25:51 ECH192.MainForm 2222222:2020-09-29 11:25:51:433
+2020-09-29 11:25:51 ECH192.MainForm 2222222:2020-09-29 11:25:51:434
+2020-09-29 11:25:51 ECH192.MainForm 2222222:2020-09-29 11:25:51:435
+2020-09-29 11:25:52 ECH192.MainForm 2222222:2020-09-29 11:25:52:387
+2020-09-29 11:25:52 ECH192.MainForm 2222222:2020-09-29 11:25:52:389
+2020-09-29 11:25:52 ECH192.MainForm 2222222:2020-09-29 11:25:52:391
+2020-09-29 11:25:52 ECH192.MainForm 2222222:2020-09-29 11:25:52:392
+2020-09-29 11:25:52 ECH192.MainForm 2222222:2020-09-29 11:25:52:395
+2020-09-29 11:25:52 ECH192.MainForm 2222222:2020-09-29 11:25:52:396
+2020-09-29 11:25:53 ECH192.MainForm 2222222:2020-09-29 11:25:53:045
+2020-09-29 11:25:53 ECH192.MainForm 2222222:2020-09-29 11:25:53:048
+2020-09-29 11:25:53 ECH192.MainForm 2222222:2020-09-29 11:25:53:050
+2020-09-29 11:25:53 ECH192.MainForm 2222222:2020-09-29 11:25:53:053
+2020-09-29 11:25:53 ECH192.MainForm 2222222:2020-09-29 11:25:53:055
+2020-09-29 11:25:53 ECH192.MainForm 2222222:2020-09-29 11:25:53:065
+2020-09-29 11:25:53 ECH192.MainForm 2222222:2020-09-29 11:25:53:738
+2020-09-29 11:25:53 ECH192.MainForm 2222222:2020-09-29 11:25:53:740
+2020-09-29 11:25:53 ECH192.MainForm 2222222:2020-09-29 11:25:53:743
+2020-09-29 11:25:53 ECH192.MainForm 2222222:2020-09-29 11:25:53:745
+2020-09-29 11:25:53 ECH192.MainForm 2222222:2020-09-29 11:25:53:746
+2020-09-29 11:25:53 ECH192.MainForm 2222222:2020-09-29 11:25:53:748
+2020-09-29 11:25:54 ECH192.MainForm 2222222:2020-09-29 11:25:54:330
+2020-09-29 11:25:54 ECH192.MainForm 2222222:2020-09-29 11:25:54:332
+2020-09-29 11:25:54 ECH192.MainForm 2222222:2020-09-29 11:25:54:336
+2020-09-29 11:25:54 ECH192.MainForm 2222222:2020-09-29 11:25:54:338
+2020-09-29 11:25:54 ECH192.MainForm 2222222:2020-09-29 11:25:54:340
+2020-09-29 11:25:54 ECH192.MainForm 2222222:2020-09-29 11:25:54:350
+2020-09-29 11:25:54 ECH192.MainForm 2222222:2020-09-29 11:25:54:963
+2020-09-29 11:25:54 ECH192.MainForm 2222222:2020-09-29 11:25:54:966
+2020-09-29 11:25:54 ECH192.MainForm 2222222:2020-09-29 11:25:54:971
+2020-09-29 11:25:54 ECH192.MainForm 2222222:2020-09-29 11:25:54:975
+2020-09-29 11:25:54 ECH192.MainForm 2222222:2020-09-29 11:25:54:978
+2020-09-29 11:25:54 ECH192.MainForm 2222222:2020-09-29 11:25:54:980
+2020-09-29 11:25:55 ECH192.MainForm 2222222:2020-09-29 11:25:55:560
+2020-09-29 11:25:55 ECH192.MainForm 2222222:2020-09-29 11:25:55:567
+2020-09-29 11:25:55 ECH192.MainForm 2222222:2020-09-29 11:25:55:571
+2020-09-29 11:25:55 ECH192.MainForm 2222222:2020-09-29 11:25:55:575
+2020-09-29 11:25:55 ECH192.MainForm 2222222:2020-09-29 11:25:55:580
+2020-09-29 11:25:55 ECH192.MainForm 2222222:2020-09-29 11:25:55:583
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:162
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:165
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:169
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:175
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:179
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:184
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:587
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:593
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:601
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:606
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:610
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:616
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:938
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:944
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:948
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:952
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:956
+2020-09-29 11:25:56 ECH192.MainForm 2222222:2020-09-29 11:25:56:959
+2020-09-29 11:25:57 ECH192.MainForm 2222222:2020-09-29 11:25:57:387
+2020-09-29 11:25:57 ECH192.MainForm 2222222:2020-09-29 11:25:57:392
+2020-09-29 11:25:57 ECH192.MainForm 2222222:2020-09-29 11:25:57:397
+2020-09-29 11:25:57 ECH192.MainForm 2222222:2020-09-29 11:25:57:404
+2020-09-29 11:25:57 ECH192.MainForm 2222222:2020-09-29 11:25:57:414
+2020-09-29 11:25:57 ECH192.MainForm 2222222:2020-09-29 11:25:57:420
+2020-09-29 11:25:57 ECH192.MainForm 2222222:2020-09-29 11:25:57:702
+2020-09-29 11:25:57 ECH192.MainForm 2222222:2020-09-29 11:25:57:709
+2020-09-29 11:25:57 ECH192.MainForm 2222222:2020-09-29 11:25:57:714
+2020-09-29 11:25:57 ECH192.MainForm 2222222:2020-09-29 11:25:57:721
+2020-09-29 11:25:57 ECH192.MainForm 2222222:2020-09-29 11:25:57:729
+2020-09-29 11:25:57 ECH192.MainForm 2222222:2020-09-29 11:25:57:734
+2020-09-29 11:25:58 ECH192.MainForm 2222222:2020-09-29 11:25:58:070
+2020-09-29 11:25:58 ECH192.MainForm 2222222:2020-09-29 11:25:58:079
+2020-09-29 11:25:58 ECH192.MainForm 2222222:2020-09-29 11:25:58:087
+2020-09-29 11:25:58 ECH192.MainForm 2222222:2020-09-29 11:25:58:107
+2020-09-29 11:25:58 ECH192.MainForm 2222222:2020-09-29 11:25:58:111
+2020-09-29 11:25:58 ECH192.MainForm 2222222:2020-09-29 11:25:58:118
+2020-09-29 11:25:58 ECH192.MainForm 2222222:2020-09-29 11:25:58:519
+2020-09-29 11:25:58 ECH192.MainForm 2222222:2020-09-29 11:25:58:528
+2020-09-29 11:25:58 ECH192.MainForm 2222222:2020-09-29 11:25:58:536
+2020-09-29 11:25:58 ECH192.MainForm 2222222:2020-09-29 11:25:58:555
+2020-09-29 11:25:58 ECH192.MainForm 2222222:2020-09-29 11:25:58:562
+2020-09-29 11:25:58 ECH192.MainForm 2222222:2020-09-29 11:25:58:574
+2020-09-29 11:25:58 ECH192.MainForm 2222222:2020-09-29 11:25:58:965
+2020-09-29 11:25:58 ECH192.MainForm 2222222:2020-09-29 11:25:58:974
+2020-09-29 11:25:58 ECH192.MainForm 2222222:2020-09-29 11:25:58:980
+2020-09-29 11:25:58 ECH192.MainForm 2222222:2020-09-29 11:25:58:998
+2020-09-29 11:25:59 ECH192.MainForm 2222222:2020-09-29 11:25:59:009
+2020-09-29 11:25:59 ECH192.MainForm 2222222:2020-09-29 11:25:59:014
+2020-09-29 11:25:59 ECH192.MainForm 2222222:2020-09-29 11:25:59:411
+2020-09-29 11:25:59 ECH192.MainForm 2222222:2020-09-29 11:25:59:417
+2020-09-29 11:25:59 ECH192.MainForm 2222222:2020-09-29 11:25:59:423
+2020-09-29 11:25:59 ECH192.MainForm 2222222:2020-09-29 11:25:59:431
+2020-09-29 11:25:59 ECH192.MainForm 2222222:2020-09-29 11:25:59:437
+2020-09-29 11:25:59 ECH192.MainForm 2222222:2020-09-29 11:25:59:446
+2020-09-29 11:25:59 ECH192.MainForm 2222222:2020-09-29 11:25:59:834
+2020-09-29 11:25:59 ECH192.MainForm 2222222:2020-09-29 11:25:59:837
+2020-09-29 11:25:59 ECH192.MainForm 2222222:2020-09-29 11:25:59:842
+2020-09-29 11:25:59 ECH192.MainForm 2222222:2020-09-29 11:25:59:849
+2020-09-29 11:25:59 ECH192.MainForm 2222222:2020-09-29 11:25:59:853
+2020-09-29 11:25:59 ECH192.MainForm 2222222:2020-09-29 11:25:59:858
+2020-09-29 11:26:00 ECH192.MainForm 2222222:2020-09-29 11:26:00:300
+2020-09-29 11:26:00 ECH192.MainForm 2222222:2020-09-29 11:26:00:310
+2020-09-29 11:26:00 ECH192.MainForm 2222222:2020-09-29 11:26:00:322
+2020-09-29 11:26:00 ECH192.MainForm 2222222:2020-09-29 11:26:00:329
+2020-09-29 11:26:00 ECH192.MainForm 2222222:2020-09-29 11:26:00:341
+2020-09-29 11:26:00 ECH192.MainForm 2222222:2020-09-29 11:26:00:361
+2020-09-29 11:26:00 ECH192.MainForm 2222222:2020-09-29 11:26:00:848
+2020-09-29 11:26:00 ECH192.MainForm 2222222:2020-09-29 11:26:00:855
+2020-09-29 11:26:00 ECH192.MainForm 2222222:2020-09-29 11:26:00:865
+2020-09-29 11:26:00 ECH192.MainForm 2222222:2020-09-29 11:26:00:872
+2020-09-29 11:26:00 ECH192.MainForm 2222222:2020-09-29 11:26:00:882
+2020-09-29 11:26:00 ECH192.MainForm 2222222:2020-09-29 11:26:00:888
+2020-09-29 11:26:01 ECH192.MainForm 2222222:2020-09-29 11:26:01:338
+2020-09-29 11:26:01 ECH192.MainForm 2222222:2020-09-29 11:26:01:351
+2020-09-29 11:26:01 ECH192.MainForm 2222222:2020-09-29 11:26:01:359
+2020-09-29 11:26:01 ECH192.MainForm 2222222:2020-09-29 11:26:01:367
+2020-09-29 11:26:01 ECH192.MainForm 2222222:2020-09-29 11:26:01:379
+2020-09-29 11:26:01 ECH192.MainForm 2222222:2020-09-29 11:26:01:393
+2020-09-29 11:26:01 ECH192.MainForm 2222222:2020-09-29 11:26:01:886
+2020-09-29 11:26:01 ECH192.MainForm 2222222:2020-09-29 11:26:01:906
+2020-09-29 11:26:01 ECH192.MainForm 2222222:2020-09-29 11:26:01:916
+2020-09-29 11:26:01 ECH192.MainForm 2222222:2020-09-29 11:26:01:922
+2020-09-29 11:26:01 ECH192.MainForm 2222222:2020-09-29 11:26:01:927
+2020-09-29 11:26:01 ECH192.MainForm 2222222:2020-09-29 11:26:01:933
+2020-09-29 11:26:02 ECH192.MainForm 2222222:2020-09-29 11:26:02:324
+2020-09-29 11:26:02 ECH192.MainForm 2222222:2020-09-29 11:26:02:329
+2020-09-29 11:26:02 ECH192.MainForm 2222222:2020-09-29 11:26:02:339
+2020-09-29 11:26:02 ECH192.MainForm 2222222:2020-09-29 11:26:02:352
+2020-09-29 11:26:02 ECH192.MainForm 2222222:2020-09-29 11:26:02:362
+2020-09-29 11:26:02 ECH192.MainForm 2222222:2020-09-29 11:26:02:371
+2020-09-29 11:26:02 ECH192.MainForm 2222222:2020-09-29 11:26:02:948
+2020-09-29 11:26:02 ECH192.MainForm 2222222:2020-09-29 11:26:02:954
+2020-09-29 11:26:02 ECH192.MainForm 2222222:2020-09-29 11:26:02:961
+2020-09-29 11:26:02 ECH192.MainForm 2222222:2020-09-29 11:26:02:975
+2020-09-29 11:26:02 ECH192.MainForm 2222222:2020-09-29 11:26:02:988
+2020-09-29 11:26:03 ECH192.MainForm 2222222:2020-09-29 11:26:03:004
+2020-09-29 11:26:03 ECH192.MainForm 2222222:2020-09-29 11:26:03:579
+2020-09-29 11:26:03 ECH192.MainForm 2222222:2020-09-29 11:26:03:591
+2020-09-29 11:26:03 ECH192.MainForm 2222222:2020-09-29 11:26:03:605
+2020-09-29 11:26:03 ECH192.MainForm 2222222:2020-09-29 11:26:03:615
+2020-09-29 11:26:03 ECH192.MainForm 2222222:2020-09-29 11:26:03:629
+2020-09-29 11:26:03 ECH192.MainForm 2222222:2020-09-29 11:26:03:637
+2020-09-29 11:26:04 ECH192.MainForm 2222222:2020-09-29 11:26:04:177
+2020-09-29 11:26:04 ECH192.MainForm 2222222:2020-09-29 11:26:04:184
+2020-09-29 11:26:04 ECH192.MainForm 2222222:2020-09-29 11:26:04:190
+2020-09-29 11:26:04 ECH192.MainForm 2222222:2020-09-29 11:26:04:200
+2020-09-29 11:26:04 ECH192.MainForm 2222222:2020-09-29 11:26:04:208
+2020-09-29 11:26:04 ECH192.MainForm 2222222:2020-09-29 11:26:04:215
+2020-09-29 11:26:04 ECH192.MainForm 2222222:2020-09-29 11:26:04:617
+2020-09-29 11:26:04 ECH192.MainForm 2222222:2020-09-29 11:26:04:624
+2020-09-29 11:26:04 ECH192.MainForm 2222222:2020-09-29 11:26:04:635
+2020-09-29 11:26:04 ECH192.MainForm 2222222:2020-09-29 11:26:04:645
+2020-09-29 11:26:04 ECH192.MainForm 2222222:2020-09-29 11:26:04:657
+2020-09-29 11:26:04 ECH192.MainForm 2222222:2020-09-29 11:26:04:669
+2020-09-29 11:26:05 ECH192.MainForm 2222222:2020-09-29 11:26:05:228
+2020-09-29 11:26:05 ECH192.MainForm 2222222:2020-09-29 11:26:05:242
+2020-09-29 11:26:05 ECH192.MainForm 2222222:2020-09-29 11:26:05:256
+2020-09-29 11:26:05 ECH192.MainForm 2222222:2020-09-29 11:26:05:265
+2020-09-29 11:26:05 ECH192.MainForm 2222222:2020-09-29 11:26:05:276
+2020-09-29 11:26:05 ECH192.MainForm 2222222:2020-09-29 11:26:05:287
+2020-09-29 11:26:05 ECH192.MainForm 2222222:2020-09-29 11:26:05:876
+2020-09-29 11:26:05 ECH192.MainForm 2222222:2020-09-29 11:26:05:886
+2020-09-29 11:26:05 ECH192.MainForm 2222222:2020-09-29 11:26:05:895
+2020-09-29 11:26:05 ECH192.MainForm 2222222:2020-09-29 11:26:05:902
+2020-09-29 11:26:05 ECH192.MainForm 2222222:2020-09-29 11:26:05:912
+2020-09-29 11:26:05 ECH192.MainForm 2222222:2020-09-29 11:26:05:920
+2020-09-29 11:26:06 ECH192.MainForm 2222222:2020-09-29 11:26:06:428
+2020-09-29 11:26:06 ECH192.MainForm 2222222:2020-09-29 11:26:06:433
+2020-09-29 11:26:06 ECH192.MainForm 2222222:2020-09-29 11:26:06:441
+2020-09-29 11:26:06 ECH192.MainForm 2222222:2020-09-29 11:26:06:447
+2020-09-29 11:26:06 ECH192.MainForm 2222222:2020-09-29 11:26:06:455
+2020-09-29 11:26:06 ECH192.MainForm 2222222:2020-09-29 11:26:06:461
+2020-09-29 11:26:06 ECH192.MainForm 2222222:2020-09-29 11:26:06:947
+2020-09-29 11:26:06 ECH192.MainForm 2222222:2020-09-29 11:26:06:961
+2020-09-29 11:26:06 ECH192.MainForm 2222222:2020-09-29 11:26:06:980
+2020-09-29 11:26:07 ECH192.MainForm 2222222:2020-09-29 11:26:07:004
+2020-09-29 11:26:07 ECH192.MainForm 2222222:2020-09-29 11:26:07:024
+2020-09-29 11:26:07 ECH192.MainForm 2222222:2020-09-29 11:26:07:039
+2020-09-29 11:26:07 ECH192.MainForm 2222222:2020-09-29 11:26:07:629
+2020-09-29 11:26:07 ECH192.MainForm 2222222:2020-09-29 11:26:07:650
+2020-09-29 11:26:07 ECH192.MainForm 2222222:2020-09-29 11:26:07:667
+2020-09-29 11:26:07 ECH192.MainForm 2222222:2020-09-29 11:26:07:685
+2020-09-29 11:26:07 ECH192.MainForm 2222222:2020-09-29 11:26:07:701
+2020-09-29 11:26:07 ECH192.MainForm 2222222:2020-09-29 11:26:07:714
+2020-09-29 11:26:08 ECH192.MainForm 2222222:2020-09-29 11:26:08:350
+2020-09-29 11:26:08 ECH192.MainForm 2222222:2020-09-29 11:26:08:363
+2020-09-29 11:26:08 ECH192.MainForm 2222222:2020-09-29 11:26:08:392
+2020-09-29 11:26:08 ECH192.MainForm 2222222:2020-09-29 11:26:08:404
+2020-09-29 11:26:08 ECH192.MainForm 2222222:2020-09-29 11:26:08:418
+2020-09-29 11:26:08 ECH192.MainForm 2222222:2020-09-29 11:26:08:430
+2020-09-29 11:26:09 ECH192.MainForm 2222222:2020-09-29 11:26:09:099
+2020-09-29 11:26:09 ECH192.MainForm 2222222:2020-09-29 11:26:09:121
+2020-09-29 11:26:09 ECH192.MainForm 2222222:2020-09-29 11:26:09:151
+2020-09-29 11:26:09 ECH192.MainForm 2222222:2020-09-29 11:26:09:167
+2020-09-29 11:26:09 ECH192.MainForm 2222222:2020-09-29 11:26:09:183
+2020-09-29 11:26:09 ECH192.MainForm 2222222:2020-09-29 11:26:09:199
+2020-09-29 11:26:09 ECH192.MainForm 2222222:2020-09-29 11:26:09:933
+2020-09-29 11:26:09 ECH192.MainForm 2222222:2020-09-29 11:26:09:973
+2020-09-29 11:26:10 ECH192.MainForm 2222222:2020-09-29 11:26:10:027
+2020-09-29 11:26:10 ECH192.MainForm 2222222:2020-09-29 11:26:10:052
+2020-09-29 11:26:10 ECH192.MainForm 2222222:2020-09-29 11:26:10:063
+2020-09-29 11:26:10 ECH192.MainForm 2222222:2020-09-29 11:26:10:072
+2020-09-29 11:26:10 ECH192.MainForm 2222222:2020-09-29 11:26:10:601
+2020-09-29 11:26:10 ECH192.MainForm 2222222:2020-09-29 11:26:10:628
+2020-09-29 11:26:10 ECH192.MainForm 2222222:2020-09-29 11:26:10:645
+2020-09-29 11:26:10 ECH192.MainForm 2222222:2020-09-29 11:26:10:660
+2020-09-29 11:26:10 ECH192.MainForm 2222222:2020-09-29 11:26:10:670
+2020-09-29 11:26:10 ECH192.MainForm 2222222:2020-09-29 11:26:10:682
+2020-09-29 11:26:11 ECH192.MainForm 2222222:2020-09-29 11:26:11:334
+2020-09-29 11:26:11 ECH192.MainForm 2222222:2020-09-29 11:26:11:341
+2020-09-29 11:26:11 ECH192.MainForm 2222222:2020-09-29 11:26:11:349
+2020-09-29 11:26:11 ECH192.MainForm 2222222:2020-09-29 11:26:11:363
+2020-09-29 11:26:11 ECH192.MainForm 2222222:2020-09-29 11:26:11:395
+2020-09-29 11:26:11 ECH192.MainForm 2222222:2020-09-29 11:26:11:411
+2020-09-29 11:26:11 ECH192.MainForm 2222222:2020-09-29 11:26:11:853
+2020-09-29 11:26:11 ECH192.MainForm 2222222:2020-09-29 11:26:11:857
+2020-09-29 11:26:11 ECH192.MainForm 2222222:2020-09-29 11:26:11:860
+2020-09-29 11:26:11 ECH192.MainForm 2222222:2020-09-29 11:26:11:864
+2020-09-29 11:26:11 ECH192.MainForm 2222222:2020-09-29 11:26:11:867
+2020-09-29 11:26:11 ECH192.MainForm 2222222:2020-09-29 11:26:11:870
+2020-09-29 11:26:12 ECH192.MainForm 2222222:2020-09-29 11:26:12:396
+2020-09-29 11:26:12 ECH192.MainForm 2222222:2020-09-29 11:26:12:403
+2020-09-29 11:26:12 ECH192.MainForm 2222222:2020-09-29 11:26:12:411
+2020-09-29 11:26:12 ECH192.MainForm 2222222:2020-09-29 11:26:12:421
+2020-09-29 11:26:12 ECH192.MainForm 2222222:2020-09-29 11:26:12:432
+2020-09-29 11:26:12 ECH192.MainForm 2222222:2020-09-29 11:26:12:441
+2020-09-29 11:26:12 ECH192.MainForm 2222222:2020-09-29 11:26:12:873
+2020-09-29 11:26:12 ECH192.MainForm 2222222:2020-09-29 11:26:12:882
+2020-09-29 11:26:12 ECH192.MainForm 2222222:2020-09-29 11:26:12:887
+2020-09-29 11:26:12 ECH192.MainForm 2222222:2020-09-29 11:26:12:892
+2020-09-29 11:26:12 ECH192.MainForm 2222222:2020-09-29 11:26:12:898
+2020-09-29 11:26:12 ECH192.MainForm 2222222:2020-09-29 11:26:12:910
+2020-09-29 11:26:13 ECH192.MainForm 2222222:2020-09-29 11:26:13:174
+2020-09-29 11:26:13 ECH192.MainForm 2222222:2020-09-29 11:26:13:189
+2020-09-29 11:26:13 ECH192.MainForm 2222222:2020-09-29 11:26:13:210
+2020-09-29 11:26:13 ECH192.MainForm 2222222:2020-09-29 11:26:13:233
+2020-09-29 11:26:13 ECH192.MainForm 2222222:2020-09-29 11:26:13:257
+2020-09-29 11:26:13 ECH192.MainForm 2222222:2020-09-29 11:26:13:304
+2020-09-29 11:26:14 ECH192.MainForm 2222222:2020-09-29 11:26:14:057
+2020-09-29 11:26:14 ECH192.MainForm 2222222:2020-09-29 11:26:14:090
+2020-09-29 11:26:14 ECH192.MainForm 2222222:2020-09-29 11:26:14:106
+2020-09-29 11:26:14 ECH192.MainForm 2222222:2020-09-29 11:26:14:120
+2020-09-29 11:26:14 ECH192.MainForm 2222222:2020-09-29 11:26:14:136
+2020-09-29 11:26:14 ECH192.MainForm 2222222:2020-09-29 11:26:14:169
+2020-09-29 11:26:14 ECH192.MainForm 2222222:2020-09-29 11:26:14:866
+2020-09-29 11:26:14 ECH192.MainForm 2222222:2020-09-29 11:26:14:894
+2020-09-29 11:26:14 ECH192.MainForm 2222222:2020-09-29 11:26:14:917
+2020-09-29 11:26:14 ECH192.MainForm 2222222:2020-09-29 11:26:14:938
+2020-09-29 11:26:14 ECH192.MainForm 2222222:2020-09-29 11:26:14:954
+2020-09-29 11:26:14 ECH192.MainForm 2222222:2020-09-29 11:26:14:971
+2020-09-29 11:26:15 ECH192.MainForm 2222222:2020-09-29 11:26:15:866
+2020-09-29 11:26:15 ECH192.MainForm 2222222:2020-09-29 11:26:15:879
+2020-09-29 11:26:15 ECH192.MainForm 2222222:2020-09-29 11:26:15:886
+2020-09-29 11:26:15 ECH192.MainForm 2222222:2020-09-29 11:26:15:894
+2020-09-29 11:26:15 ECH192.MainForm 2222222:2020-09-29 11:26:15:901
+2020-09-29 11:26:15 ECH192.MainForm 2222222:2020-09-29 11:26:15:911
+2020-09-29 11:26:45 ECH192.MainForm 2222222:2020-09-29 11:26:45:407
+2020-09-29 11:26:45 ECH192.MainForm 2222222:2020-09-29 11:26:45:427
+2020-09-29 11:26:45 ECH192.MainForm 2222222:2020-09-29 11:26:45:445
+2020-09-29 11:26:45 ECH192.MainForm 2222222:2020-09-29 11:26:45:463
+2020-09-29 11:26:45 ECH192.MainForm 2222222:2020-09-29 11:26:45:489
+2020-09-29 11:26:45 ECH192.MainForm 2222222:2020-09-29 11:26:45:510
+2020-09-29 11:26:46 ECH192.MainForm 2222222:2020-09-29 11:26:46:404
+2020-09-29 11:26:46 ECH192.MainForm 2222222:2020-09-29 11:26:46:434
+2020-09-29 11:26:46 ECH192.MainForm 2222222:2020-09-29 11:26:46:450
+2020-09-29 11:26:46 ECH192.MainForm 2222222:2020-09-29 11:26:46:465
+2020-09-29 11:26:46 ECH192.MainForm 2222222:2020-09-29 11:26:46:483
+2020-09-29 11:26:46 ECH192.MainForm 2222222:2020-09-29 11:26:46:502
+2020-09-29 11:26:47 ECH192.MainForm 2222222:2020-09-29 11:26:47:399
+2020-09-29 11:26:47 ECH192.MainForm 2222222:2020-09-29 11:26:47:417
+2020-09-29 11:26:47 ECH192.MainForm 2222222:2020-09-29 11:26:47:438
+2020-09-29 11:26:47 ECH192.MainForm 2222222:2020-09-29 11:26:47:459
+2020-09-29 11:26:47 ECH192.MainForm 2222222:2020-09-29 11:26:47:476
+2020-09-29 11:26:47 ECH192.MainForm 2222222:2020-09-29 11:26:47:491
+2020-09-29 11:26:48 ECH192.MainForm 2222222:2020-09-29 11:26:48:383
+2020-09-29 11:26:48 ECH192.MainForm 2222222:2020-09-29 11:26:48:425
+2020-09-29 11:26:48 ECH192.MainForm 2222222:2020-09-29 11:26:48:448
+2020-09-29 11:26:48 ECH192.MainForm 2222222:2020-09-29 11:26:48:473
+2020-09-29 11:26:48 ECH192.MainForm 2222222:2020-09-29 11:26:48:495
+2020-09-29 11:26:48 ECH192.MainForm 2222222:2020-09-29 11:26:48:514
+2020-09-29 11:26:49 ECH192.MainForm 2222222:2020-09-29 11:26:49:399
+2020-09-29 11:26:49 ECH192.MainForm 2222222:2020-09-29 11:26:49:414
+2020-09-29 11:26:49 ECH192.MainForm 2222222:2020-09-29 11:26:49:433
+2020-09-29 11:26:49 ECH192.MainForm 2222222:2020-09-29 11:26:49:450
+2020-09-29 11:26:49 ECH192.MainForm 2222222:2020-09-29 11:26:49:467
+2020-09-29 11:26:49 ECH192.MainForm 2222222:2020-09-29 11:26:49:482
+2020-09-29 11:26:50 ECH192.MainForm 2222222:2020-09-29 11:26:50:389
+2020-09-29 11:26:50 ECH192.MainForm 2222222:2020-09-29 11:26:50:413
+2020-09-29 11:26:50 ECH192.MainForm 2222222:2020-09-29 11:26:50:434
+2020-09-29 11:26:50 ECH192.MainForm 2222222:2020-09-29 11:26:50:464
+2020-09-29 11:26:50 ECH192.MainForm 2222222:2020-09-29 11:26:50:491
+2020-09-29 11:26:50 ECH192.MainForm 2222222:2020-09-29 11:26:50:535
+2020-09-29 11:26:51 ECH192.MainForm 2222222:2020-09-29 11:26:51:466
+2020-09-29 11:26:51 ECH192.MainForm 2222222:2020-09-29 11:26:51:489
+2020-09-29 11:26:51 ECH192.MainForm 2222222:2020-09-29 11:26:51:525
+2020-09-29 11:26:51 ECH192.MainForm 2222222:2020-09-29 11:26:51:554
+2020-09-29 11:26:51 ECH192.MainForm 2222222:2020-09-29 11:26:51:577
+2020-09-29 11:26:51 ECH192.MainForm 2222222:2020-09-29 11:26:51:598
+2020-09-29 11:26:52 ECH192.MainForm 2222222:2020-09-29 11:26:52:645
+2020-09-29 11:26:52 ECH192.MainForm 2222222:2020-09-29 11:26:52:668
+2020-09-29 11:26:52 ECH192.MainForm 2222222:2020-09-29 11:26:52:686
+2020-09-29 11:26:52 ECH192.MainForm 2222222:2020-09-29 11:26:52:704
+2020-09-29 11:26:52 ECH192.MainForm 2222222:2020-09-29 11:26:52:741
+2020-09-29 11:26:52 ECH192.MainForm 2222222:2020-09-29 11:26:52:767
+2020-09-29 11:26:53 ECH192.MainForm 2222222:2020-09-29 11:26:53:789
+2020-09-29 11:26:53 ECH192.MainForm 2222222:2020-09-29 11:26:53:820
+2020-09-29 11:26:53 ECH192.MainForm 2222222:2020-09-29 11:26:53:846
+2020-09-29 11:26:53 ECH192.MainForm 2222222:2020-09-29 11:26:53:893
+2020-09-29 11:26:53 ECH192.MainForm 2222222:2020-09-29 11:26:53:928
+2020-09-29 11:26:53 ECH192.MainForm 2222222:2020-09-29 11:26:53:954
+2020-09-29 11:26:54 ECH192.MainForm 2222222:2020-09-29 11:26:54:970
+2020-09-29 11:26:54 ECH192.MainForm 2222222:2020-09-29 11:26:54:994
+2020-09-29 11:26:55 ECH192.MainForm 2222222:2020-09-29 11:26:55:018
+2020-09-29 11:26:55 ECH192.MainForm 2222222:2020-09-29 11:26:55:077
+2020-09-29 11:26:55 ECH192.MainForm 2222222:2020-09-29 11:26:55:100
+2020-09-29 11:26:55 ECH192.MainForm 2222222:2020-09-29 11:26:55:122
+2020-09-29 11:26:56 ECH192.MainForm 2222222:2020-09-29 11:26:56:185
+2020-09-29 11:26:56 ECH192.MainForm 2222222:2020-09-29 11:26:56:213
+2020-09-29 11:26:56 ECH192.MainForm 2222222:2020-09-29 11:26:56:247
+2020-09-29 11:26:56 ECH192.MainForm 2222222:2020-09-29 11:26:56:276
+2020-09-29 11:26:56 ECH192.MainForm 2222222:2020-09-29 11:26:56:306
+2020-09-29 11:26:56 ECH192.MainForm 2222222:2020-09-29 11:26:56:335
+2020-09-29 11:26:57 ECH192.MainForm 2222222:2020-09-29 11:26:57:298
+2020-09-29 11:26:57 ECH192.MainForm 2222222:2020-09-29 11:26:57:352
+2020-09-29 11:26:57 ECH192.MainForm 2222222:2020-09-29 11:26:57:383
+2020-09-29 11:26:57 ECH192.MainForm 2222222:2020-09-29 11:26:57:406
+2020-09-29 11:26:57 ECH192.MainForm 2222222:2020-09-29 11:26:57:433
+2020-09-29 11:26:57 ECH192.MainForm 2222222:2020-09-29 11:26:57:455
+2020-09-29 11:26:58 ECH192.MainForm 2222222:2020-09-29 11:26:58:358
+2020-09-29 11:26:58 ECH192.MainForm 2222222:2020-09-29 11:26:58:379
+2020-09-29 11:26:58 ECH192.MainForm 2222222:2020-09-29 11:26:58:398
+2020-09-29 11:26:58 ECH192.MainForm 2222222:2020-09-29 11:26:58:413
+2020-09-29 11:26:58 ECH192.MainForm 2222222:2020-09-29 11:26:58:431
+2020-09-29 11:26:58 ECH192.MainForm 2222222:2020-09-29 11:26:58:448
+2020-09-29 11:26:59 ECH192.MainForm 2222222:2020-09-29 11:26:59:410
+2020-09-29 11:26:59 ECH192.MainForm 2222222:2020-09-29 11:26:59:452
+2020-09-29 11:26:59 ECH192.MainForm 2222222:2020-09-29 11:26:59:497
+2020-09-29 11:26:59 ECH192.MainForm 2222222:2020-09-29 11:26:59:526
+2020-09-29 11:26:59 ECH192.MainForm 2222222:2020-09-29 11:26:59:546
+2020-09-29 11:26:59 ECH192.MainForm 2222222:2020-09-29 11:26:59:561
+2020-09-29 11:27:00 ECH192.MainForm 2222222:2020-09-29 11:27:00:600
+2020-09-29 11:27:00 ECH192.MainForm 2222222:2020-09-29 11:27:00:638
+2020-09-29 11:27:00 ECH192.MainForm 2222222:2020-09-29 11:27:00:676
+2020-09-29 11:27:00 ECH192.MainForm 2222222:2020-09-29 11:27:00:718
+2020-09-29 11:27:00 ECH192.MainForm 2222222:2020-09-29 11:27:00:746
+2020-09-29 11:27:00 ECH192.MainForm 2222222:2020-09-29 11:27:00:770
+2020-09-29 11:27:01 ECH192.MainForm 2222222:2020-09-29 11:27:01:921
+2020-09-29 11:27:01 ECH192.MainForm 2222222:2020-09-29 11:27:01:942
+2020-09-29 11:27:01 ECH192.MainForm 2222222:2020-09-29 11:27:01:956
+2020-09-29 11:27:01 ECH192.MainForm 2222222:2020-09-29 11:27:01:973
+2020-09-29 11:27:01 ECH192.MainForm 2222222:2020-09-29 11:27:01:998
+2020-09-29 11:27:02 ECH192.MainForm 2222222:2020-09-29 11:27:02:024
+2020-09-29 11:27:02 ECH192.MainForm 2222222:2020-09-29 11:27:02:963
+2020-09-29 11:27:02 ECH192.MainForm 2222222:2020-09-29 11:27:02:997
+2020-09-29 11:27:03 ECH192.MainForm 2222222:2020-09-29 11:27:03:024
+2020-09-29 11:27:03 ECH192.MainForm 2222222:2020-09-29 11:27:03:054
+2020-09-29 11:27:03 ECH192.MainForm 2222222:2020-09-29 11:27:03:075
+2020-09-29 11:27:03 ECH192.MainForm 2222222:2020-09-29 11:27:03:097
+2020-09-29 11:27:04 ECH192.MainForm 2222222:2020-09-29 11:27:04:302
+2020-09-29 11:27:04 ECH192.MainForm 2222222:2020-09-29 11:27:04:326
+2020-09-29 11:27:04 ECH192.MainForm 2222222:2020-09-29 11:27:04:355
+2020-09-29 11:27:04 ECH192.MainForm 2222222:2020-09-29 11:27:04:384
+2020-09-29 11:27:04 ECH192.MainForm 2222222:2020-09-29 11:27:04:415
+2020-09-29 11:27:04 ECH192.MainForm 2222222:2020-09-29 11:27:04:446
+2020-09-29 11:27:05 ECH192.MainForm 2222222:2020-09-29 11:27:05:423
+2020-09-29 11:27:05 ECH192.MainForm 2222222:2020-09-29 11:27:05:433
+2020-09-29 11:27:05 ECH192.MainForm 2222222:2020-09-29 11:27:05:445
+2020-09-29 11:27:05 ECH192.MainForm 2222222:2020-09-29 11:27:05:460
+2020-09-29 11:27:05 ECH192.MainForm 2222222:2020-09-29 11:27:05:472
+2020-09-29 11:27:05 ECH192.MainForm 2222222:2020-09-29 11:27:05:483
+2020-09-29 11:27:06 ECH192.MainForm 2222222:2020-09-29 11:27:06:608
+2020-09-29 11:27:06 ECH192.MainForm 2222222:2020-09-29 11:27:06:637
+2020-09-29 11:27:06 ECH192.MainForm 2222222:2020-09-29 11:27:06:665
+2020-09-29 11:27:06 ECH192.MainForm 2222222:2020-09-29 11:27:06:723
+2020-09-29 11:27:06 ECH192.MainForm 2222222:2020-09-29 11:27:06:755
+2020-09-29 11:27:06 ECH192.MainForm 2222222:2020-09-29 11:27:06:783
+2020-09-29 11:27:07 ECH192.MainForm 2222222:2020-09-29 11:27:07:882
+2020-09-29 11:27:07 ECH192.MainForm 2222222:2020-09-29 11:27:07:926
+2020-09-29 11:27:07 ECH192.MainForm 2222222:2020-09-29 11:27:07:952
+2020-09-29 11:27:07 ECH192.MainForm 2222222:2020-09-29 11:27:07:977
+2020-09-29 11:27:08 ECH192.MainForm 2222222:2020-09-29 11:27:08:028
+2020-09-29 11:27:08 ECH192.MainForm 2222222:2020-09-29 11:27:08:057
+2020-09-29 11:27:09 ECH192.MainForm 2222222:2020-09-29 11:27:09:226
+2020-09-29 11:27:09 ECH192.MainForm 2222222:2020-09-29 11:27:09:260
+2020-09-29 11:27:09 ECH192.MainForm 2222222:2020-09-29 11:27:09:285
+2020-09-29 11:27:09 ECH192.MainForm 2222222:2020-09-29 11:27:09:311
+2020-09-29 11:27:09 ECH192.MainForm 2222222:2020-09-29 11:27:09:365
+2020-09-29 11:27:09 ECH192.MainForm 2222222:2020-09-29 11:27:09:398
+2020-09-29 11:27:10 ECH192.MainForm 2222222:2020-09-29 11:27:10:372
+2020-09-29 11:27:10 ECH192.MainForm 2222222:2020-09-29 11:27:10:398
+2020-09-29 11:27:10 ECH192.MainForm 2222222:2020-09-29 11:27:10:421
+2020-09-29 11:27:10 ECH192.MainForm 2222222:2020-09-29 11:27:10:439
+2020-09-29 11:27:10 ECH192.MainForm 2222222:2020-09-29 11:27:10:492
+2020-09-29 11:27:10 ECH192.MainForm 2222222:2020-09-29 11:27:10:514
+2020-09-29 11:27:11 ECH192.MainForm 2222222:2020-09-29 11:27:11:706
+2020-09-29 11:27:11 ECH192.MainForm 2222222:2020-09-29 11:27:11:748
+2020-09-29 11:27:11 ECH192.MainForm 2222222:2020-09-29 11:27:11:775
+2020-09-29 11:27:11 ECH192.MainForm 2222222:2020-09-29 11:27:11:835
+2020-09-29 11:27:11 ECH192.MainForm 2222222:2020-09-29 11:27:11:873
+2020-09-29 11:27:11 ECH192.MainForm 2222222:2020-09-29 11:27:11:903
+2020-09-29 11:27:13 ECH192.MainForm 2222222:2020-09-29 11:27:13:067
+2020-09-29 11:27:13 ECH192.MainForm 2222222:2020-09-29 11:27:13:116
+2020-09-29 11:27:13 ECH192.MainForm 2222222:2020-09-29 11:27:13:132
+2020-09-29 11:27:13 ECH192.MainForm 2222222:2020-09-29 11:27:13:155
+2020-09-29 11:27:13 ECH192.MainForm 2222222:2020-09-29 11:27:13:182
+2020-09-29 11:27:13 ECH192.MainForm 2222222:2020-09-29 11:27:13:211
+2020-09-29 11:27:14 ECH192.MainForm 2222222:2020-09-29 11:27:14:184
+2020-09-29 11:27:14 ECH192.MainForm 2222222:2020-09-29 11:27:14:207
+2020-09-29 11:27:14 ECH192.MainForm 2222222:2020-09-29 11:27:14:229
+2020-09-29 11:27:14 ECH192.MainForm 2222222:2020-09-29 11:27:14:257
+2020-09-29 11:27:14 ECH192.MainForm 2222222:2020-09-29 11:27:14:300
+2020-09-29 11:27:14 ECH192.MainForm 2222222:2020-09-29 11:27:14:337
+2020-09-29 11:27:15 ECH192.MainForm 2222222:2020-09-29 11:27:15:470
+2020-09-29 11:27:15 ECH192.MainForm 2222222:2020-09-29 11:27:15:499
+2020-09-29 11:27:15 ECH192.MainForm 2222222:2020-09-29 11:27:15:522
+2020-09-29 11:27:15 ECH192.MainForm 2222222:2020-09-29 11:27:15:566
+2020-09-29 11:27:15 ECH192.MainForm 2222222:2020-09-29 11:27:15:603
+2020-09-29 11:27:15 ECH192.MainForm 2222222:2020-09-29 11:27:15:635
+2020-09-29 11:27:16 ECH192.MainForm 2222222:2020-09-29 11:27:16:883
+2020-09-29 11:27:16 ECH192.MainForm 2222222:2020-09-29 11:27:16:905
+2020-09-29 11:27:16 ECH192.MainForm 2222222:2020-09-29 11:27:16:925
+2020-09-29 11:27:16 ECH192.MainForm 2222222:2020-09-29 11:27:16:939
+2020-09-29 11:27:16 ECH192.MainForm 2222222:2020-09-29 11:27:16:963
+2020-09-29 11:27:16 ECH192.MainForm 2222222:2020-09-29 11:27:16:997
+2020-09-29 11:27:18 ECH192.MainForm 2222222:2020-09-29 11:27:18:189
+2020-09-29 11:27:18 ECH192.MainForm 2222222:2020-09-29 11:27:18:220
+2020-09-29 11:27:18 ECH192.MainForm 2222222:2020-09-29 11:27:18:246
+2020-09-29 11:27:18 ECH192.MainForm 2222222:2020-09-29 11:27:18:281
+2020-09-29 11:27:18 ECH192.MainForm 2222222:2020-09-29 11:27:18:321
+2020-09-29 11:27:18 ECH192.MainForm 2222222:2020-09-29 11:27:18:363
+2020-09-29 11:27:19 ECH192.MainForm 2222222:2020-09-29 11:27:19:676
+2020-09-29 11:27:19 ECH192.MainForm 2222222:2020-09-29 11:27:19:698
+2020-09-29 11:27:19 ECH192.MainForm 2222222:2020-09-29 11:27:19:733
+2020-09-29 11:27:19 ECH192.MainForm 2222222:2020-09-29 11:27:19:776
+2020-09-29 11:27:19 ECH192.MainForm 2222222:2020-09-29 11:27:19:813
+2020-09-29 11:27:19 ECH192.MainForm 2222222:2020-09-29 11:27:19:849
+2020-09-29 11:27:21 ECH192.MainForm 2222222:2020-09-29 11:27:21:182
+2020-09-29 11:27:21 ECH192.MainForm 2222222:2020-09-29 11:27:21:212
+2020-09-29 11:27:21 ECH192.MainForm 2222222:2020-09-29 11:27:21:248
+2020-09-29 11:27:21 ECH192.MainForm 2222222:2020-09-29 11:27:21:306
+2020-09-29 11:27:21 ECH192.MainForm 2222222:2020-09-29 11:27:21:331
+2020-09-29 11:27:21 ECH192.MainForm 2222222:2020-09-29 11:27:21:354

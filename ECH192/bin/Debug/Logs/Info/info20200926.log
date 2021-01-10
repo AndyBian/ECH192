@@ -1,0 +1,241 @@
+﻿2020-09-26 10:09:19 commandServer The server instance commandServer has been started!
+2020-09-26 10:09:20 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 10:21:30 commandServer The server instance commandServer has been started!
+2020-09-26 10:21:31 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 10:21:58 ECH192.MainForm 设备连接成功
+2020-09-26 10:24:48 ECH192.MainForm Restart device successfully
+2020-09-26 10:26:08 ECH192.MainForm Restart device successfully
+2020-09-26 10:31:40 commandServer The server instance commandServer has been started!
+2020-09-26 10:31:41 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 10:32:02 ECH192.MainForm 设备连接成功
+2020-09-26 10:32:12 ECH192.MainForm 重启设备成功
+2020-09-26 10:32:32 CommunicationServer.TCPServer.CommandServer command server session close:192.168.14.48
+2020-09-26 10:32:37 ECH192.MainForm 设备失去连接
+2020-09-26 10:34:15 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 10:34:35 ECH192.MainForm 设备连接成功
+2020-09-26 10:35:47 commandServer The server instance commandServer has been started!
+2020-09-26 10:35:47 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 10:36:08 ECH192.MainForm 设备连接成功
+2020-09-26 10:37:29 commandServer The server instance commandServer has been started!
+2020-09-26 10:37:29 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 10:37:50 ECH192.MainForm 设备连接成功
+2020-09-26 10:40:53 commandServer The server instance commandServer has been started!
+2020-09-26 10:40:54 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 10:41:15 ECH192.MainForm 设备连接成功
+2020-09-26 10:42:22 commandServer The server instance commandServer has been started!
+2020-09-26 10:42:23 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 10:42:44 ECH192.MainForm 设备连接成功
+2020-09-26 10:57:36 commandServer The server instance commandServer has been started!
+2020-09-26 10:57:37 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 10:57:58 ECH192.MainForm 设备连接成功
+2020-09-26 10:58:46 commandServer The server instance commandServer has been started!
+2020-09-26 10:58:46 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 10:59:07 ECH192.MainForm 设备连接成功
+2020-09-26 11:03:44 commandServer The server instance commandServer has been started!
+2020-09-26 11:03:44 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 11:04:05 ECH192.MainForm 设备连接成功
+2020-09-26 11:07:46 commandServer The server instance commandServer has been started!
+2020-09-26 11:07:47 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 11:08:07 ECH192.MainForm 设备连接成功
+2020-09-26 15:12:33 commandServer The server instance commandServer has been started!
+2020-09-26 15:12:34 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 15:13:00 ECH192.MainForm 设备连接成功
+2020-09-26 15:14:11 commandServer The server instance commandServer has been started!
+2020-09-26 15:14:11 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 15:15:28 commandServer The server instance commandServer has been started!
+2020-09-26 15:15:28 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 15:17:56 commandServer The server instance commandServer has been started!
+2020-09-26 15:17:57 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 15:18:17 ECH192.MainForm 设备连接成功
+2020-09-26 15:19:22 commandServer The server instance commandServer has been started!
+2020-09-26 15:19:23 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 15:19:44 ECH192.MainForm 设备连接成功
+2020-09-26 15:20:53 commandServer The server instance commandServer has been started!
+2020-09-26 15:20:54 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 15:21:15 ECH192.MainForm 设备连接成功
+2020-09-26 15:22:39 commandServer The server instance commandServer has been started!
+2020-09-26 15:22:39 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 15:23:00 ECH192.MainForm 设备连接成功
+2020-09-26 15:27:53 commandServer The server instance commandServer has been started!
+2020-09-26 15:27:54 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 15:28:15 ECH192.MainForm 设备连接成功
+2020-09-26 15:28:25 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 15:28:25 ECH192.MainForm 设置IT法参数成功
+2020-09-26 15:31:30 commandServer The server instance commandServer has been started!
+2020-09-26 15:31:31 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 15:31:52 ECH192.MainForm 设备连接成功
+2020-09-26 15:35:22 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 15:35:22 ECH192.MainForm 设置IT法参数成功
+2020-09-26 15:40:10 commandServer The server instance commandServer has been started!
+2020-09-26 15:40:12 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 15:40:32 ECH192.MainForm 设备连接成功
+2020-09-26 15:40:42 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 15:40:42 ECH192.MainForm 设置IT法参数成功
+2020-09-26 15:42:04 commandServer The server instance commandServer has been started!
+2020-09-26 15:42:05 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 15:42:26 ECH192.MainForm 设备连接成功
+2020-09-26 15:42:36 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 15:42:36 ECH192.MainForm 设置IT法参数成功
+2020-09-26 15:46:06 commandServer The server instance commandServer has been started!
+2020-09-26 15:46:07 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 15:46:27 ECH192.MainForm 设备连接成功
+2020-09-26 15:46:37 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 15:46:37 ECH192.MainForm 设置IT法参数成功
+2020-09-26 15:48:40 commandServer The server instance commandServer has been started!
+2020-09-26 15:48:40 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 15:49:02 ECH192.MainForm 设备连接成功
+2020-09-26 15:49:12 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 15:49:12 ECH192.MainForm 设置IT法参数成功
+2020-09-26 15:53:55 commandServer The server instance commandServer has been started!
+2020-09-26 15:53:56 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 15:54:17 ECH192.MainForm 设备连接成功
+2020-09-26 15:54:47 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 15:54:47 ECH192.MainForm 设置IT法参数成功
+2020-09-26 16:02:04 commandServer The server instance commandServer has been started!
+2020-09-26 16:02:04 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 16:02:27 ECH192.MainForm 设备连接成功
+2020-09-26 16:04:26 commandServer The server instance commandServer has been started!
+2020-09-26 16:04:27 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 16:04:48 ECH192.MainForm 设备连接成功
+2020-09-26 16:05:18 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 16:05:18 ECH192.MainForm 设置IT法参数成功
+2020-09-26 16:08:25 commandServer The server instance commandServer has been started!
+2020-09-26 16:08:25 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 16:08:47 ECH192.MainForm 设备连接成功
+2020-09-26 16:10:04 commandServer The server instance commandServer has been started!
+2020-09-26 16:10:04 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 16:10:35 ECH192.MainForm 设备连接成功
+2020-09-26 16:10:35 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 16:10:35 ECH192.MainForm 设置IT法参数成功
+2020-09-26 16:18:09 commandServer The server instance commandServer has been started!
+2020-09-26 16:18:10 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 16:18:31 ECH192.MainForm 设备连接成功
+2020-09-26 16:18:41 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 16:18:41 ECH192.MainForm 设置IT法参数成功
+2020-09-26 16:39:25 commandServer The server instance commandServer has been started!
+2020-09-26 16:39:26 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 16:39:47 ECH192.MainForm 设备连接成功
+2020-09-26 16:39:57 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 16:39:57 ECH192.MainForm 设置IT法参数成功
+2020-09-26 16:40:17 ECH192.MainForm IT数据采集中
+2020-09-26 16:42:21 commandServer The server instance commandServer has been started!
+2020-09-26 16:42:21 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 16:42:43 ECH192.MainForm 设备连接成功
+2020-09-26 16:42:53 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 16:42:53 ECH192.MainForm 设置IT法参数成功
+2020-09-26 16:43:13 ECH192.MainForm IT数据采集中
+2020-09-26 16:43:23 ECH192.MainForm IT数据采集中
+2020-09-26 16:47:28 commandServer The server instance commandServer has been started!
+2020-09-26 16:47:28 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 16:47:49 ECH192.MainForm 设备连接成功
+2020-09-26 16:47:49 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 16:47:49 ECH192.MainForm 设置IT法参数成功
+2020-09-26 16:48:09 ECH192.MainForm IT数据采集中
+2020-09-26 16:48:19 ECH192.MainForm IT数据采集中
+2020-09-26 16:48:45 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 16:48:45 ECH192.MainForm 设置IT法参数成功
+2020-09-26 16:49:06 ECH192.MainForm IT数据采集中
+2020-09-26 16:49:16 ECH192.MainForm IT数据采集中
+2020-09-26 16:51:09 commandServer The server instance commandServer has been started!
+2020-09-26 16:51:10 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 16:51:31 ECH192.MainForm 设备连接成功
+2020-09-26 16:52:01 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 16:52:01 ECH192.MainForm 设置IT法参数成功
+2020-09-26 16:52:21 ECH192.MainForm IT数据采集中
+2020-09-26 16:52:31 ECH192.MainForm IT数据采集中
+2020-09-26 16:54:20 commandServer The server instance commandServer has been started!
+2020-09-26 16:54:21 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 16:54:42 ECH192.MainForm 设备连接成功
+2020-09-26 16:56:22 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 16:56:22 ECH192.MainForm 设置IT法参数成功
+2020-09-26 16:56:42 ECH192.MainForm IT数据采集中
+2020-09-26 16:56:52 ECH192.MainForm IT数据采集中
+2020-09-26 16:57:12 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 16:57:12 ECH192.MainForm 设置IT法参数成功
+2020-09-26 16:57:33 ECH192.MainForm IT数据采集中
+2020-09-26 16:57:43 ECH192.MainForm IT数据采集中
+2020-09-26 16:58:49 commandServer The server instance commandServer has been started!
+2020-09-26 16:58:49 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 16:59:10 ECH192.MainForm 设备连接成功
+2020-09-26 16:59:20 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 16:59:20 ECH192.MainForm 设置IT法参数成功
+2020-09-26 16:59:41 ECH192.MainForm IT数据采集中
+2020-09-26 16:59:51 ECH192.MainForm IT数据采集中
+2020-09-26 17:00:02 ECH192.MainForm IT数据采集中
+2020-09-26 17:00:12 ECH192.MainForm IT数据采集中
+2020-09-26 17:00:23 ECH192.MainForm IT数据采集中
+2020-09-26 17:00:33 ECH192.MainForm IT数据采集中
+2020-09-26 17:00:43 ECH192.MainForm IT数据采集中
+2020-09-26 17:00:54 ECH192.MainForm IT数据采集中
+2020-09-26 17:01:04 ECH192.MainForm IT数据采集中
+2020-09-26 17:01:15 ECH192.MainForm IT数据采集中
+2020-09-26 17:04:07 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 17:04:07 commandServer Session: cabea33c-9ce4-4942-b495-ad443a69908f/192.168.14.48:53538
+This session was closed for ApplicationError!
+2020-09-26 17:04:07 CommunicationServer.TCPServer.CommandServer command server session close:192.168.14.48
+2020-09-26 17:04:07 ECH192.MainForm 设备失去连接
+2020-09-26 17:04:27 ECH192.MainForm 设备连接成功
+2020-09-26 17:10:59 commandServer The server instance commandServer has been started!
+2020-09-26 17:11:00 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 17:11:51 ECH192.MainForm 设备连接成功
+2020-09-26 17:12:21 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 17:12:23 ECH192.MainForm 设置IT法参数成功
+2020-09-26 17:12:58 ECH192.MainForm IT数据采集中
+2020-09-26 17:13:29 ECH192.MainForm IT数据采集中
+2020-09-26 17:14:06 ECH192.MainForm IT数据采集中
+2020-09-26 17:14:25 ECH192.MainForm IT数据采集中
+2020-09-26 17:35:01 commandServer The server instance commandServer has been started!
+2020-09-26 17:35:02 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 17:35:34 ECH192.MainForm 设备连接成功
+2020-09-26 17:36:02 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 17:36:03 ECH192.MainForm 设置IT法参数成功
+2020-09-26 17:41:11 commandServer The server instance commandServer has been started!
+2020-09-26 17:41:12 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 17:41:33 ECH192.MainForm 设备连接成功
+2020-09-26 17:42:23 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 17:42:23 ECH192.MainForm 设置IT法参数成功
+2020-09-26 17:47:43 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 17:48:04 ECH192.MainForm 设备连接成功
+2020-09-26 17:49:13 commandServer Session: 2b773779-35e7-4da2-83c0-b740d057254c/192.168.14.48:54776
+The session will be closed for 389.9763715 timeout, the session start time: 2020/9/26 17:41:12, last active time: 2020/9/26 17:42:43!
+2020-09-26 17:49:13 commandServer Session: 2b773779-35e7-4da2-83c0-b740d057254c/192.168.14.48:54776
+This session was closed for TimeOut!
+2020-09-26 17:49:13 CommunicationServer.TCPServer.CommandServer command server session close:192.168.14.48
+2020-09-26 17:49:13 ECH192.MainForm 设备失去连接
+2020-09-26 17:57:00 commandServer The server instance commandServer has been started!
+2020-09-26 17:57:01 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 17:57:22 ECH192.MainForm 设备连接成功
+2020-09-26 17:57:32 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 17:57:32 ECH192.MainForm 设置IT法参数成功
+2020-09-26 17:58:02 ECH192.MainForm IT数据采集中
+2020-09-26 17:58:13 ECH192.MainForm IT数据采集中
+2020-09-26 17:58:23 ECH192.MainForm IT数据采集中
+2020-09-26 17:58:33 ECH192.MainForm IT数据采集中
+2020-09-26 17:58:43 ECH192.MainForm IT数据采集中
+2020-09-26 17:58:53 ECH192.MainForm IT数据采集中
+2020-09-26 17:59:03 ECH192.MainForm IT数据采集中
+2020-09-26 17:59:14 ECH192.MainForm IT数据采集中
+2020-09-26 17:59:24 ECH192.MainForm IT数据采集中
+2020-09-26 18:02:34 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 18:02:34 ECH192.MainForm 设置IT法参数成功
+2020-09-26 18:02:54 ECH192.MainForm IT数据采集中
+2020-09-26 18:03:04 ECH192.MainForm IT数据采集中
+2020-09-26 18:03:14 ECH192.MainForm IT数据采集中
+2020-09-26 18:03:24 ECH192.MainForm IT数据采集中
+2020-09-26 18:03:34 ECH192.MainForm IT数据采集中
+2020-09-26 18:03:44 ECH192.MainForm IT数据采集中
+2020-09-26 18:03:54 ECH192.MainForm IT数据采集中
+2020-09-26 18:04:04 ECH192.MainForm IT数据采集中
+2020-09-26 18:04:14 ECH192.MainForm IT数据采集中
+2020-09-26 18:04:24 ECH192.MainForm IT数据采集中
+2020-09-26 18:04:54 ECH192.MainForm 重启设备成功
+2020-09-26 18:05:04 CommunicationServer.TCPServer.CommandServer command server session close:192.168.14.48
+2020-09-26 18:05:04 ECH192.MainForm 设备失去连接
+2020-09-26 18:06:09 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 18:06:29 ECH192.MainForm 设备连接成功
+2020-09-26 18:08:49 commandServer The server instance commandServer has been started!
+2020-09-26 18:08:50 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-09-26 18:09:11 ECH192.MainForm 设备连接成功
+2020-09-26 18:16:51 ECH192.MainForm 设置灵敏度参数成功
+2020-09-26 18:16:51 ECH192.MainForm 设置IT法参数成功
+2020-09-26 18:17:21 ECH192.MainForm IT数据采集中

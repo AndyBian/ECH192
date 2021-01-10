@@ -1,0 +1,88 @@
+﻿2020-09-26 09:59:54 commandServer Listener (192.168.0.84:40001) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-09-26 10:05:56 commandServer Listener (192.168.0.84:40001) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-09-26 15:28:25 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 15:28:25 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 15:35:22 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 15:35:22 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 15:40:42 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 15:40:42 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 15:42:36 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 15:42:36 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 15:42:46 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 15:46:37 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 15:46:37 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 15:46:47 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 15:49:12 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 15:49:12 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 15:49:22 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 15:54:47 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 15:54:47 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 15:54:57 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 16:05:18 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 16:05:18 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 16:05:28 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 16:10:35 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 16:10:35 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 16:10:45 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 16:18:41 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 16:18:41 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 16:18:51 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 16:39:57 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 16:39:57 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 16:40:07 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 16:42:53 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 16:42:53 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 16:43:03 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 16:47:49 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 16:47:49 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 16:47:59 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 16:48:45 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 16:48:45 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 16:48:55 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 16:52:01 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 16:52:01 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 16:52:11 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 16:56:22 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 16:56:22 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 16:56:32 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 16:57:12 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 16:57:12 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 16:57:22 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 16:59:20 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 16:59:20 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 16:59:30 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 17:04:07 commandServer CommunicationServer.TCPServer.CommandSession
+System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: startIndex
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.BitConverter.ToInt32(Byte[] value, Int32 startIndex)
+   在 CommunicationServer.Protocol.Command.CMDGetSampleData.ExecuteCommand(CommandSession session, ECHRequestInfo requestInfo) 位置 E:\ECH192\ECH192\CommunicationServer\Protocol\Command\CMDGetSampleData.cs:行号 45
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(IAppSession session, TRequestInfo requestInfo)
+   在 SuperSocket.SocketBase.AppSession`2.SuperSocket.SocketBase.IAppSession.ProcessRequest(Byte[] readBuffer, Int32 offset, Int32 length, Boolean toBeCopied)
+2020-09-26 17:12:21 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 17:12:23 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 17:12:40 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 17:36:02 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 17:36:03 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 17:36:17 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 17:42:23 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 17:42:23 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 17:42:33 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 17:57:32 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 17:57:32 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 17:57:42 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 18:02:34 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 18:02:34 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 18:02:44 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-09-26 18:16:51 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-09-26 18:16:51 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-09-26 18:17:01 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!

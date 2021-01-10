@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{646826D6-BB8D-41D5-BFD3-E44BFC3D42A5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ECH192</RootNamespace>
+    <AssemblyName>ECH192</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Monitor.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LiteDB, Version=4.1.4.0, Culture=neutral, PublicKeyToken=4ee40123013c9f27, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiteDB.4.1.4\lib\net40\LiteDB.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.9.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.9\lib\net45\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.Common, Version=1.6.6.1, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <HintPath>..\packages\SuperSocket.1.6.6.1\lib\net45\SuperSocket.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.Facility, Version=1.6.6.1, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <HintPath>..\packages\SuperSocket.1.6.6.1\lib\net45\SuperSocket.Facility.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.SocketBase, Version=1.6.6.1, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <HintPath>..\packages\SuperSocket.1.6.6.1\lib\net45\SuperSocket.SocketBase.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.SocketEngine, Version=1.6.6.1, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <HintPath>..\packages\SuperSocket.Engine.1.6.6.1\lib\net45\SuperSocket.SocketEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.SocketService, Version=1.6.6.1, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <HintPath>..\packages\SuperSocket.Engine.1.6.6.1\lib\net45\SuperSocket.SocketService.exe</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entity\Enum\StepEnum.cs" />
+    <Compile Include="Entity\NodeChn.cs" />
+    <Compile Include="Entity\StepInfo.cs" />
+    <Compile Include="Entity\TestParam.cs" />
+    <Compile Include="SysControl\CheckDataGridView.cs" />
+    <Compile Include="SysControl\SystemParam.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resource\IconResource.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IconResource.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SysControl\UtilHelp.cs" />
+    <Compile Include="UI\Arrow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Arrow.Designer.cs">
+      <DependentUpon>Arrow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CVRealTest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\CVRealTest.Designer.cs">
+      <DependentUpon>CVRealTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CVTest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\CVTest.Designer.cs">
+      <DependentUpon>CVTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DataSourceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DataSourceForm.Designer.cs">
+      <DependentUpon>DataSourceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ITRealTest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\ITRealTest.Designer.cs">
+      <DependentUpon>ITRealTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ITTest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\ITTest.Designer.cs">
+      <DependentUpon>ITTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\MainStep.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\MainStep.Designer.cs">
+      <DependentUpon>MainStep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\MsgForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\MsgForm.Designer.cs">
+      <DependentUpon>MsgForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\StepInterface.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\StepInterface.Designer.cs">
+      <DependentUpon>StepInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ZoomCVRealForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ZoomCVRealForm.Designer.cs">
+      <DependentUpon>ZoomCVRealForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ZoomITRealForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ZoomITRealForm.Designer.cs">
+      <DependentUpon>ZoomITRealForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Resource\IconResource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>IconResource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Arrow.resx">
+      <DependentUpon>Arrow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\CVRealTest.resx">
+      <DependentUpon>CVRealTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\CVTest.resx">
+      <DependentUpon>CVTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DataSourceForm.resx">
+      <DependentUpon>DataSourceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ITRealTest.resx">
+      <DependentUpon>ITRealTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ITTest.resx">
+      <DependentUpon>ITTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\MainStep.resx">
+      <DependentUpon>MainStep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\MsgForm.resx">
+      <DependentUpon>MsgForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\StepInterface.resx">
+      <DependentUpon>StepInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ZoomCVRealForm.resx">
+      <DependentUpon>ZoomCVRealForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ZoomITRealForm.resx">
+      <DependentUpon>ZoomITRealForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Config\log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Config\log4net.unix.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="supersocket.cmd" />
+    <None Include="supersocket.sh" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MetroFramework.txt" />
+    <Content Include="Monitor.ico" />
+    <None Include="Resource\mainstop.png" />
+    <None Include="Resource\mainplay.png" />
+    <None Include="Resource\start.png" />
+    <None Include="Resource\unplay.png" />
+    <None Include="Resource\gplay.png" />
+    <None Include="Resource\up.png" />
+    <None Include="Resource\stop.png" />
+    <None Include="Resource\play.png" />
+    <None Include="Resource\grayplay.png" />
+    <None Include="Resource\down.png" />
+    <None Include="Resource\delete.png" />
+    <None Include="Resource\cancel.png" />
+    <None Include="Resource\arrow.png" />
+    <None Include="Resource\add.png" />
+    <None Include="Resource\yellow.png" />
+    <None Include="Resource\red.png" />
+    <None Include="Resource\green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CommunicationServer\CommunicationServer.csproj">
+      <Project>{ebdd0593-e174-41c7-99e9-37a8d65f6de5}</Project>
+      <Name>CommunicationServer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

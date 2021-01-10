@@ -1,0 +1,817 @@
+﻿2020-10-08 14:50:07 commandServer The server instance commandServer has been started!
+2020-10-08 14:50:08 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 14:50:32 ECH192.MainForm 设备连接成功
+2020-10-08 14:50:42 ECH192.MainForm 停止采集数据
+2020-10-08 14:50:52 ECH192.MainForm 停止采集数据
+2020-10-08 14:51:02 ECH192.MainForm 停止采集数据
+2020-10-08 14:51:12 ECH192.MainForm 停止采集数据
+2020-10-08 14:51:22 ECH192.MainForm 停止采集数据
+2020-10-08 14:51:32 ECH192.MainForm 停止采集数据
+2020-10-08 14:51:42 ECH192.MainForm 停止采集数据
+2020-10-08 14:51:52 ECH192.MainForm 停止采集数据
+2020-10-08 14:52:02 ECH192.MainForm 停止采集数据
+2020-10-08 14:52:12 ECH192.MainForm 停止采集数据
+2020-10-08 14:52:22 ECH192.MainForm 停止采集数据
+2020-10-08 14:52:32 ECH192.MainForm 停止采集数据
+2020-10-08 14:52:43 ECH192.MainForm 停止采集数据
+2020-10-08 14:52:53 ECH192.MainForm 停止采集数据
+2020-10-08 14:53:03 ECH192.MainForm 停止采集数据
+2020-10-08 14:53:13 ECH192.MainForm 停止采集数据
+2020-10-08 14:53:23 ECH192.MainForm 停止采集数据
+2020-10-08 14:53:33 ECH192.MainForm 停止采集数据
+2020-10-08 14:53:43 ECH192.MainForm 停止采集数据
+2020-10-08 14:53:53 ECH192.MainForm 停止采集数据
+2020-10-08 14:56:18 commandServer The server instance commandServer has been started!
+2020-10-08 14:56:18 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 14:56:40 ECH192.MainForm 设备连接成功
+2020-10-08 14:56:50 ECH192.MainForm 停止采集数据
+2020-10-08 14:57:00 ECH192.MainForm 停止采集数据
+2020-10-08 14:57:10 ECH192.MainForm 停止采集数据
+2020-10-08 14:57:20 ECH192.MainForm 停止采集数据
+2020-10-08 14:57:30 ECH192.MainForm 停止采集数据
+2020-10-08 14:57:40 ECH192.MainForm 停止采集数据
+2020-10-08 14:57:50 ECH192.MainForm 停止采集数据
+2020-10-08 14:58:00 ECH192.MainForm 停止采集数据
+2020-10-08 14:58:10 ECH192.MainForm 停止采集数据
+2020-10-08 14:58:20 ECH192.MainForm 停止采集数据
+2020-10-08 14:58:30 ECH192.MainForm 停止采集数据
+2020-10-08 14:58:40 ECH192.MainForm 停止采集数据
+2020-10-08 14:58:40 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 14:58:40 ECH192.MainForm 设置IT法参数成功
+2020-10-08 14:58:50 ECH192.MainForm 开始采集数据
+2020-10-08 14:59:00 ECH192.MainForm IT数据采集中
+2020-10-08 15:12:28 commandServer The server instance commandServer has been started!
+2020-10-08 15:12:28 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 15:12:50 ECH192.MainForm 设备连接成功
+2020-10-08 15:13:00 ECH192.MainForm 停止采集数据
+2020-10-08 15:13:10 ECH192.MainForm 停止采集数据
+2020-10-08 15:13:10 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 15:13:10 ECH192.MainForm 设置IT法参数成功
+2020-10-08 15:13:20 ECH192.MainForm 开始采集数据
+2020-10-08 15:13:31 ECH192.MainForm IT数据采集中--9%
+2020-10-08 15:22:22 commandServer The server instance commandServer has been started!
+2020-10-08 15:22:22 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 15:23:45 commandServer The server instance commandServer has been started!
+2020-10-08 15:23:45 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 15:24:07 ECH192.MainForm 设备连接成功
+2020-10-08 15:24:17 ECH192.MainForm 停止采集数据
+2020-10-08 15:24:27 ECH192.MainForm 停止采集数据
+2020-10-08 15:24:37 ECH192.MainForm 停止采集数据
+2020-10-08 15:24:47 ECH192.MainForm 停止采集数据
+2020-10-08 15:24:57 ECH192.MainForm 停止采集数据
+2020-10-08 15:25:07 ECH192.MainForm 停止采集数据
+2020-10-08 15:25:17 ECH192.MainForm 停止采集数据
+2020-10-08 15:25:17 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 15:25:17 ECH192.MainForm 设置IT法参数成功
+2020-10-08 15:25:27 ECH192.MainForm 开始采集数据
+2020-10-08 15:25:37 ECH192.MainForm 停止采集数据
+2020-10-08 15:25:37 ECH192.MainForm IT数据采集中--9%
+2020-10-08 15:25:43 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 15:25:43 ECH192.MainForm 设置IT法参数成功
+2020-10-08 15:25:53 ECH192.MainForm IT数据采集中--9%
+2020-10-08 15:25:53 ECH192.MainForm 开始采集数据
+2020-10-08 15:26:03 ECH192.MainForm IT数据采集中--9%
+2020-10-08 15:26:03 ECH192.MainForm IT数据采集中--9%
+2020-10-08 15:26:13 ECH192.MainForm IT数据采集中--19%
+2020-10-08 15:26:14 ECH192.MainForm IT数据采集中--19%
+2020-10-08 15:26:24 ECH192.MainForm IT数据采集中--29%
+2020-10-08 15:26:24 ECH192.MainForm IT数据采集中--29%
+2020-10-08 15:26:35 ECH192.MainForm IT数据采集中--40%
+2020-10-08 15:26:35 ECH192.MainForm IT数据采集中--40%
+2020-10-08 15:26:45 ECH192.MainForm IT数据采集中--50%
+2020-10-08 15:26:46 ECH192.MainForm IT数据采集中--51%
+2020-10-08 15:26:56 ECH192.MainForm IT数据采集中--61%
+2020-10-08 15:26:56 ECH192.MainForm IT数据采集中--61%
+2020-10-08 15:27:07 ECH192.MainForm IT数据采集中--72%
+2020-10-08 15:27:07 ECH192.MainForm IT数据采集中--72%
+2020-10-08 15:27:18 ECH192.MainForm IT数据采集中--83%
+2020-10-08 15:27:18 ECH192.MainForm IT数据采集中--83%
+2020-10-08 15:27:28 ECH192.MainForm IT数据采集中--93%
+2020-10-08 15:27:29 ECH192.MainForm IT数据采集中--94%
+2020-10-08 15:27:39 ECH192.MainForm IT数据采集中--100%
+2020-10-08 15:27:40 ECH192.MainForm IT数据采集中--100%
+2020-10-08 15:27:50 ECH192.MainForm 停止采集数据
+2020-10-08 15:27:50 ECH192.MainForm 停止采集数据
+2020-10-08 15:28:00 ECH192.MainForm 停止采集数据
+2020-10-08 15:28:00 ECH192.MainForm 停止采集数据
+2020-10-08 15:28:10 ECH192.MainForm 停止采集数据
+2020-10-08 15:28:10 ECH192.MainForm 停止采集数据
+2020-10-08 15:28:20 ECH192.MainForm 停止采集数据
+2020-10-08 15:28:20 ECH192.MainForm 停止采集数据
+2020-10-08 15:28:37 ECH192.MainForm 停止采集数据
+2020-10-08 15:28:37 ECH192.MainForm 停止采集数据
+2020-10-08 15:28:37 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 15:29:37 commandServer The server instance commandServer has been started!
+2020-10-08 15:29:37 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 15:30:41 commandServer The server instance commandServer has been started!
+2020-10-08 15:30:42 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 15:31:04 ECH192.MainForm 设备连接成功
+2020-10-08 15:31:28 ECH192.MainForm 停止采集数据
+2020-10-08 15:31:28 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 15:31:38 ECH192.MainForm 设置CV法参数成功
+2020-10-08 15:31:48 ECH192.MainForm 开始采集数据
+2020-10-08 15:32:07 CommunicationServer.TCPServer.CommandServer command server session close:192.168.14.48
+2020-10-08 15:32:07 ECH192.MainForm 设备失去连接
+2020-10-08 15:34:32 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 15:35:17 commandServer The server instance commandServer has been started!
+2020-10-08 15:35:18 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 15:35:40 ECH192.MainForm 设备连接成功
+2020-10-08 15:35:50 ECH192.MainForm 停止采集数据
+2020-10-08 15:36:09 commandServer The server instance commandServer has been started!
+2020-10-08 15:36:10 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 15:36:48 ECH192.MainForm 设备连接成功
+2020-10-08 15:37:51 ECH192.MainForm 停止采集数据
+2020-10-08 15:38:01 ECH192.MainForm 停止采集数据
+2020-10-08 15:38:01 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 15:38:01 ECH192.MainForm 设置CV法参数成功
+2020-10-08 15:38:11 ECH192.MainForm 开始采集数据
+2020-10-08 15:38:30 CommunicationServer.TCPServer.CommandServer command server session close:192.168.14.48
+2020-10-08 15:38:30 ECH192.MainForm 设备失去连接
+2020-10-08 15:39:27 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 15:39:39 commandServer The server instance commandServer has been started!
+2020-10-08 15:39:40 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 15:41:18 commandServer The server instance commandServer has been started!
+2020-10-08 15:41:18 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 15:41:40 ECH192.MainForm 设备连接成功
+2020-10-08 15:41:50 ECH192.MainForm 停止采集数据
+2020-10-08 15:42:00 ECH192.MainForm 停止采集数据
+2020-10-08 15:42:00 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 15:42:00 ECH192.MainForm 设置IT法参数成功
+2020-10-08 15:42:10 ECH192.MainForm 开始采集数据
+2020-10-08 15:42:20 ECH192.MainForm IT数据采集中--9%
+2020-10-08 15:42:31 ECH192.MainForm IT数据采集中--19%
+2020-10-08 15:42:41 ECH192.MainForm IT数据采集中--29%
+2020-10-08 15:42:51 ECH192.MainForm IT数据采集中--40%
+2020-10-08 15:43:01 ECH192.MainForm IT数据采集中--50%
+2020-10-08 15:44:29 ECH192.MainForm IT数据采集中--60%
+2020-10-08 15:44:40 ECH192.MainForm IT数据采集中--100%
+2020-10-08 15:44:50 ECH192.MainForm 停止采集数据
+2020-10-08 15:45:00 ECH192.MainForm 停止采集数据
+2020-10-08 15:45:10 ECH192.MainForm 停止采集数据
+2020-10-08 15:46:06 commandServer The server instance commandServer has been started!
+2020-10-08 15:46:06 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 15:46:29 ECH192.MainForm 设备连接成功
+2020-10-08 15:46:39 ECH192.MainForm 停止采集数据
+2020-10-08 15:46:49 ECH192.MainForm 停止采集数据
+2020-10-08 15:46:59 ECH192.MainForm 停止采集数据
+2020-10-08 15:47:09 ECH192.MainForm 停止采集数据
+2020-10-08 15:47:19 ECH192.MainForm 停止采集数据
+2020-10-08 15:47:29 ECH192.MainForm 停止采集数据
+2020-10-08 15:47:39 ECH192.MainForm 停止采集数据
+2020-10-08 15:47:49 ECH192.MainForm 停止采集数据
+2020-10-08 15:47:59 ECH192.MainForm 停止采集数据
+2020-10-08 15:47:59 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 15:47:59 ECH192.MainForm 设置IT法参数成功
+2020-10-08 15:48:09 ECH192.MainForm 开始采集数据
+2020-10-08 15:48:19 ECH192.MainForm IT数据采集中--9%
+2020-10-08 15:48:30 ECH192.MainForm IT数据采集中--19%
+2020-10-08 15:48:40 ECH192.MainForm IT数据采集中--29%
+2020-10-08 15:48:50 ECH192.MainForm IT数据采集中--39%
+2020-10-08 15:49:00 ECH192.MainForm IT数据采集中--50%
+2020-10-08 15:49:10 ECH192.MainForm IT数据采集中--60%
+2020-10-08 15:49:20 ECH192.MainForm IT数据采集中--70%
+2020-10-08 15:49:31 ECH192.MainForm IT数据采集中--80%
+2020-10-08 15:49:41 ECH192.MainForm IT数据采集中--90%
+2020-10-08 15:49:51 ECH192.MainForm IT数据采集中--100%
+2020-10-08 15:50:01 ECH192.MainForm 停止采集数据
+2020-10-08 15:50:11 ECH192.MainForm 停止采集数据
+2020-10-08 15:50:21 ECH192.MainForm 停止采集数据
+2020-10-08 15:50:21 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 15:50:21 ECH192.MainForm 设置IT法参数成功
+2020-10-08 15:50:31 ECH192.MainForm 开始采集数据
+2020-10-08 15:50:42 ECH192.MainForm IT数据采集中--9%
+2020-10-08 15:50:52 ECH192.MainForm IT数据采集中--19%
+2020-10-08 15:51:02 ECH192.MainForm IT数据采集中--29%
+2020-10-08 15:51:12 ECH192.MainForm IT数据采集中--39%
+2020-10-08 15:51:23 ECH192.MainForm IT数据采集中--50%
+2020-10-08 15:51:33 ECH192.MainForm IT数据采集中--60%
+2020-10-08 15:51:43 ECH192.MainForm IT数据采集中--70%
+2020-10-08 15:51:54 ECH192.MainForm IT数据采集中--81%
+2020-10-08 15:52:04 ECH192.MainForm IT数据采集中--91%
+2020-10-08 15:52:14 ECH192.MainForm IT数据采集中--100%
+2020-10-08 15:52:24 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 15:52:24 ECH192.MainForm 设置CV法参数成功
+2020-10-08 15:52:34 ECH192.MainForm 开始采集数据
+2020-10-08 15:52:53 CommunicationServer.TCPServer.CommandServer command server session close:192.168.14.48
+2020-10-08 15:52:53 ECH192.MainForm 设备失去连接
+2020-10-08 15:57:37 commandServer The server instance commandServer has been started!
+2020-10-08 15:57:37 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 15:57:59 ECH192.MainForm 设备连接成功
+2020-10-08 15:58:09 ECH192.MainForm 停止采集数据
+2020-10-08 15:58:19 ECH192.MainForm 停止采集数据
+2020-10-08 15:58:29 ECH192.MainForm 停止采集数据
+2020-10-08 15:58:29 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 15:58:29 ECH192.MainForm 设置IT法参数成功
+2020-10-08 15:58:39 ECH192.MainForm 开始采集数据
+2020-10-08 15:58:49 ECH192.MainForm IT数据采集中--9%
+2020-10-08 15:58:59 ECH192.MainForm IT数据采集中--19%
+2020-10-08 15:59:10 ECH192.MainForm IT数据采集中--29%
+2020-10-08 15:59:20 ECH192.MainForm IT数据采集中--39%
+2020-10-08 15:59:30 ECH192.MainForm IT数据采集中--50%
+2020-10-08 15:59:30 ECH192.MainForm 停止采集数据
+2020-10-08 15:59:40 ECH192.MainForm IT数据采集中--50%
+2020-10-08 16:01:28 commandServer The server instance commandServer has been started!
+2020-10-08 16:01:29 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 16:01:50 ECH192.MainForm 设备连接成功
+2020-10-08 16:02:00 ECH192.MainForm 停止采集数据
+2020-10-08 16:02:10 ECH192.MainForm 停止采集数据
+2020-10-08 16:02:20 ECH192.MainForm 停止采集数据
+2020-10-08 16:02:30 ECH192.MainForm 停止采集数据
+2020-10-08 16:02:40 ECH192.MainForm 停止采集数据
+2020-10-08 16:02:51 ECH192.MainForm 停止采集数据
+2020-10-08 16:03:01 ECH192.MainForm 停止采集数据
+2020-10-08 16:03:11 ECH192.MainForm 停止采集数据
+2020-10-08 16:03:11 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 16:03:11 ECH192.MainForm 设置IT法参数成功
+2020-10-08 16:03:21 ECH192.MainForm 开始采集数据
+2020-10-08 16:03:31 ECH192.MainForm 停止采集数据
+2020-10-08 16:03:31 ECH192.MainForm IT数据采集中--9%
+2020-10-08 16:03:41 ECH192.MainForm 停止采集数据
+2020-10-08 16:03:41 ECH192.MainForm IT数据采集中--9%
+2020-10-08 16:03:41 ECH192.MainForm 停止采集数据
+2020-10-08 16:03:51 ECH192.MainForm 停止采集数据
+2020-10-08 16:03:51 ECH192.MainForm IT数据采集中--9%
+2020-10-08 16:10:19 commandServer The server instance commandServer has been started!
+2020-10-08 16:10:20 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 16:12:18 commandServer The server instance commandServer has been started!
+2020-10-08 16:12:19 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 16:12:41 ECH192.MainForm 设备连接成功
+2020-10-08 16:12:51 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:01 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:01 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 16:13:01 ECH192.MainForm 设置IT法参数成功
+2020-10-08 16:13:11 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:11 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:11 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:11 ECH192.MainForm 开始采集数据
+2020-10-08 16:13:21 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:21 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:21 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:21 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:21 ECH192.MainForm IT数据采集中--9%
+2020-10-08 16:13:38 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:38 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:38 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:38 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:38 ECH192.MainForm IT数据采集中--9%
+2020-10-08 16:13:38 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:48 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:48 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:48 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:48 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:48 ECH192.MainForm IT数据采集中--9%
+2020-10-08 16:13:48 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:48 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:58 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:58 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:58 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:58 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:58 ECH192.MainForm IT数据采集中--9%
+2020-10-08 16:13:58 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:58 ECH192.MainForm 停止采集数据
+2020-10-08 16:13:58 ECH192.MainForm 停止采集数据
+2020-10-08 16:27:21 commandServer The server instance commandServer has been started!
+2020-10-08 16:27:21 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 16:27:42 ECH192.MainForm 设备连接成功
+2020-10-08 16:27:52 ECH192.MainForm 停止采集数据
+2020-10-08 16:28:02 ECH192.MainForm 停止采集数据
+2020-10-08 16:28:02 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 16:28:02 ECH192.MainForm 设置IT法参数成功
+2020-10-08 16:28:12 ECH192.MainForm 开始采集数据
+2020-10-08 16:28:22 ECH192.MainForm IT数据采集中--9%
+2020-10-08 16:28:33 ECH192.MainForm IT数据采集中--19%
+2020-10-08 16:28:43 ECH192.MainForm IT数据采集中--29%
+2020-10-08 16:28:53 ECH192.MainForm IT数据采集中--40%
+2020-10-08 16:31:46 ECH192.MainForm IT数据采集中--50%
+2020-10-08 16:32:05 ECH192.MainForm IT数据采集中--100%
+2020-10-08 16:34:50 commandServer The server instance commandServer has been started!
+2020-10-08 16:34:51 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 16:35:12 ECH192.MainForm 设备连接成功
+2020-10-08 16:35:22 ECH192.MainForm 停止采集数据
+2020-10-08 16:35:32 ECH192.MainForm 停止采集数据
+2020-10-08 16:35:42 ECH192.MainForm 停止采集数据
+2020-10-08 16:35:52 ECH192.MainForm 停止采集数据
+2020-10-08 16:35:52 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 16:35:52 ECH192.MainForm 设置IT法参数成功
+2020-10-08 16:36:02 ECH192.MainForm 开始采集数据
+2020-10-08 16:36:13 ECH192.MainForm IT数据采集中--9%
+2020-10-08 16:37:21 commandServer The server instance commandServer has been started!
+2020-10-08 16:37:21 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 16:37:43 ECH192.MainForm 设备连接成功
+2020-10-08 16:37:53 ECH192.MainForm 停止采集数据
+2020-10-08 16:37:53 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 16:37:53 ECH192.MainForm 设置IT法参数成功
+2020-10-08 16:38:03 ECH192.MainForm 开始采集数据
+2020-10-08 16:38:13 ECH192.MainForm IT数据采集中--9%
+2020-10-08 16:38:23 ECH192.MainForm IT数据采集中--19%
+2020-10-08 16:38:33 ECH192.MainForm IT数据采集中--29%
+2020-10-08 16:38:43 ECH192.MainForm IT数据采集中--39%
+2020-10-08 16:38:54 ECH192.MainForm IT数据采集中--50%
+2020-10-08 16:39:04 ECH192.MainForm IT数据采集中--60%
+2020-10-08 16:39:14 ECH192.MainForm IT数据采集中--70%
+2020-10-08 16:39:24 ECH192.MainForm IT数据采集中--80%
+2020-10-08 16:39:34 ECH192.MainForm IT数据采集中--90%
+2020-10-08 16:39:44 ECH192.MainForm IT数据采集中--100%
+2020-10-08 16:40:34 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 16:40:34 ECH192.MainForm 设置CV法参数成功
+2020-10-08 16:40:44 ECH192.MainForm 开始采集数据
+2020-10-08 16:41:03 CommunicationServer.TCPServer.CommandServer command server session close:192.168.14.48
+2020-10-08 16:41:03 ECH192.MainForm 设备失去连接
+2020-10-08 16:41:04 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 16:41:24 ECH192.MainForm 设备连接成功
+2020-10-08 16:41:34 ECH192.MainForm 停止采集数据
+2020-10-08 16:41:34 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 16:41:34 ECH192.MainForm 设置IT法参数成功
+2020-10-08 16:41:44 ECH192.MainForm 开始采集数据
+2020-10-08 16:48:29 commandServer The server instance commandServer has been started!
+2020-10-08 16:48:30 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 16:48:52 ECH192.MainForm 设备连接成功
+2020-10-08 16:49:02 ECH192.MainForm 停止采集数据
+2020-10-08 16:49:12 ECH192.MainForm 停止采集数据
+2020-10-08 16:49:12 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 16:49:12 ECH192.MainForm 设置IT法参数成功
+2020-10-08 16:49:22 ECH192.MainForm 开始采集数据
+2020-10-08 16:49:32 ECH192.MainForm IT数据采集中--9%
+2020-10-08 16:49:42 ECH192.MainForm IT数据采集中--19%
+2020-10-08 16:49:52 ECH192.MainForm IT数据采集中--29%
+2020-10-08 16:50:02 ECH192.MainForm IT数据采集中--39%
+2020-10-08 16:50:13 ECH192.MainForm IT数据采集中--50%
+2020-10-08 16:50:23 ECH192.MainForm IT数据采集中--60%
+2020-10-08 16:50:33 ECH192.MainForm IT数据采集中--70%
+2020-10-08 16:50:43 ECH192.MainForm IT数据采集中--80%
+2020-10-08 16:50:53 ECH192.MainForm IT数据采集中--90%
+2020-10-08 16:52:04 commandServer The server instance commandServer has been started!
+2020-10-08 16:52:05 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 16:52:27 ECH192.MainForm 设备连接成功
+2020-10-08 16:52:37 ECH192.MainForm 停止采集数据
+2020-10-08 16:52:37 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 16:52:37 ECH192.MainForm 设置IT法参数成功
+2020-10-08 16:52:47 ECH192.MainForm 开始采集数据
+2020-10-08 16:52:57 ECH192.MainForm IT数据采集中--9%
+2020-10-08 16:53:08 ECH192.MainForm IT数据采集中--19%
+2020-10-08 16:53:18 ECH192.MainForm IT数据采集中--29%
+2020-10-08 16:53:28 ECH192.MainForm IT数据采集中--40%
+2020-10-08 16:53:38 ECH192.MainForm IT数据采集中--50%
+2020-10-08 16:53:49 ECH192.MainForm IT数据采集中--60%
+2020-10-08 16:53:59 ECH192.MainForm IT数据采集中--70%
+2020-10-08 16:55:04 ECH192.MainForm IT数据采集中--81%
+2020-10-08 16:57:30 commandServer The server instance commandServer has been started!
+2020-10-08 16:57:31 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 16:57:52 ECH192.MainForm 设备连接成功
+2020-10-08 16:58:02 ECH192.MainForm 停止采集数据
+2020-10-08 16:58:02 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 16:58:02 ECH192.MainForm 设置IT法参数成功
+2020-10-08 16:58:12 ECH192.MainForm 开始采集数据
+2020-10-08 16:58:23 ECH192.MainForm IT数据采集中--9%
+2020-10-08 16:58:39 ECH192.MainForm IT数据采集中--19%
+2020-10-08 16:58:50 ECH192.MainForm IT数据采集中--36%
+2020-10-08 16:59:00 ECH192.MainForm IT数据采集中--46%
+2020-10-08 16:59:10 ECH192.MainForm IT数据采集中--56%
+2020-10-08 17:04:19 commandServer The server instance commandServer has been started!
+2020-10-08 17:04:20 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 17:04:42 ECH192.MainForm 设备连接成功
+2020-10-08 17:04:52 ECH192.MainForm 停止采集数据
+2020-10-08 17:04:52 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 17:04:52 ECH192.MainForm 设置IT法参数成功
+2020-10-08 17:05:02 ECH192.MainForm 开始采集数据
+2020-10-08 17:05:12 ECH192.MainForm IT数据采集中--9%
+2020-10-08 17:05:22 ECH192.MainForm IT数据采集中--19%
+2020-10-08 17:05:32 ECH192.MainForm IT数据采集中--29%
+2020-10-08 17:05:43 ECH192.MainForm IT数据采集中--40%
+2020-10-08 17:05:53 ECH192.MainForm IT数据采集中--50%
+2020-10-08 17:06:03 ECH192.MainForm IT数据采集中--60%
+2020-10-08 17:06:13 ECH192.MainForm IT数据采集中--70%
+2020-10-08 17:06:24 ECH192.MainForm IT数据采集中--81%
+2020-10-08 17:06:34 ECH192.MainForm IT数据采集中--91%
+2020-10-08 17:06:44 ECH192.MainForm IT数据采集中--100%
+2020-10-08 17:07:54 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 17:07:54 ECH192.MainForm 设置IT法参数成功
+2020-10-08 17:08:46 commandServer The server instance commandServer has been started!
+2020-10-08 17:08:47 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 17:09:09 ECH192.MainForm 设备连接成功
+2020-10-08 17:09:09 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 17:09:09 ECH192.MainForm 设置IT法参数成功
+2020-10-08 17:09:19 ECH192.MainForm 开始采集数据
+2020-10-08 17:09:29 ECH192.MainForm IT数据采集中--9%
+2020-10-08 17:09:39 ECH192.MainForm IT数据采集中--19%
+2020-10-08 17:11:56 commandServer The server instance commandServer has been started!
+2020-10-08 17:11:56 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 17:12:19 ECH192.MainForm 设备连接成功
+2020-10-08 17:12:29 ECH192.MainForm 停止采集数据
+2020-10-08 17:12:29 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 17:12:29 ECH192.MainForm 设置IT法参数成功
+2020-10-08 17:12:39 ECH192.MainForm 开始采集数据
+2020-10-08 17:16:00 commandServer The server instance commandServer has been started!
+2020-10-08 17:16:00 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 17:16:22 ECH192.MainForm 设备连接成功
+2020-10-08 17:16:32 ECH192.MainForm 停止采集数据
+2020-10-08 17:16:32 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 17:16:32 ECH192.MainForm 设置IT法参数成功
+2020-10-08 17:16:42 ECH192.MainForm 开始采集数据
+2020-10-08 17:16:52 ECH192.MainForm IT数据采集中--9%
+2020-10-08 17:17:03 ECH192.MainForm IT数据采集中--19%
+2020-10-08 17:17:13 ECH192.MainForm IT数据采集中--29%
+2020-10-08 17:17:23 ECH192.MainForm IT数据采集中--40%
+2020-10-08 17:17:33 ECH192.MainForm IT数据采集中--50%
+2020-10-08 17:17:43 ECH192.MainForm IT数据采集中--60%
+2020-10-08 17:17:54 ECH192.MainForm IT数据采集中--70%
+2020-10-08 17:18:04 ECH192.MainForm IT数据采集中--80%
+2020-10-08 17:18:15 ECH192.MainForm IT数据采集中--91%
+2020-10-08 17:20:24 commandServer The server instance commandServer has been started!
+2020-10-08 17:20:25 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 17:20:47 ECH192.MainForm 设备连接成功
+2020-10-08 17:20:57 ECH192.MainForm 停止采集数据
+2020-10-08 17:20:57 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 17:20:57 ECH192.MainForm 设置IT法参数成功
+2020-10-08 17:21:07 ECH192.MainForm 开始采集数据
+2020-10-08 17:21:17 ECH192.MainForm IT数据采集中--9%
+2020-10-08 17:21:27 ECH192.MainForm IT数据采集中--19%
+2020-10-08 17:21:37 ECH192.MainForm IT数据采集中--29%
+2020-10-08 17:21:48 ECH192.MainForm IT数据采集中--39%
+2020-10-08 17:21:58 ECH192.MainForm IT数据采集中--50%
+2020-10-08 17:22:08 ECH192.MainForm IT数据采集中--60%
+2020-10-08 17:22:19 ECH192.MainForm IT数据采集中--71%
+2020-10-08 17:22:29 ECH192.MainForm IT数据采集中--81%
+2020-10-08 17:22:40 ECH192.MainForm IT数据采集中--92%
+2020-10-08 17:22:51 ECH192.MainForm IT数据采集中--100%
+2020-10-08 17:24:02 commandServer The server instance commandServer has been started!
+2020-10-08 17:24:02 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 17:24:24 ECH192.MainForm 设备连接成功
+2020-10-08 17:24:34 ECH192.MainForm 停止采集数据
+2020-10-08 17:24:44 ECH192.MainForm 停止采集数据
+2020-10-08 17:24:54 ECH192.MainForm 停止采集数据
+2020-10-08 17:24:54 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 17:24:54 ECH192.MainForm 设置IT法参数成功
+2020-10-08 17:25:04 ECH192.MainForm 开始采集数据
+2020-10-08 17:25:14 ECH192.MainForm IT数据采集中--9%
+2020-10-08 17:25:25 ECH192.MainForm IT数据采集中--19%
+2020-10-08 17:25:35 ECH192.MainForm IT数据采集中--29%
+2020-10-08 17:25:45 ECH192.MainForm IT数据采集中--40%
+2020-10-08 17:27:30 commandServer The server instance commandServer has been started!
+2020-10-08 17:27:31 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 17:27:53 ECH192.MainForm 设备连接成功
+2020-10-08 17:27:53 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 17:27:53 ECH192.MainForm 设置IT法参数成功
+2020-10-08 17:28:03 ECH192.MainForm 开始采集数据
+2020-10-08 17:28:13 ECH192.MainForm IT数据采集中--9%
+2020-10-08 17:28:23 ECH192.MainForm IT数据采集中--19%
+2020-10-08 17:28:33 ECH192.MainForm IT数据采集中--29%
+2020-10-08 17:28:43 ECH192.MainForm IT数据采集中--39%
+2020-10-08 17:28:54 ECH192.MainForm IT数据采集中--50%
+2020-10-08 17:29:04 ECH192.MainForm IT数据采集中--60%
+2020-10-08 17:29:15 ECH192.MainForm IT数据采集中--71%
+2020-10-08 17:29:25 ECH192.MainForm IT数据采集中--81%
+2020-10-08 17:29:35 ECH192.MainForm IT数据采集中--92%
+2020-10-08 17:29:46 ECH192.MainForm IT数据采集中--100%
+2020-10-08 17:37:25 commandServer The server instance commandServer has been started!
+2020-10-08 17:37:26 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 17:37:47 ECH192.MainForm 设备连接成功
+2020-10-08 17:37:57 ECH192.MainForm 停止采集数据
+2020-10-08 17:38:07 ECH192.MainForm 停止采集数据
+2020-10-08 17:38:17 ECH192.MainForm 停止采集数据
+2020-10-08 17:38:17 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 17:38:17 ECH192.MainForm 设置IT法参数成功
+2020-10-08 17:38:27 ECH192.MainForm 开始采集数据
+2020-10-08 17:39:33 commandServer The server instance commandServer has been started!
+2020-10-08 17:39:34 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 17:39:56 ECH192.MainForm 设备连接成功
+2020-10-08 17:40:06 ECH192.MainForm 停止采集数据
+2020-10-08 17:40:06 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 17:40:06 ECH192.MainForm 设置IT法参数成功
+2020-10-08 17:40:16 ECH192.MainForm 开始采集数据
+2020-10-08 17:40:26 ECH192.MainForm IT数据采集中--9%
+2020-10-08 17:40:36 ECH192.MainForm IT数据采集中--19%
+2020-10-08 17:40:46 ECH192.MainForm IT数据采集中--29%
+2020-10-08 17:40:56 ECH192.MainForm IT数据采集中--39%
+2020-10-08 17:41:07 ECH192.MainForm IT数据采集中--50%
+2020-10-08 17:41:17 ECH192.MainForm IT数据采集中--60%
+2020-10-08 17:41:28 ECH192.MainForm IT数据采集中--71%
+2020-10-08 17:41:38 ECH192.MainForm IT数据采集中--81%
+2020-10-08 17:41:49 ECH192.MainForm IT数据采集中--92%
+2020-10-08 17:42:00 ECH192.MainForm IT数据采集中--100%
+2020-10-08 17:46:14 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 17:46:14 ECH192.MainForm 设置IT法参数成功
+2020-10-08 17:46:24 ECH192.MainForm 开始采集数据
+2020-10-08 17:47:23 commandServer The server instance commandServer has been started!
+2020-10-08 17:47:24 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 17:47:46 ECH192.MainForm 设备连接成功
+2020-10-08 17:47:56 ECH192.MainForm 停止采集数据
+2020-10-08 17:47:56 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 17:47:56 ECH192.MainForm 设置IT法参数成功
+2020-10-08 17:48:06 ECH192.MainForm 开始采集数据
+2020-10-08 17:48:22 ECH192.MainForm IT数据采集中--9%
+2020-10-08 17:48:32 ECH192.MainForm IT数据采集中--25%
+2020-10-08 17:48:42 ECH192.MainForm IT数据采集中--35%
+2020-10-08 17:48:53 ECH192.MainForm IT数据采集中--46%
+2020-10-08 17:49:03 ECH192.MainForm IT数据采集中--56%
+2020-10-08 17:49:13 ECH192.MainForm IT数据采集中--66%
+2020-10-08 17:49:24 ECH192.MainForm IT数据采集中--77%
+2020-10-08 17:49:34 ECH192.MainForm IT数据采集中--87%
+2020-10-08 17:49:45 ECH192.MainForm IT数据采集中--98%
+2020-10-08 17:49:56 ECH192.MainForm IT数据采集中--100%
+2020-10-08 17:50:51 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 17:50:51 ECH192.MainForm 设置CV法参数成功
+2020-10-08 17:51:01 ECH192.MainForm 开始采集数据
+2020-10-08 17:51:20 CommunicationServer.TCPServer.CommandServer command server session close:192.168.14.48
+2020-10-08 17:51:20 ECH192.MainForm 设备失去连接
+2020-10-08 17:51:21 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 17:51:41 ECH192.MainForm 设备连接成功
+2020-10-08 17:51:51 ECH192.MainForm 停止采集数据
+2020-10-08 17:52:01 ECH192.MainForm 停止采集数据
+2020-10-08 17:52:11 ECH192.MainForm 停止采集数据
+2020-10-08 17:52:21 ECH192.MainForm 停止采集数据
+2020-10-08 17:52:31 ECH192.MainForm 停止采集数据
+2020-10-08 17:52:41 ECH192.MainForm 停止采集数据
+2020-10-08 17:52:51 ECH192.MainForm 停止采集数据
+2020-10-08 17:53:01 ECH192.MainForm 停止采集数据
+2020-10-08 17:53:11 ECH192.MainForm 停止采集数据
+2020-10-08 17:53:21 ECH192.MainForm 停止采集数据
+2020-10-08 17:53:31 ECH192.MainForm 停止采集数据
+2020-10-08 17:53:41 ECH192.MainForm 停止采集数据
+2020-10-08 17:53:51 ECH192.MainForm 停止采集数据
+2020-10-08 17:54:01 ECH192.MainForm 停止采集数据
+2020-10-08 17:54:11 ECH192.MainForm 停止采集数据
+2020-10-08 17:54:21 ECH192.MainForm 停止采集数据
+2020-10-08 17:54:31 ECH192.MainForm 停止采集数据
+2020-10-08 17:54:41 ECH192.MainForm 停止采集数据
+2020-10-08 17:54:51 ECH192.MainForm 停止采集数据
+2020-10-08 17:55:01 ECH192.MainForm 停止采集数据
+2020-10-08 17:55:11 ECH192.MainForm 停止采集数据
+2020-10-08 17:55:21 ECH192.MainForm 停止采集数据
+2020-10-08 17:55:31 ECH192.MainForm 停止采集数据
+2020-10-08 17:55:41 ECH192.MainForm 停止采集数据
+2020-10-08 17:55:51 ECH192.MainForm 停止采集数据
+2020-10-08 17:56:01 ECH192.MainForm 停止采集数据
+2020-10-08 17:56:11 ECH192.MainForm 停止采集数据
+2020-10-08 17:56:21 ECH192.MainForm 停止采集数据
+2020-10-08 17:56:31 ECH192.MainForm 停止采集数据
+2020-10-08 17:56:41 ECH192.MainForm 停止采集数据
+2020-10-08 17:56:51 ECH192.MainForm 停止采集数据
+2020-10-08 17:57:01 ECH192.MainForm 停止采集数据
+2020-10-08 17:57:11 ECH192.MainForm 停止采集数据
+2020-10-08 17:57:21 ECH192.MainForm 停止采集数据
+2020-10-08 17:57:31 ECH192.MainForm 停止采集数据
+2020-10-08 17:57:41 ECH192.MainForm 停止采集数据
+2020-10-08 17:57:51 ECH192.MainForm 停止采集数据
+2020-10-08 17:58:01 ECH192.MainForm 停止采集数据
+2020-10-08 17:58:11 ECH192.MainForm 停止采集数据
+2020-10-08 17:58:21 ECH192.MainForm 停止采集数据
+2020-10-08 17:58:31 ECH192.MainForm 停止采集数据
+2020-10-08 17:58:41 ECH192.MainForm 停止采集数据
+2020-10-08 17:58:51 ECH192.MainForm 停止采集数据
+2020-10-08 17:59:01 ECH192.MainForm 停止采集数据
+2020-10-08 17:59:11 ECH192.MainForm 停止采集数据
+2020-10-08 17:59:21 ECH192.MainForm 停止采集数据
+2020-10-08 17:59:31 ECH192.MainForm 停止采集数据
+2020-10-08 17:59:41 ECH192.MainForm 停止采集数据
+2020-10-08 17:59:51 ECH192.MainForm 停止采集数据
+2020-10-08 18:00:01 ECH192.MainForm 停止采集数据
+2020-10-08 18:00:11 ECH192.MainForm 停止采集数据
+2020-10-08 18:00:21 ECH192.MainForm 停止采集数据
+2020-10-08 18:00:31 ECH192.MainForm 停止采集数据
+2020-10-08 18:00:41 ECH192.MainForm 停止采集数据
+2020-10-08 18:00:51 ECH192.MainForm 停止采集数据
+2020-10-08 18:01:01 ECH192.MainForm 停止采集数据
+2020-10-08 18:01:11 ECH192.MainForm 停止采集数据
+2020-10-08 18:01:21 ECH192.MainForm 停止采集数据
+2020-10-08 18:01:31 ECH192.MainForm 停止采集数据
+2020-10-08 18:01:41 ECH192.MainForm 停止采集数据
+2020-10-08 18:01:51 ECH192.MainForm 停止采集数据
+2020-10-08 18:02:01 ECH192.MainForm 停止采集数据
+2020-10-08 18:02:11 ECH192.MainForm 停止采集数据
+2020-10-08 18:02:21 ECH192.MainForm 停止采集数据
+2020-10-08 18:02:31 ECH192.MainForm 停止采集数据
+2020-10-08 18:02:41 ECH192.MainForm 停止采集数据
+2020-10-08 18:02:51 ECH192.MainForm 停止采集数据
+2020-10-08 18:03:01 ECH192.MainForm 停止采集数据
+2020-10-08 18:03:11 ECH192.MainForm 停止采集数据
+2020-10-08 18:03:21 ECH192.MainForm 停止采集数据
+2020-10-08 18:03:31 ECH192.MainForm 停止采集数据
+2020-10-08 18:03:41 ECH192.MainForm 停止采集数据
+2020-10-08 18:03:51 ECH192.MainForm 停止采集数据
+2020-10-08 18:04:01 ECH192.MainForm 停止采集数据
+2020-10-08 18:04:11 ECH192.MainForm 停止采集数据
+2020-10-08 18:04:21 ECH192.MainForm 停止采集数据
+2020-10-08 18:04:31 ECH192.MainForm 停止采集数据
+2020-10-08 18:04:41 ECH192.MainForm 停止采集数据
+2020-10-08 18:04:51 ECH192.MainForm 停止采集数据
+2020-10-08 18:05:02 ECH192.MainForm 停止采集数据
+2020-10-08 18:05:12 ECH192.MainForm 停止采集数据
+2020-10-08 18:05:22 ECH192.MainForm 停止采集数据
+2020-10-08 18:05:32 ECH192.MainForm 停止采集数据
+2020-10-08 18:05:42 ECH192.MainForm 停止采集数据
+2020-10-08 18:05:52 ECH192.MainForm 停止采集数据
+2020-10-08 18:06:02 ECH192.MainForm 停止采集数据
+2020-10-08 18:06:12 ECH192.MainForm 停止采集数据
+2020-10-08 18:06:12 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 18:06:12 ECH192.MainForm 设置CV法参数成功
+2020-10-08 18:06:22 ECH192.MainForm 开始采集数据
+2020-10-08 18:07:01 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 18:07:01 CommunicationServer.TCPServer.CommandServer command server session close:192.168.14.48
+2020-10-08 18:07:01 ECH192.MainForm 设备失去连接
+2020-10-08 18:07:21 ECH192.MainForm 设备连接成功
+2020-10-08 18:07:31 ECH192.MainForm 停止采集数据
+2020-10-08 18:07:41 ECH192.MainForm 停止采集数据
+2020-10-08 18:07:51 ECH192.MainForm 停止采集数据
+2020-10-08 18:07:51 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 18:07:51 ECH192.MainForm 设置CV法参数成功
+2020-10-08 18:08:04 ECH192.MainForm 开始采集数据
+2020-10-08 18:08:23 CommunicationServer.TCPServer.CommandServer command server session close:192.168.14.48
+2020-10-08 18:08:23 ECH192.MainForm 设备失去连接
+2020-10-08 18:08:24 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 18:08:44 ECH192.MainForm 设备连接成功
+2020-10-08 18:08:54 ECH192.MainForm 停止采集数据
+2020-10-08 18:09:04 ECH192.MainForm 停止采集数据
+2020-10-08 18:09:14 ECH192.MainForm 停止采集数据
+2020-10-08 18:09:24 ECH192.MainForm 停止采集数据
+2020-10-08 18:09:34 ECH192.MainForm 停止采集数据
+2020-10-08 18:09:44 ECH192.MainForm 停止采集数据
+2020-10-08 18:09:54 ECH192.MainForm 停止采集数据
+2020-10-08 18:10:04 ECH192.MainForm 停止采集数据
+2020-10-08 18:10:14 ECH192.MainForm 停止采集数据
+2020-10-08 18:10:24 ECH192.MainForm 停止采集数据
+2020-10-08 18:10:35 ECH192.MainForm 停止采集数据
+2020-10-08 18:10:45 ECH192.MainForm 停止采集数据
+2020-10-08 18:10:45 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 18:10:45 ECH192.MainForm 设置CV法参数成功
+2020-10-08 18:10:59 ECH192.MainForm 开始采集数据
+2020-10-08 18:16:02 commandServer The server instance commandServer has been started!
+2020-10-08 18:16:03 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 18:16:25 ECH192.MainForm 设备连接成功
+2020-10-08 18:16:35 ECH192.MainForm 停止采集数据
+2020-10-08 18:16:45 ECH192.MainForm 停止采集数据
+2020-10-08 18:16:55 ECH192.MainForm 停止采集数据
+2020-10-08 18:17:05 ECH192.MainForm 停止采集数据
+2020-10-08 18:17:15 ECH192.MainForm 停止采集数据
+2020-10-08 18:17:25 ECH192.MainForm 停止采集数据
+2020-10-08 18:17:35 ECH192.MainForm 停止采集数据
+2020-10-08 18:17:45 ECH192.MainForm 停止采集数据
+2020-10-08 18:17:55 ECH192.MainForm 停止采集数据
+2020-10-08 18:18:05 ECH192.MainForm 停止采集数据
+2020-10-08 18:18:15 ECH192.MainForm 停止采集数据
+2020-10-08 18:18:25 ECH192.MainForm 停止采集数据
+2020-10-08 18:18:35 ECH192.MainForm 停止采集数据
+2020-10-08 18:19:17 commandServer The server instance commandServer has been started!
+2020-10-08 18:19:18 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 18:19:40 ECH192.MainForm 设备连接成功
+2020-10-08 18:19:50 ECH192.MainForm 停止采集数据
+2020-10-08 18:19:50 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 18:19:50 ECH192.MainForm 设置CV法参数成功
+2020-10-08 18:20:00 ECH192.MainForm 开始采集数据
+2020-10-08 18:21:44 commandServer The server instance commandServer has been started!
+2020-10-08 18:21:45 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 18:22:07 ECH192.MainForm 设备连接成功
+2020-10-08 18:22:07 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 18:22:07 ECH192.MainForm 设置CV法参数成功
+2020-10-08 18:22:17 ECH192.MainForm 开始采集数据
+2020-10-08 18:22:46 ECH192.MainForm CV数据采集中--31%
+2020-10-08 18:25:37 commandServer The server instance commandServer has been started!
+2020-10-08 18:25:37 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 18:25:59 ECH192.MainForm 设备连接成功
+2020-10-08 18:26:09 ECH192.MainForm 停止采集数据
+2020-10-08 18:26:19 ECH192.MainForm 停止采集数据
+2020-10-08 18:26:29 ECH192.MainForm 停止采集数据
+2020-10-08 18:26:39 ECH192.MainForm 停止采集数据
+2020-10-08 18:26:39 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 18:26:39 ECH192.MainForm 设置CV法参数成功
+2020-10-08 18:26:49 ECH192.MainForm 开始采集数据
+2020-10-08 18:27:16 CommunicationServer.TCPServer.CommandServer command server session close:192.168.14.48
+2020-10-08 18:27:16 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 18:27:16 ECH192.MainForm 设备失去连接
+2020-10-08 18:27:36 ECH192.MainForm 设备连接成功
+2020-10-08 18:32:56 commandServer The server instance commandServer has been started!
+2020-10-08 18:32:56 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 18:33:25 commandServer The server instance commandServer has been started!
+2020-10-08 18:33:25 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 18:33:47 ECH192.MainForm 设备连接成功
+2020-10-08 18:33:57 ECH192.MainForm 停止采集数据
+2020-10-08 18:34:07 ECH192.MainForm 停止采集数据
+2020-10-08 18:34:07 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 18:34:07 ECH192.MainForm 设置CV法参数成功
+2020-10-08 18:34:17 ECH192.MainForm 开始采集数据
+2020-10-08 18:34:27 ECH192.MainForm CV数据采集中--31%
+2020-10-08 18:36:30 commandServer The server instance commandServer has been started!
+2020-10-08 18:36:31 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 18:36:53 ECH192.MainForm 设备连接成功
+2020-10-08 18:37:03 ECH192.MainForm 停止采集数据
+2020-10-08 18:37:03 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 18:37:03 ECH192.MainForm 设置CV法参数成功
+2020-10-08 18:37:13 ECH192.MainForm 开始采集数据
+2020-10-08 18:41:57 commandServer The server instance commandServer has been started!
+2020-10-08 18:41:58 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 18:42:20 ECH192.MainForm 设备连接成功
+2020-10-08 18:42:30 ECH192.MainForm 停止采集数据
+2020-10-08 18:42:30 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 18:42:30 ECH192.MainForm 设置CV法参数成功
+2020-10-08 18:42:40 ECH192.MainForm 开始采集数据
+2020-10-08 18:45:02 commandServer The server instance commandServer has been started!
+2020-10-08 18:45:03 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 18:45:25 ECH192.MainForm 设备连接成功
+2020-10-08 18:45:35 ECH192.MainForm 停止采集数据
+2020-10-08 18:45:45 ECH192.MainForm 停止采集数据
+2020-10-08 18:45:45 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 18:45:45 ECH192.MainForm 设置CV法参数成功
+2020-10-08 18:45:55 ECH192.MainForm 开始采集数据
+2020-10-08 18:47:14 commandServer The server instance commandServer has been started!
+2020-10-08 18:47:15 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 18:47:37 ECH192.MainForm 设备连接成功
+2020-10-08 18:47:47 ECH192.MainForm 停止采集数据
+2020-10-08 18:47:47 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 18:47:47 ECH192.MainForm 设置CV法参数成功
+2020-10-08 18:47:57 ECH192.MainForm 开始采集数据
+2020-10-08 18:49:33 commandServer The server instance commandServer has been started!
+2020-10-08 18:49:34 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 18:49:56 ECH192.MainForm 设备连接成功
+2020-10-08 18:50:06 ECH192.MainForm 停止采集数据
+2020-10-08 18:50:16 ECH192.MainForm 停止采集数据
+2020-10-08 18:50:16 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 18:50:16 ECH192.MainForm 设置CV法参数成功
+2020-10-08 18:50:26 ECH192.MainForm 开始采集数据
+2020-10-08 18:50:44 ECH192.MainForm CV数据采集中--31%
+2020-10-08 18:50:55 ECH192.MainForm CV数据采集中--92%
+2020-10-08 18:51:06 ECH192.MainForm CV数据采集中--99%
+2020-10-08 18:58:49 commandServer The server instance commandServer has been started!
+2020-10-08 18:58:50 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 18:59:12 ECH192.MainForm 设备连接成功
+2020-10-08 18:59:22 ECH192.MainForm 停止采集数据
+2020-10-08 18:59:32 ECH192.MainForm 停止采集数据
+2020-10-08 18:59:42 ECH192.MainForm 停止采集数据
+2020-10-08 18:59:52 ECH192.MainForm 停止采集数据
+2020-10-08 19:00:02 ECH192.MainForm 停止采集数据
+2020-10-08 19:00:12 ECH192.MainForm 停止采集数据
+2020-10-08 19:00:12 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 19:00:12 ECH192.MainForm 设置CV法参数成功
+2020-10-08 19:00:22 ECH192.MainForm 开始采集数据
+2020-10-08 19:00:32 ECH192.MainForm CV数据采集中--31%
+2020-10-08 19:00:42 ECH192.MainForm CV数据采集中--66%
+2020-10-08 19:00:53 ECH192.MainForm CV数据采集中--99%
+2020-10-08 19:01:04 ECH192.MainForm CV数据采集中--100%
+2020-10-08 19:01:54 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 19:01:54 ECH192.MainForm 设置IT法参数成功
+2020-10-08 19:02:04 ECH192.MainForm 开始采集数据
+2020-10-08 19:02:14 ECH192.MainForm 停止采集数据
+2020-10-08 19:02:14 ECH192.MainForm IT数据采集中--9%
+2020-10-08 19:02:24 ECH192.MainForm 停止采集数据
+2020-10-08 19:02:24 ECH192.MainForm IT数据采集中--9%
+2020-10-08 19:02:24 ECH192.MainForm 停止采集数据
+2020-10-08 19:02:34 ECH192.MainForm 停止采集数据
+2020-10-08 19:02:34 ECH192.MainForm IT数据采集中--9%
+2020-10-08 19:02:34 ECH192.MainForm 停止采集数据
+2020-10-08 19:02:34 ECH192.MainForm 停止采集数据
+2020-10-08 19:02:44 ECH192.MainForm 停止采集数据
+2020-10-08 19:02:44 ECH192.MainForm IT数据采集中--9%
+2020-10-08 19:03:55 commandServer The server instance commandServer has been started!
+2020-10-08 19:03:55 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 19:05:15 commandServer The server instance commandServer has been started!
+2020-10-08 19:05:16 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 19:05:38 ECH192.MainForm 设备连接成功
+2020-10-08 19:05:48 ECH192.MainForm 停止采集数据
+2020-10-08 19:05:48 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 19:05:48 ECH192.MainForm 设置CV法参数成功
+2020-10-08 19:05:58 ECH192.MainForm 停止采集数据
+2020-10-08 19:05:58 ECH192.MainForm 停止采集数据
+2020-10-08 19:05:58 ECH192.MainForm 停止采集数据
+2020-10-08 19:05:58 ECH192.MainForm 开始采集数据
+2020-10-08 19:08:59 commandServer The server instance commandServer has been started!
+2020-10-08 19:08:59 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 19:09:21 ECH192.MainForm 设备连接成功
+2020-10-08 19:09:21 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 19:09:21 ECH192.MainForm 设置CV法参数成功
+2020-10-08 19:09:31 ECH192.MainForm 停止采集数据
+2020-10-08 19:09:31 ECH192.MainForm 停止采集数据
+2020-10-08 19:09:31 ECH192.MainForm 停止采集数据
+2020-10-08 19:09:31 ECH192.MainForm 开始采集数据
+2020-10-08 19:09:41 ECH192.MainForm 停止采集数据
+2020-10-08 19:09:41 ECH192.MainForm 停止采集数据
+2020-10-08 19:09:41 ECH192.MainForm 停止采集数据
+2020-10-08 19:09:41 ECH192.MainForm 停止采集数据
+2020-10-08 19:09:41 ECH192.MainForm CV数据采集中--31%
+2020-10-08 19:09:51 ECH192.MainForm 停止采集数据
+2020-10-08 19:09:51 ECH192.MainForm 停止采集数据
+2020-10-08 19:09:51 ECH192.MainForm 停止采集数据
+2020-10-08 19:09:51 ECH192.MainForm 停止采集数据
+2020-10-08 19:09:51 ECH192.MainForm CV数据采集中--31%
+2020-10-08 19:09:51 ECH192.MainForm 停止采集数据
+2020-10-08 19:10:01 ECH192.MainForm 停止采集数据
+2020-10-08 19:10:01 ECH192.MainForm 停止采集数据
+2020-10-08 19:10:01 ECH192.MainForm 停止采集数据
+2020-10-08 19:10:01 ECH192.MainForm 停止采集数据
+2020-10-08 19:10:01 ECH192.MainForm CV数据采集中--31%
+2020-10-08 19:10:01 ECH192.MainForm 停止采集数据
+2020-10-08 19:10:01 ECH192.MainForm 停止采集数据
+2020-10-08 19:10:11 ECH192.MainForm 停止采集数据
+2020-10-08 19:10:11 ECH192.MainForm 停止采集数据
+2020-10-08 19:10:11 ECH192.MainForm 停止采集数据
+2020-10-08 19:10:11 ECH192.MainForm 停止采集数据
+2020-10-08 19:10:11 ECH192.MainForm CV数据采集中--31%
+2020-10-08 19:11:13 commandServer The server instance commandServer has been started!
+2020-10-08 19:11:13 CommunicationServer.TCPServer.CommandServer command server session connect:192.168.14.48
+2020-10-08 19:11:35 ECH192.MainForm 设备连接成功
+2020-10-08 19:11:45 ECH192.MainForm 停止采集数据
+2020-10-08 19:11:45 ECH192.MainForm 设置灵敏度参数成功
+2020-10-08 19:11:45 ECH192.MainForm 设置CV法参数成功
+2020-10-08 19:11:55 ECH192.MainForm 开始采集数据
+2020-10-08 19:12:05 ECH192.MainForm CV数据采集中--31%
+2020-10-08 19:12:16 ECH192.MainForm CV数据采集中--66%
+2020-10-08 19:12:26 ECH192.MainForm CV数据采集中--99%
+2020-10-08 19:12:37 ECH192.MainForm CV数据采集中--100%

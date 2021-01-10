@@ -1,0 +1,154 @@
+﻿2020-10-15 08:41:50 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-15 08:42:41 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-15 08:44:34 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-15 19:06:37 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-15 19:08:57 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-15 19:09:45 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-15 19:10:24 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-15 19:10:59 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-15 19:14:44 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-15 19:17:52 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-15 19:18:34 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-15 19:19:56 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-15 19:21:46 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-15 19:31:46 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-15 19:44:18 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-15 21:04:12 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-15 21:04:12 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-15 21:04:12 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-15 21:04:22 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-15 21:04:33 commandServer CommunicationServer.TCPServer.CommandSession
+System.Runtime.Serialization.SerializationException: 程序集“CommunicationServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”中的类型“CommunicationServer.CommonEntity.CVValue”未标记为可序列化。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 ECH192.MainForm.ShowInfoEvent(Object sender, EventArgs e) 位置 E:\Soft\ECH192\ECH192\MainForm.cs:行号 1670
+   在 CommunicationServer.CommunicationDriver.CommandDriver.OnDriverMessageSend(CommunicationMessage message) 位置 E:\Soft\ECH192\CommunicationServer\CommunicationDriver\CommandDriver.cs:行号 50
+   在 CommunicationServer.CommunicationDriver.CommandDriver.Server_MessageEvent(Object sender, EventArgs e) 位置 E:\Soft\ECH192\CommunicationServer\CommunicationDriver\CommandDriver.cs:行号 41
+   在 CommunicationServer.TCPServer.CommandServer.OnServerMessageSend(CommunicationMessage message) 位置 E:\Soft\ECH192\CommunicationServer\TCPServer\CommandServer.cs:行号 94
+   在 CommunicationServer.TCPServer.CommandServer.Session_MessageEvent(Object sender, EventArgs e) 位置 E:\Soft\ECH192\CommunicationServer\TCPServer\CommandServer.cs:行号 88
+   在 CommunicationServer.TCPServer.CommandSession.OnMessageSend(CommunicationMessage message) 位置 E:\Soft\ECH192\CommunicationServer\TCPServer\CommandSession.cs:行号 29
+   在 CommunicationServer.Protocol.Command.CMDGetSampleData.ExecuteCommand(CommandSession session, ECHRequestInfo requestInfo) 位置 E:\Soft\ECH192\CommunicationServer\Protocol\Command\CMDGetSampleData.cs:行号 125
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(IAppSession session, TRequestInfo requestInfo)
+   在 SuperSocket.SocketBase.AppSession`2.SuperSocket.SocketBase.IAppSession.ProcessRequest(Byte[] readBuffer, Int32 offset, Int32 length, Boolean toBeCopied)
+2020-10-15 21:05:03 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-15 21:05:03 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-15 21:05:03 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-15 21:05:13 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-15 21:05:23 commandServer CommunicationServer.TCPServer.CommandSession
+System.Runtime.Serialization.SerializationException: 程序集“CommunicationServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”中的类型“CommunicationServer.CommonEntity.CVValue”未标记为可序列化。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 ECH192.MainForm.ShowInfoEvent(Object sender, EventArgs e) 位置 E:\Soft\ECH192\ECH192\MainForm.cs:行号 1670
+   在 CommunicationServer.CommunicationDriver.CommandDriver.OnDriverMessageSend(CommunicationMessage message) 位置 E:\Soft\ECH192\CommunicationServer\CommunicationDriver\CommandDriver.cs:行号 50
+   在 CommunicationServer.CommunicationDriver.CommandDriver.Server_MessageEvent(Object sender, EventArgs e) 位置 E:\Soft\ECH192\CommunicationServer\CommunicationDriver\CommandDriver.cs:行号 41
+   在 CommunicationServer.TCPServer.CommandServer.OnServerMessageSend(CommunicationMessage message) 位置 E:\Soft\ECH192\CommunicationServer\TCPServer\CommandServer.cs:行号 94
+   在 CommunicationServer.TCPServer.CommandServer.Session_MessageEvent(Object sender, EventArgs e) 位置 E:\Soft\ECH192\CommunicationServer\TCPServer\CommandServer.cs:行号 88
+   在 CommunicationServer.TCPServer.CommandSession.OnMessageSend(CommunicationMessage message) 位置 E:\Soft\ECH192\CommunicationServer\TCPServer\CommandSession.cs:行号 29
+   在 CommunicationServer.Protocol.Command.CMDGetSampleData.ExecuteCommand(CommandSession session, ECHRequestInfo requestInfo) 位置 E:\Soft\ECH192\CommunicationServer\Protocol\Command\CMDGetSampleData.cs:行号 125
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(IAppSession session, TRequestInfo requestInfo)
+   在 SuperSocket.SocketBase.AppSession`2.SuperSocket.SocketBase.IAppSession.ProcessRequest(Byte[] readBuffer, Int32 offset, Int32 length, Boolean toBeCopied)
+2020-10-15 21:05:53 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-15 21:06:03 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-15 21:06:13 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-15 21:06:23 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-15 21:06:33 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-15 21:06:43 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-15 21:06:53 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-15 21:06:53 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-15 21:06:53 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-15 21:07:03 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-15 21:07:13 commandServer CommunicationServer.TCPServer.CommandSession
+System.Runtime.Serialization.SerializationException: 程序集“CommunicationServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”中的类型“CommunicationServer.CommonEntity.CVValue”未标记为可序列化。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 ECH192.MainForm.ShowInfoEvent(Object sender, EventArgs e) 位置 E:\Soft\ECH192\ECH192\MainForm.cs:行号 1670
+   在 CommunicationServer.CommunicationDriver.CommandDriver.OnDriverMessageSend(CommunicationMessage message) 位置 E:\Soft\ECH192\CommunicationServer\CommunicationDriver\CommandDriver.cs:行号 50
+   在 CommunicationServer.CommunicationDriver.CommandDriver.Server_MessageEvent(Object sender, EventArgs e) 位置 E:\Soft\ECH192\CommunicationServer\CommunicationDriver\CommandDriver.cs:行号 41
+   在 CommunicationServer.TCPServer.CommandServer.OnServerMessageSend(CommunicationMessage message) 位置 E:\Soft\ECH192\CommunicationServer\TCPServer\CommandServer.cs:行号 94
+   在 CommunicationServer.TCPServer.CommandServer.Session_MessageEvent(Object sender, EventArgs e) 位置 E:\Soft\ECH192\CommunicationServer\TCPServer\CommandServer.cs:行号 88
+   在 CommunicationServer.TCPServer.CommandSession.OnMessageSend(CommunicationMessage message) 位置 E:\Soft\ECH192\CommunicationServer\TCPServer\CommandSession.cs:行号 29
+   在 CommunicationServer.Protocol.Command.CMDGetSampleData.ExecuteCommand(CommandSession session, ECHRequestInfo requestInfo) 位置 E:\Soft\ECH192\CommunicationServer\Protocol\Command\CMDGetSampleData.cs:行号 125
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(IAppSession session, TRequestInfo requestInfo)
+   在 SuperSocket.SocketBase.AppSession`2.SuperSocket.SocketBase.IAppSession.ProcessRequest(Byte[] readBuffer, Int32 offset, Int32 length, Boolean toBeCopied)
+2020-10-15 21:09:02 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-15 21:09:20 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-15 21:09:30 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-15 21:09:30 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-15 21:09:40 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-15 21:11:34 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-15 21:11:44 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-15 21:11:44 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-15 21:11:44 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-15 21:11:54 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-15 21:15:18 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-15 21:15:18 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-15 21:15:18 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-15 21:15:28 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-15 21:20:50 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-15 21:21:00 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-15 21:21:00 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-15 21:21:00 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-15 21:21:10 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!

@@ -1,0 +1,556 @@
+﻿2020-10-08 08:47:34 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 08:51:36 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 09:25:24 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 09:28:48 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 09:30:58 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 09:33:32 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 09:33:57 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 09:40:43 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 09:45:25 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 09:47:17 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 09:55:09 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 10:39:25 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 10:59:24 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 11:03:19 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 11:05:25 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 11:12:16 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 11:12:50 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 14:46:49 commandServer Listener (192.168.14.33:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2020-10-08 14:50:42 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:50:52 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:51:02 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:51:12 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:51:22 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:51:32 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:51:42 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:51:52 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:52:02 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:52:12 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:52:22 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:52:32 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:52:42 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:52:53 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:53:03 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:53:13 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:53:23 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:53:33 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:53:43 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:53:53 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:56:50 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:57:00 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:57:10 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:57:20 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:57:30 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:57:40 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:57:50 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:58:00 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:58:10 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:58:20 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:58:30 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:58:40 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 14:58:40 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 14:58:40 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 14:58:50 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 15:13:00 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:13:10 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:13:10 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 15:13:10 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 15:13:20 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 15:24:17 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:24:27 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:24:37 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:24:47 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:24:57 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:25:07 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:25:17 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:25:17 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 15:25:17 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 15:25:27 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 15:25:37 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:25:43 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 15:25:43 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 15:25:53 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 15:27:50 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:27:50 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:28:00 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:28:00 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:28:10 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:28:10 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:28:20 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:28:20 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:28:37 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:28:37 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:28:37 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 15:31:28 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:31:28 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 15:31:38 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 15:31:48 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 15:35:50 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:37:33 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:38:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:38:01 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 15:38:01 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 15:38:11 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 15:41:50 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:42:00 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:42:00 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 15:42:00 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 15:42:10 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 15:44:50 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:45:00 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:45:10 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:46:39 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:46:49 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:46:59 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:47:09 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:47:19 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:47:29 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:47:39 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:47:49 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:47:59 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:47:59 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 15:47:59 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 15:48:09 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 15:50:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:50:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:50:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:50:21 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 15:50:21 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 15:50:31 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 15:52:24 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 15:52:24 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 15:52:34 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 15:58:09 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:58:19 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:58:29 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 15:58:29 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 15:58:29 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 15:58:39 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 15:59:30 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:02:00 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:02:10 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:02:20 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:02:30 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:02:40 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:02:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:03:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:03:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:03:11 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 16:03:11 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 16:03:21 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 16:03:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:03:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:03:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:03:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:10:52 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:11:02 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:11:12 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:11:22 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:12:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:01 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 16:13:01 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 16:13:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:11 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 16:13:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:38 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:38 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:38 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:38 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:38 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:48 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:48 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:48 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:48 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:48 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:48 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:58 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:58 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:58 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:58 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:58 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:58 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:13:58 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:27:52 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:28:02 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:28:02 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 16:28:02 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 16:28:12 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 16:35:22 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:35:32 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:35:42 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:35:52 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:35:52 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 16:35:52 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 16:36:02 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 16:37:53 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:37:53 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 16:37:53 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 16:38:03 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 16:40:34 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 16:40:34 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 16:40:44 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 16:41:34 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:41:34 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 16:41:34 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 16:41:44 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 16:49:02 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:49:12 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:49:12 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 16:49:12 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 16:49:22 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 16:52:37 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:52:37 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 16:52:37 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 16:52:47 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 16:58:02 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 16:58:02 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 16:58:02 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 16:58:12 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 17:04:52 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:04:52 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 17:04:52 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 17:05:02 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 17:07:54 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 17:07:54 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 17:09:09 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 17:09:09 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 17:09:19 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 17:12:29 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:12:29 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 17:12:29 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 17:12:39 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 17:16:32 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:16:32 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 17:16:32 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 17:16:42 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 17:20:57 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:20:57 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 17:20:57 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 17:21:07 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 17:24:34 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:24:44 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:24:54 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:24:54 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 17:24:54 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 17:25:04 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 17:27:53 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 17:27:53 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 17:28:03 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 17:37:57 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:38:07 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:38:17 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:38:17 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 17:38:17 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 17:38:27 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 17:40:06 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:40:06 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 17:40:06 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 17:40:16 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 17:46:14 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 17:46:14 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 17:46:24 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 17:47:56 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:47:56 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 17:47:56 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 17:48:06 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 17:50:51 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 17:50:51 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 17:51:01 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 17:51:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:52:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:52:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:52:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:52:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:52:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:52:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:53:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:53:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:53:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:53:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:53:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:53:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:54:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:54:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:54:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:54:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:54:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:54:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:55:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:55:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:55:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:55:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:55:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:55:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:56:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:56:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:56:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:56:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:56:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:56:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:57:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:57:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:57:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:57:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:57:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:57:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:58:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:58:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:58:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:58:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:58:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:58:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:59:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:59:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:59:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:59:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:59:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 17:59:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:00:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:00:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:00:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:00:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:00:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:00:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:01:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:01:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:01:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:01:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:01:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:01:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:02:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:02:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:02:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:02:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:02:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:02:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:03:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:03:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:03:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:03:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:03:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:03:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:04:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:04:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:04:21 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:04:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:04:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:04:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:05:02 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:05:12 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:05:22 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:05:32 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:05:42 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:05:52 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:06:02 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:06:12 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:06:12 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 18:06:12 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 18:06:22 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 18:07:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:07:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:07:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:07:51 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 18:07:51 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 18:08:04 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 18:08:54 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:09:04 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:09:14 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:09:24 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:09:34 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:09:44 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:09:54 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:10:04 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:10:14 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:10:24 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:10:35 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:10:45 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:10:45 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 18:10:45 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 18:10:59 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 18:16:35 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:16:45 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:16:55 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:17:05 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:17:15 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:17:25 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:17:35 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:17:45 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:17:55 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:18:05 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:18:15 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:18:25 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:18:35 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:19:50 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:19:50 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 18:19:50 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 18:20:00 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 18:22:07 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 18:22:07 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 18:22:17 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 18:26:09 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:26:19 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:26:29 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:26:39 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:26:39 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 18:26:39 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 18:26:49 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 18:33:57 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:34:07 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:34:07 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 18:34:07 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 18:34:17 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 18:37:03 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:37:03 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 18:37:03 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 18:37:13 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 18:42:30 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:42:30 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 18:42:30 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 18:42:40 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 18:45:35 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:45:45 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:45:45 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 18:45:45 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 18:45:55 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 18:47:47 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:47:47 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 18:47:47 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 18:47:57 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 18:50:06 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:50:16 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:50:16 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 18:50:16 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 18:50:26 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 18:59:22 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:59:32 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:59:42 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 18:59:52 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:00:02 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:00:12 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:00:12 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 19:00:12 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 19:00:22 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 19:01:54 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 19:01:54 CommunicationServer.Protocol.Command.CMDCRCError Set IT Param Successfully!
+2020-10-08 19:02:04 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 19:02:14 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:02:24 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:02:24 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:02:34 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:02:34 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:02:34 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:02:44 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:05:48 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:05:48 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 19:05:48 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 19:05:58 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:05:58 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:05:58 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:05:58 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 19:09:21 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 19:09:21 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 19:09:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:09:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:09:31 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:09:31 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!
+2020-10-08 19:09:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:09:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:09:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:09:41 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:09:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:09:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:09:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:09:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:09:51 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:10:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:10:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:10:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:10:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:10:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:10:01 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:10:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:10:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:10:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:10:11 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:11:45 CommunicationServer.Protocol.Command.CMDCRCError Stop Sample Successfully!
+2020-10-08 19:11:45 CommunicationServer.Protocol.Command.CMDCRCError Set Sensitivitys Successfully!
+2020-10-08 19:11:45 CommunicationServer.Protocol.Command.CMDCRCError Set CV Param Successfully!
+2020-10-08 19:11:55 CommunicationServer.Protocol.Command.CMDCRCError Start Sample Successfully!

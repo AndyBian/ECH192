@@ -1,0 +1,532 @@
+﻿2020-10-14 19:33:56 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 19:33:56 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 19:33:56 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 19:33:56 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 19:33:56 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 19:33:56 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 19:33:56 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 19:33:56 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 19:33:56 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 19:33:56 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 19:33:56 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 19:33:56 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 19:33:56 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 19:33:56 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 19:33:56 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 19:33:56 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 19:34:42 ECH192.MainForm 2 IT法电沉积
+2020-10-14 19:34:42 ECH192.MainForm 2 IT法电沉积
+2020-10-14 19:34:42 ECH192.MainForm 2 IT法电沉积
+2020-10-14 19:34:42 ECH192.MainForm 2 IT法电沉积
+2020-10-14 19:34:44 ECH192.MainForm 2 IT法电沉积
+2020-10-14 19:34:44 ECH192.MainForm 2 IT法电沉积
+2020-10-14 19:34:44 ECH192.MainForm 2 CV法扫描
+2020-10-14 19:34:44 ECH192.MainForm 2 CV法扫描
+2020-10-14 19:44:30 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 19:44:30 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 19:44:30 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 19:44:30 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 19:44:30 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 19:44:30 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 19:44:30 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 19:44:30 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 19:44:30 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 19:44:30 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 19:44:30 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 19:44:30 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 19:44:30 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 19:44:30 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 19:44:30 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 19:44:30 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 19:46:44 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 19:46:45 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 19:46:45 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 19:46:45 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 19:46:45 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 19:46:45 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 19:46:45 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 19:46:45 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 19:46:45 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 19:46:45 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 19:46:45 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 19:46:45 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 19:46:45 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 19:46:45 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 19:46:45 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 19:46:45 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 19:47:52 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 19:47:52 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 19:47:52 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 19:47:52 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 19:47:52 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 19:47:52 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 19:47:52 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 19:47:52 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 19:47:52 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 19:47:52 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 19:47:52 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 19:47:52 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 19:47:52 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 19:47:52 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 19:47:52 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 19:47:52 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 19:54:01 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 19:54:01 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 19:54:01 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 19:54:01 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 19:54:01 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 19:54:01 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 19:54:01 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 19:54:01 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 19:54:01 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 19:54:01 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 19:54:01 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 19:54:01 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 19:54:01 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 19:54:01 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 19:54:01 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 19:54:01 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 19:54:13 ECH192.MainForm 2 CV法扫描
+2020-10-14 19:54:13 ECH192.MainForm 2 CV法扫描
+2020-10-14 19:54:13 ECH192.MainForm 2 CV法扫描
+2020-10-14 19:54:13 ECH192.MainForm 2 CV法扫描
+2020-10-14 19:54:15 ECH192.MainForm 2 CV法扫描
+2020-10-14 19:54:15 ECH192.MainForm 2 CV法扫描
+2020-10-14 19:54:15 ECH192.MainForm 2 IT法电沉积
+2020-10-14 19:54:15 ECH192.MainForm 2 IT法电沉积
+2020-10-14 19:56:38 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 19:56:38 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 19:56:38 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 19:56:38 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 19:56:38 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 19:56:38 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 19:56:38 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 19:56:38 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 19:56:38 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 19:56:38 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 19:56:38 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 19:56:38 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 19:56:38 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 19:56:38 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 19:56:38 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 19:56:38 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 19:59:36 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 19:59:36 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 19:59:36 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 19:59:36 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 19:59:36 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 19:59:36 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 19:59:36 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 19:59:36 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 19:59:36 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 19:59:36 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 19:59:36 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 19:59:36 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 19:59:36 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 19:59:36 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 19:59:36 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 19:59:36 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 20:02:05 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:02:05 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:02:05 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:02:05 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:02:07 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:02:07 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:02:07 ECH192.MainForm 2 CV法扫描
+2020-10-14 20:02:07 ECH192.MainForm 2 CV法扫描
+2020-10-14 20:02:12 ECH192.MainForm 2 CV法扫描
+2020-10-14 20:02:12 ECH192.MainForm 2 CV法扫描
+2020-10-14 20:02:12 ECH192.MainForm 2 CV法扫描
+2020-10-14 20:02:12 ECH192.MainForm 2 CV法扫描
+2020-10-14 20:02:13 ECH192.MainForm 2 CV法扫描
+2020-10-14 20:02:13 ECH192.MainForm 2 CV法扫描
+2020-10-14 20:02:13 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:02:13 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:03:52 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 20:03:52 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 20:03:52 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 20:03:52 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 20:03:52 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 20:03:52 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 20:03:52 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 20:03:52 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 20:03:52 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 20:03:52 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 20:03:53 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 20:03:53 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 20:03:53 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 20:03:53 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 20:03:53 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 20:03:53 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 20:04:14 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 20:04:14 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 20:04:14 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 20:04:14 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 20:04:14 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 20:04:14 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 20:04:14 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 20:04:14 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 20:04:14 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 20:04:14 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 20:04:14 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 20:04:14 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 20:04:14 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 20:04:14 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 20:04:14 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 20:04:14 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 20:14:41 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 20:14:41 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 20:14:41 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 20:14:41 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 20:14:41 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 20:14:41 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 20:14:41 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 20:14:41 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 20:14:41 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 20:14:41 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 20:14:41 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 20:14:41 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 20:14:41 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 20:14:41 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 20:14:41 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 20:14:41 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 20:14:55 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:14:55 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:14:55 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:14:55 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:17:07 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 20:17:07 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 20:17:07 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 20:17:07 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 20:17:07 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 20:17:07 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 20:17:07 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 20:17:07 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 20:17:07 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 20:17:07 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 20:17:07 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 20:17:07 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 20:17:07 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 20:17:07 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 20:17:07 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 20:17:07 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 20:19:53 ECH192.MainForm 2 CV法扫描
+2020-10-14 20:19:53 ECH192.MainForm 2 CV法扫描
+2020-10-14 20:19:53 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:19:53 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:19:55 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:19:55 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:19:55 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:19:55 ECH192.MainForm 2 IT法电沉积
+2020-10-14 20:26:03 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 20:26:03 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 20:26:03 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 20:26:03 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 20:26:03 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 20:26:03 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 20:26:03 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 20:26:03 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 20:26:03 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 20:26:03 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 20:26:03 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 20:26:03 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 20:26:03 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 20:26:03 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 20:26:03 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 20:26:03 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 20:31:13 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 20:31:13 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 20:31:13 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 20:31:13 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 20:31:13 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 20:31:13 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 20:31:13 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 20:31:13 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 20:31:13 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 20:31:13 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 20:31:13 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 20:31:13 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 20:31:13 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 20:31:13 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 20:31:13 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 20:31:13 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 20:43:48 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 20:43:48 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 20:43:48 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 20:43:48 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 20:43:48 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 20:43:48 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 20:43:48 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 20:43:48 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 20:43:48 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 20:43:48 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 20:43:48 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 20:43:48 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 20:43:48 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 20:43:48 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 20:43:48 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 20:43:48 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 20:46:47 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 20:46:47 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 20:46:47 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 20:46:47 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 20:46:47 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 20:46:47 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 20:46:47 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 20:46:47 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 20:46:47 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 20:46:47 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 20:46:47 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 20:46:47 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 20:46:47 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 20:46:47 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 20:46:47 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 20:46:47 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 20:53:01 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 20:53:01 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 20:53:01 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 20:53:01 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 20:53:01 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 20:53:01 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 20:53:01 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 20:53:01 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 20:53:01 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 20:53:01 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 20:53:01 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 20:53:01 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 20:53:01 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 20:53:01 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 20:53:01 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 20:53:01 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 20:54:20 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 20:54:20 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 20:54:20 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 20:54:20 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 20:54:20 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 20:54:20 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 20:54:20 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 20:54:20 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 20:54:20 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 20:54:20 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 20:54:20 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 20:54:20 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 20:54:20 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 20:54:20 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 20:54:20 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 20:54:20 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 20:59:58 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 20:59:58 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 20:59:58 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 20:59:58 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 20:59:58 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 20:59:58 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 20:59:58 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 20:59:58 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 20:59:58 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 20:59:58 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 20:59:58 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 20:59:58 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 20:59:58 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 20:59:58 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 20:59:58 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 20:59:58 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 21:02:58 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 21:02:58 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 21:02:58 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 21:02:58 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 21:02:58 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 21:02:58 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 21:02:58 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 21:02:58 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 21:02:58 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 21:02:58 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 21:02:58 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 21:02:58 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 21:02:58 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 21:02:58 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 21:02:58 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 21:02:58 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 21:09:42 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 21:09:42 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 21:09:42 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 21:09:42 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 21:09:42 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 21:09:42 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 21:09:42 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 21:09:42 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 21:09:42 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 21:09:42 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 21:09:42 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 21:09:42 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 21:09:42 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 21:09:42 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 21:09:42 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 21:09:42 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 21:10:13 ECH192.MainForm 2 CV法扫描
+2020-10-14 21:10:13 ECH192.MainForm 2 CV法扫描
+2020-10-14 21:10:13 ECH192.MainForm 2 IT法电沉积
+2020-10-14 21:10:13 ECH192.MainForm 2 IT法电沉积
+2020-10-14 21:14:40 ECH192.MainForm 2 CV法扫描
+2020-10-14 21:14:40 ECH192.MainForm 2 CV法扫描
+2020-10-14 21:14:40 ECH192.MainForm 2 CV法扫描
+2020-10-14 21:14:40 ECH192.MainForm 2 CV法扫描
+2020-10-14 21:16:08 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 21:16:08 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 21:16:08 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 21:16:08 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 21:16:08 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 21:16:08 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 21:16:08 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 21:16:08 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 21:16:08 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 21:16:08 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 21:16:08 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 21:16:08 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 21:16:08 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 21:16:08 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 21:16:08 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 21:16:08 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 22:06:25 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 22:06:25 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 22:06:25 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 22:06:25 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 22:06:25 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 22:06:25 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 22:06:25 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 22:06:25 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 22:06:25 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 22:06:25 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 22:06:25 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 22:06:25 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 22:06:25 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 22:06:25 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 22:06:25 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 22:06:25 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 22:15:29 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 22:15:29 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 22:15:29 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 22:15:29 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 22:15:29 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 22:15:29 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 22:15:29 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 22:15:29 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 22:15:29 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 22:15:29 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 22:15:29 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 22:15:29 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 22:15:29 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 22:15:29 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 22:15:29 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 22:15:29 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 22:20:27 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 22:20:28 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 22:20:28 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 22:20:28 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 22:20:28 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 22:20:28 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 22:20:28 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 22:20:28 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 22:20:28 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 22:20:28 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 22:20:28 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 22:20:28 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 22:20:28 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 22:20:28 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 22:20:28 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 22:20:28 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 22:22:35 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 22:22:35 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 22:22:35 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 22:22:35 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 22:22:35 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 22:22:35 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 22:22:35 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 22:22:35 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 22:22:35 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 22:22:35 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 22:22:35 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 22:22:35 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 22:22:35 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 22:22:35 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 22:22:35 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 22:22:35 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 22:28:11 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 22:28:11 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 22:28:11 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 22:28:11 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 22:28:11 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 22:28:11 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 22:28:11 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 22:28:11 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 22:28:11 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 22:28:11 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 22:28:11 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 22:28:11 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 22:28:11 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 22:28:11 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 22:28:11 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 22:28:11 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 22:40:06 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 22:40:06 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 22:40:06 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 22:40:06 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 22:40:06 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 22:40:06 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 22:40:06 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 22:40:06 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 22:40:06 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 22:40:06 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 22:40:06 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 22:40:06 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 22:40:06 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 22:40:06 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 22:40:06 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 22:40:06 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 22:47:18 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 22:47:18 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 22:47:18 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 22:47:18 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 22:47:18 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 22:47:18 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 22:47:18 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 22:47:18 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 22:47:18 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 22:47:18 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 22:47:18 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 22:47:18 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 22:47:18 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 22:47:18 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 22:47:18 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 22:47:18 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 22:51:13 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 22:51:13 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 22:51:13 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 22:51:13 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 22:51:13 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 22:51:13 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 22:51:13 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 22:51:13 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 22:51:13 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 22:51:13 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 22:51:13 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 22:51:13 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 22:51:13 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 22:51:13 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 22:51:13 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 22:51:13 commandServer Listener (192.168.14.18:8765) was started
+2020-10-14 22:57:29 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-10-14 22:57:29 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-10-14 22:57:29 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-10-14 22:57:29 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-10-14 22:57:29 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-10-14 22:57:29 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-10-14 22:57:29 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-10-14 22:57:29 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-10-14 22:57:29 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-10-14 22:57:29 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-10-14 22:57:29 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-10-14 22:57:29 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-10-14 22:57:29 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-10-14 22:57:29 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-10-14 22:57:29 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-10-14 22:57:29 commandServer Listener (192.168.14.18:8765) was started

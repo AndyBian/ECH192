@@ -1,0 +1,1910 @@
+﻿2020-09-26 09:59:54 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 09:59:54 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 09:59:54 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 09:59:54 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 09:59:54 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 09:59:54 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 09:59:54 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 09:59:54 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 09:59:54 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 09:59:54 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 09:59:54 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 09:59:54 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 09:59:54 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 09:59:54 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 09:59:54 commandServer Listener (192.168.0.84:40001) failed to start
+2020-09-26 10:05:55 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 10:05:55 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 10:05:55 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 10:05:55 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 10:05:55 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 10:05:55 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 10:05:55 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 10:05:55 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 10:05:55 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 10:05:55 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 10:05:55 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 10:05:55 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 10:05:55 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 10:05:55 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 10:05:56 commandServer Listener (192.168.0.84:40001) failed to start
+2020-09-26 10:09:19 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 10:09:19 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 10:09:19 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 10:09:19 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 10:09:19 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 10:09:19 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 10:09:19 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 10:09:19 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 10:09:19 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 10:09:19 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 10:09:19 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 10:09:19 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 10:09:19 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 10:09:19 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 10:09:19 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 10:21:30 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 10:21:30 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 10:21:30 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 10:21:30 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 10:21:30 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 10:21:30 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 10:21:30 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 10:21:30 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 10:21:30 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 10:21:30 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 10:21:30 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 10:21:30 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 10:21:30 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 10:21:30 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 10:21:30 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 10:24:48 CommunicationServer.Protocol.Command.CMDRestartSystem Restart device successfully!
+2020-09-26 10:26:08 CommunicationServer.Protocol.Command.CMDRestartSystem Restart device successfully!
+2020-09-26 10:31:40 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 10:31:40 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 10:31:40 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 10:31:40 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 10:31:40 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 10:31:40 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 10:31:40 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 10:31:40 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 10:31:40 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 10:31:40 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 10:31:40 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 10:31:40 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 10:31:40 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 10:31:40 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 10:31:40 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 10:32:12 CommunicationServer.Protocol.Command.CMDRestartSystem 重启设备成功!
+2020-09-26 10:33:24 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:24 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:24 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:24 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:24 ECH192.MainForm 13 通空气
+2020-09-26 10:33:24 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:24 ECH192.MainForm 13 通溶液2
+2020-09-26 10:33:24 ECH192.MainForm 13 通空气
+2020-09-26 10:33:24 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:24 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:24 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:24 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:24 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:24 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:24 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:24 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:24 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:24 ECH192.MainForm 13 通空气
+2020-09-26 10:33:24 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:24 ECH192.MainForm 13 通溶液2
+2020-09-26 10:33:24 ECH192.MainForm 13 通空气
+2020-09-26 10:33:24 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:24 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:24 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:24 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:24 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:24 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:24 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:24 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:24 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:24 ECH192.MainForm 13 通空气
+2020-09-26 10:33:24 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:24 ECH192.MainForm 13 通溶液2
+2020-09-26 10:33:24 ECH192.MainForm 13 通空气
+2020-09-26 10:33:24 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:24 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:24 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:24 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:24 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:25 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:25 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:25 ECH192.MainForm 13 通空气
+2020-09-26 10:33:25 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:25 ECH192.MainForm 13 通溶液2
+2020-09-26 10:33:25 ECH192.MainForm 13 通空气
+2020-09-26 10:33:25 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:25 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:25 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:25 ECH192.MainForm 13 通空气
+2020-09-26 10:33:25 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:25 ECH192.MainForm 13 通溶液2
+2020-09-26 10:33:25 ECH192.MainForm 13 通空气
+2020-09-26 10:33:25 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:25 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:25 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:25 ECH192.MainForm 13 通空气
+2020-09-26 10:33:25 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:25 ECH192.MainForm 13 通溶液2
+2020-09-26 10:33:25 ECH192.MainForm 13 通空气
+2020-09-26 10:33:25 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:25 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:25 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:25 ECH192.MainForm 13 通空气
+2020-09-26 10:33:25 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:25 ECH192.MainForm 13 通溶液2
+2020-09-26 10:33:25 ECH192.MainForm 13 通空气
+2020-09-26 10:33:25 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:25 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:25 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:25 ECH192.MainForm 13 通空气
+2020-09-26 10:33:25 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:25 ECH192.MainForm 13 通溶液2
+2020-09-26 10:33:25 ECH192.MainForm 13 通空气
+2020-09-26 10:33:25 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:25 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:26 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:26 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:26 ECH192.MainForm 13 通空气
+2020-09-26 10:33:26 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:26 ECH192.MainForm 13 通溶液2
+2020-09-26 10:33:26 ECH192.MainForm 13 通空气
+2020-09-26 10:33:26 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:26 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:26 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:26 ECH192.MainForm 13 通空气
+2020-09-26 10:33:26 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:26 ECH192.MainForm 13 通溶液2
+2020-09-26 10:33:26 ECH192.MainForm 13 通空气
+2020-09-26 10:33:26 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:26 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:26 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:26 ECH192.MainForm 13 通空气
+2020-09-26 10:33:26 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:26 ECH192.MainForm 13 通溶液2
+2020-09-26 10:33:26 ECH192.MainForm 13 通空气
+2020-09-26 10:33:26 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:26 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:26 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:26 ECH192.MainForm 13 通空气
+2020-09-26 10:33:26 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:26 ECH192.MainForm 13 通溶液2
+2020-09-26 10:33:26 ECH192.MainForm 13 通空气
+2020-09-26 10:33:26 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:26 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:26 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:26 ECH192.MainForm 13 通空气
+2020-09-26 10:33:26 ECH192.MainForm 13 通溶液1
+2020-09-26 10:33:26 ECH192.MainForm 13 通溶液2
+2020-09-26 10:33:26 ECH192.MainForm 13 通空气
+2020-09-26 10:33:26 ECH192.MainForm 13 通纯水
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:33:26 ECH192.MainForm 13 针板下压
+2020-09-26 10:35:47 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 10:35:47 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 10:35:47 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 10:35:47 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 10:35:47 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 10:35:47 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 10:35:47 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 10:35:47 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 10:35:47 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 10:35:47 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 10:35:47 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 10:35:47 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 10:35:47 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 10:35:47 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 10:35:47 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 10:37:29 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 10:37:29 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 10:37:29 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 10:37:29 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 10:37:29 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 10:37:29 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 10:37:29 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 10:37:29 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 10:37:29 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 10:37:29 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 10:37:29 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 10:37:29 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 10:37:29 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 10:37:29 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 10:37:29 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 10:40:53 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 10:40:53 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 10:40:53 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 10:40:53 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 10:40:53 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 10:40:53 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 10:40:53 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 10:40:53 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 10:40:53 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 10:40:53 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 10:40:53 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 10:40:53 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 10:40:53 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 10:40:53 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 10:40:53 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 10:42:22 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 10:42:22 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 10:42:22 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 10:42:22 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 10:42:22 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 10:42:22 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 10:42:22 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 10:42:22 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 10:42:22 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 10:42:22 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 10:42:22 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 10:42:22 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 10:42:22 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 10:42:22 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 10:42:22 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 10:57:36 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 10:57:36 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 10:57:36 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 10:57:36 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 10:57:36 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 10:57:36 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 10:57:36 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 10:57:36 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 10:57:36 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 10:57:36 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 10:57:36 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 10:57:36 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 10:57:36 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 10:57:36 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 10:57:36 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 10:58:46 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 10:58:46 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 10:58:46 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 10:58:46 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 10:58:46 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 10:58:46 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 10:58:46 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 10:58:46 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 10:58:46 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 10:58:46 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 10:58:46 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 10:58:46 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 10:58:46 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 10:58:46 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 10:58:46 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 11:03:44 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 11:03:44 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 11:03:44 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 11:03:44 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 11:03:44 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 11:03:44 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 11:03:44 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 11:03:44 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 11:03:44 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 11:03:44 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 11:03:44 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 11:03:44 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 11:03:44 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 11:03:44 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 11:03:44 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:53 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:53 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:53 ECH192.MainForm 13 通空气
+2020-09-26 11:03:53 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:53 ECH192.MainForm 13 通溶液2
+2020-09-26 11:03:53 ECH192.MainForm 13 通空气
+2020-09-26 11:03:53 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:53 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:53 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:53 ECH192.MainForm 13 通空气
+2020-09-26 11:03:53 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:53 ECH192.MainForm 13 通溶液2
+2020-09-26 11:03:53 ECH192.MainForm 13 通空气
+2020-09-26 11:03:53 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:53 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:53 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:53 ECH192.MainForm 13 通空气
+2020-09-26 11:03:53 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:53 ECH192.MainForm 13 通溶液2
+2020-09-26 11:03:53 ECH192.MainForm 13 通空气
+2020-09-26 11:03:53 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:53 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:53 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:53 ECH192.MainForm 13 通空气
+2020-09-26 11:03:53 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:53 ECH192.MainForm 13 通溶液2
+2020-09-26 11:03:53 ECH192.MainForm 13 通空气
+2020-09-26 11:03:53 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:53 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:54 ECH192.MainForm 13 通空气
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液2
+2020-09-26 11:03:54 ECH192.MainForm 13 通空气
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:54 ECH192.MainForm 13 通空气
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液2
+2020-09-26 11:03:54 ECH192.MainForm 13 通空气
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:54 ECH192.MainForm 13 通空气
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液2
+2020-09-26 11:03:54 ECH192.MainForm 13 通空气
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:54 ECH192.MainForm 13 通空气
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液2
+2020-09-26 11:03:54 ECH192.MainForm 13 通空气
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:54 ECH192.MainForm 13 通空气
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液2
+2020-09-26 11:03:54 ECH192.MainForm 13 通空气
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:54 ECH192.MainForm 13 通空气
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:54 ECH192.MainForm 13 通溶液2
+2020-09-26 11:03:54 ECH192.MainForm 13 通空气
+2020-09-26 11:03:54 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:54 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:55 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:55 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:55 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:55 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:55 ECH192.MainForm 13 通空气
+2020-09-26 11:03:55 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:55 ECH192.MainForm 13 通溶液2
+2020-09-26 11:03:55 ECH192.MainForm 13 通空气
+2020-09-26 11:03:55 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:55 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:55 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:55 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:55 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:55 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:55 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:55 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:55 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:55 ECH192.MainForm 13 通空气
+2020-09-26 11:03:55 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:55 ECH192.MainForm 13 通溶液2
+2020-09-26 11:03:55 ECH192.MainForm 13 通空气
+2020-09-26 11:03:55 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:55 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:55 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:55 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:55 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:55 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:55 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:55 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:55 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:55 ECH192.MainForm 13 通空气
+2020-09-26 11:03:55 ECH192.MainForm 13 通溶液1
+2020-09-26 11:03:55 ECH192.MainForm 13 通溶液2
+2020-09-26 11:03:55 ECH192.MainForm 13 通空气
+2020-09-26 11:03:55 ECH192.MainForm 13 通纯水
+2020-09-26 11:03:55 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:55 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:55 ECH192.MainForm 13 针板下压
+2020-09-26 11:03:55 ECH192.MainForm 13 针板下压
+2020-09-26 11:07:46 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 11:07:46 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 11:07:46 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 11:07:46 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 11:07:46 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 11:07:46 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 11:07:46 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 11:07:46 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 11:07:46 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 11:07:46 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 11:07:46 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 11:07:46 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 11:07:46 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 11:07:46 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 11:07:46 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 11:08:30 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:30 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:30 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:30 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:30 ECH192.MainForm 13 通空气
+2020-09-26 11:08:30 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:30 ECH192.MainForm 13 通溶液2
+2020-09-26 11:08:30 ECH192.MainForm 13 通空气
+2020-09-26 11:08:30 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:30 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:30 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:30 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:30 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:30 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:30 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:30 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:30 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:30 ECH192.MainForm 13 通空气
+2020-09-26 11:08:30 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:30 ECH192.MainForm 13 通溶液2
+2020-09-26 11:08:30 ECH192.MainForm 13 通空气
+2020-09-26 11:08:30 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:30 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:30 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:30 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:30 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:30 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:30 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:30 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:30 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:30 ECH192.MainForm 13 通空气
+2020-09-26 11:08:30 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:30 ECH192.MainForm 13 通溶液2
+2020-09-26 11:08:30 ECH192.MainForm 13 通空气
+2020-09-26 11:08:30 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:30 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:30 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:30 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:30 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:30 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:30 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:31 ECH192.MainForm 13 通空气
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液2
+2020-09-26 11:08:31 ECH192.MainForm 13 通空气
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:31 ECH192.MainForm 13 通空气
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液2
+2020-09-26 11:08:31 ECH192.MainForm 13 通空气
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:31 ECH192.MainForm 13 通空气
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液2
+2020-09-26 11:08:31 ECH192.MainForm 13 通空气
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:31 ECH192.MainForm 13 通空气
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液2
+2020-09-26 11:08:31 ECH192.MainForm 13 通空气
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:31 ECH192.MainForm 13 通空气
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液2
+2020-09-26 11:08:31 ECH192.MainForm 13 通空气
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:31 ECH192.MainForm 13 通空气
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液2
+2020-09-26 11:08:31 ECH192.MainForm 13 通空气
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:31 ECH192.MainForm 13 通空气
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:31 ECH192.MainForm 13 通溶液2
+2020-09-26 11:08:31 ECH192.MainForm 13 通空气
+2020-09-26 11:08:31 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:31 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:32 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:32 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:32 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:32 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:32 ECH192.MainForm 13 通空气
+2020-09-26 11:08:32 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:32 ECH192.MainForm 13 通溶液2
+2020-09-26 11:08:32 ECH192.MainForm 13 通空气
+2020-09-26 11:08:32 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:32 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:32 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:32 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:32 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:32 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:32 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:32 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:32 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:32 ECH192.MainForm 13 通空气
+2020-09-26 11:08:32 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:32 ECH192.MainForm 13 通溶液2
+2020-09-26 11:08:32 ECH192.MainForm 13 通空气
+2020-09-26 11:08:32 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:32 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:32 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:32 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:32 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:32 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:32 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:32 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:32 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:32 ECH192.MainForm 13 通空气
+2020-09-26 11:08:32 ECH192.MainForm 13 通溶液1
+2020-09-26 11:08:32 ECH192.MainForm 13 通溶液2
+2020-09-26 11:08:32 ECH192.MainForm 13 通空气
+2020-09-26 11:08:32 ECH192.MainForm 13 通纯水
+2020-09-26 11:08:32 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:32 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:32 ECH192.MainForm 13 针板下压
+2020-09-26 11:08:32 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:33 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 15:12:33 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 15:12:33 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 15:12:33 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 15:12:33 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 15:12:33 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 15:12:33 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 15:12:33 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 15:12:33 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 15:12:33 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 15:12:33 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 15:12:33 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 15:12:33 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 15:12:33 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 15:12:33 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:40 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:40 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:40 ECH192.MainForm 13 通空气
+2020-09-26 15:12:40 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:40 ECH192.MainForm 13 通溶液2
+2020-09-26 15:12:40 ECH192.MainForm 13 通空气
+2020-09-26 15:12:40 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:40 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:40 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:40 ECH192.MainForm 13 通空气
+2020-09-26 15:12:40 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:40 ECH192.MainForm 13 通溶液2
+2020-09-26 15:12:40 ECH192.MainForm 13 通空气
+2020-09-26 15:12:40 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:40 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:40 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:40 ECH192.MainForm 13 通空气
+2020-09-26 15:12:40 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:40 ECH192.MainForm 13 通溶液2
+2020-09-26 15:12:40 ECH192.MainForm 13 通空气
+2020-09-26 15:12:40 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:40 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:40 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:40 ECH192.MainForm 13 通空气
+2020-09-26 15:12:40 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:40 ECH192.MainForm 13 通溶液2
+2020-09-26 15:12:40 ECH192.MainForm 13 通空气
+2020-09-26 15:12:40 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:40 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:41 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:41 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:41 ECH192.MainForm 13 通空气
+2020-09-26 15:12:41 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:41 ECH192.MainForm 13 通溶液2
+2020-09-26 15:12:41 ECH192.MainForm 13 通空气
+2020-09-26 15:12:41 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:41 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:41 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:41 ECH192.MainForm 13 通空气
+2020-09-26 15:12:41 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:41 ECH192.MainForm 13 通溶液2
+2020-09-26 15:12:41 ECH192.MainForm 13 通空气
+2020-09-26 15:12:41 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:41 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:41 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:41 ECH192.MainForm 13 通空气
+2020-09-26 15:12:41 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:41 ECH192.MainForm 13 通溶液2
+2020-09-26 15:12:41 ECH192.MainForm 13 通空气
+2020-09-26 15:12:41 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:41 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:41 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:41 ECH192.MainForm 13 通空气
+2020-09-26 15:12:41 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:41 ECH192.MainForm 13 通溶液2
+2020-09-26 15:12:41 ECH192.MainForm 13 通空气
+2020-09-26 15:12:41 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:41 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:41 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:41 ECH192.MainForm 13 通空气
+2020-09-26 15:12:41 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:41 ECH192.MainForm 13 通溶液2
+2020-09-26 15:12:41 ECH192.MainForm 13 通空气
+2020-09-26 15:12:41 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:41 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:42 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:42 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:42 ECH192.MainForm 13 通空气
+2020-09-26 15:12:42 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:42 ECH192.MainForm 13 通溶液2
+2020-09-26 15:12:42 ECH192.MainForm 13 通空气
+2020-09-26 15:12:42 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:42 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:42 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:42 ECH192.MainForm 13 通空气
+2020-09-26 15:12:42 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:42 ECH192.MainForm 13 通溶液2
+2020-09-26 15:12:42 ECH192.MainForm 13 通空气
+2020-09-26 15:12:42 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:42 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:42 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:42 ECH192.MainForm 13 通空气
+2020-09-26 15:12:42 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:42 ECH192.MainForm 13 通溶液2
+2020-09-26 15:12:42 ECH192.MainForm 13 通空气
+2020-09-26 15:12:42 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:42 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:42 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:42 ECH192.MainForm 13 通空气
+2020-09-26 15:12:42 ECH192.MainForm 13 通溶液1
+2020-09-26 15:12:42 ECH192.MainForm 13 通溶液2
+2020-09-26 15:12:42 ECH192.MainForm 13 通空气
+2020-09-26 15:12:42 ECH192.MainForm 13 通纯水
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:12:42 ECH192.MainForm 13 针板下压
+2020-09-26 15:13:00 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:00 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:00 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:00 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:00 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:00 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:00 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:00 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:11 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:13:11 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:13:11 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:11 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:11 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:11 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:11 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:11 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:13 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:13:13 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:13:13 ECH192.MainForm 4 通纯水
+2020-09-26 15:13:13 ECH192.MainForm 4 通纯水
+2020-09-26 15:13:13 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:13 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:13 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:13 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:15 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:13:15 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:13:15 ECH192.MainForm 4 通纯水
+2020-09-26 15:13:15 ECH192.MainForm 4 通纯水
+2020-09-26 15:13:15 ECH192.MainForm 4 通溶液2
+2020-09-26 15:13:15 ECH192.MainForm 4 通溶液2
+2020-09-26 15:13:15 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:15 ECH192.MainForm 4 针板下压
+2020-09-26 15:13:18 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:13:18 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:13:18 ECH192.MainForm 4 通纯水
+2020-09-26 15:13:18 ECH192.MainForm 4 通纯水
+2020-09-26 15:13:18 ECH192.MainForm 4 通溶液2
+2020-09-26 15:13:18 ECH192.MainForm 4 通溶液2
+2020-09-26 15:13:18 ECH192.MainForm 4 通空气
+2020-09-26 15:13:18 ECH192.MainForm 4 通空气
+2020-09-26 15:14:11 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 15:14:11 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 15:14:11 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 15:14:11 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 15:14:11 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 15:14:11 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 15:14:11 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 15:14:11 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 15:14:11 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 15:14:11 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 15:14:11 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 15:14:11 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 15:14:11 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 15:14:11 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 15:14:11 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 15:15:28 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 15:15:28 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 15:15:28 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 15:15:28 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 15:15:28 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 15:15:28 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 15:15:28 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 15:15:28 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 15:15:28 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 15:15:28 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 15:15:28 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 15:15:28 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 15:15:28 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 15:15:28 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 15:15:28 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 15:17:56 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 15:17:56 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 15:17:56 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 15:17:56 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 15:17:56 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 15:17:56 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 15:17:56 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 15:17:56 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 15:17:56 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 15:17:56 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 15:17:56 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 15:17:56 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 15:17:56 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 15:17:56 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 15:17:56 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 15:19:22 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 15:19:22 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 15:19:22 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 15:19:22 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 15:19:22 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 15:19:22 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 15:19:22 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 15:19:22 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 15:19:22 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 15:19:22 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 15:19:22 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 15:19:22 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 15:19:22 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 15:19:22 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 15:19:22 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 15:19:29 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:19:29 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:19:29 ECH192.MainForm 4 通纯水
+2020-09-26 15:19:29 ECH192.MainForm 4 通纯水
+2020-09-26 15:19:29 ECH192.MainForm 4 通溶液2
+2020-09-26 15:19:29 ECH192.MainForm 4 通溶液2
+2020-09-26 15:19:29 ECH192.MainForm 4 通空气
+2020-09-26 15:19:29 ECH192.MainForm 4 通空气
+2020-09-26 15:19:29 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:19:29 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:19:29 ECH192.MainForm 4 通纯水
+2020-09-26 15:19:29 ECH192.MainForm 4 通纯水
+2020-09-26 15:19:29 ECH192.MainForm 4 通溶液2
+2020-09-26 15:19:29 ECH192.MainForm 4 通溶液2
+2020-09-26 15:19:29 ECH192.MainForm 4 通空气
+2020-09-26 15:19:29 ECH192.MainForm 4 通空气
+2020-09-26 15:19:29 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:19:29 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:19:29 ECH192.MainForm 4 通纯水
+2020-09-26 15:19:29 ECH192.MainForm 4 通纯水
+2020-09-26 15:19:29 ECH192.MainForm 4 通溶液2
+2020-09-26 15:19:29 ECH192.MainForm 4 通溶液2
+2020-09-26 15:19:29 ECH192.MainForm 4 通空气
+2020-09-26 15:19:29 ECH192.MainForm 4 通空气
+2020-09-26 15:19:29 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:19:29 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:19:29 ECH192.MainForm 4 通纯水
+2020-09-26 15:19:29 ECH192.MainForm 4 通纯水
+2020-09-26 15:19:29 ECH192.MainForm 4 通溶液2
+2020-09-26 15:19:29 ECH192.MainForm 4 通溶液2
+2020-09-26 15:19:29 ECH192.MainForm 4 通空气
+2020-09-26 15:19:29 ECH192.MainForm 4 通空气
+2020-09-26 15:20:53 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 15:20:53 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 15:20:53 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 15:20:53 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 15:20:53 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 15:20:53 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 15:20:53 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 15:20:53 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 15:20:53 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 15:20:53 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 15:20:53 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 15:20:53 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 15:20:53 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 15:20:53 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 15:20:53 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 15:20:56 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:20:56 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:20:56 ECH192.MainForm 4 通纯水
+2020-09-26 15:20:56 ECH192.MainForm 4 通纯水
+2020-09-26 15:20:56 ECH192.MainForm 4 通溶液2
+2020-09-26 15:20:56 ECH192.MainForm 4 通溶液2
+2020-09-26 15:20:56 ECH192.MainForm 4 通空气
+2020-09-26 15:20:56 ECH192.MainForm 4 通空气
+2020-09-26 15:20:56 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:20:56 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:20:56 ECH192.MainForm 4 通纯水
+2020-09-26 15:20:56 ECH192.MainForm 4 通纯水
+2020-09-26 15:20:56 ECH192.MainForm 4 通溶液2
+2020-09-26 15:20:56 ECH192.MainForm 4 通溶液2
+2020-09-26 15:20:56 ECH192.MainForm 4 通空气
+2020-09-26 15:20:56 ECH192.MainForm 4 通空气
+2020-09-26 15:20:56 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:20:56 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:20:56 ECH192.MainForm 4 通纯水
+2020-09-26 15:20:56 ECH192.MainForm 4 通纯水
+2020-09-26 15:20:56 ECH192.MainForm 4 通溶液2
+2020-09-26 15:20:56 ECH192.MainForm 4 通溶液2
+2020-09-26 15:20:56 ECH192.MainForm 4 通空气
+2020-09-26 15:20:56 ECH192.MainForm 4 通空气
+2020-09-26 15:20:57 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:20:57 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:20:57 ECH192.MainForm 4 通纯水
+2020-09-26 15:20:57 ECH192.MainForm 4 通纯水
+2020-09-26 15:20:57 ECH192.MainForm 4 通溶液2
+2020-09-26 15:20:57 ECH192.MainForm 4 通溶液2
+2020-09-26 15:20:57 ECH192.MainForm 4 通空气
+2020-09-26 15:20:57 ECH192.MainForm 4 通空气
+2020-09-26 15:22:39 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 15:22:39 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 15:22:39 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 15:22:39 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 15:22:39 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 15:22:39 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 15:22:39 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 15:22:39 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 15:22:39 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 15:22:39 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 15:22:39 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 15:22:39 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 15:22:39 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 15:22:39 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 15:22:39 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 15:23:12 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:23:12 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:23:13 ECH192.MainForm 4 通纯水
+2020-09-26 15:23:13 ECH192.MainForm 4 通纯水
+2020-09-26 15:23:13 ECH192.MainForm 4 通溶液2
+2020-09-26 15:23:13 ECH192.MainForm 4 通溶液2
+2020-09-26 15:23:13 ECH192.MainForm 4 通空气
+2020-09-26 15:23:13 ECH192.MainForm 4 通空气
+2020-09-26 15:23:13 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:23:13 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:23:13 ECH192.MainForm 4 通纯水
+2020-09-26 15:23:13 ECH192.MainForm 4 通纯水
+2020-09-26 15:23:13 ECH192.MainForm 4 通溶液2
+2020-09-26 15:23:13 ECH192.MainForm 4 通溶液2
+2020-09-26 15:23:13 ECH192.MainForm 4 通空气
+2020-09-26 15:23:13 ECH192.MainForm 4 通空气
+2020-09-26 15:23:13 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:23:13 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:23:13 ECH192.MainForm 4 通纯水
+2020-09-26 15:23:13 ECH192.MainForm 4 通纯水
+2020-09-26 15:23:13 ECH192.MainForm 4 通溶液2
+2020-09-26 15:23:13 ECH192.MainForm 4 通溶液2
+2020-09-26 15:23:13 ECH192.MainForm 4 通空气
+2020-09-26 15:23:13 ECH192.MainForm 4 通空气
+2020-09-26 15:23:13 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:23:13 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:23:13 ECH192.MainForm 4 通纯水
+2020-09-26 15:23:13 ECH192.MainForm 4 通纯水
+2020-09-26 15:23:13 ECH192.MainForm 4 通溶液2
+2020-09-26 15:23:13 ECH192.MainForm 4 通溶液2
+2020-09-26 15:23:13 ECH192.MainForm 4 通空气
+2020-09-26 15:23:13 ECH192.MainForm 4 通空气
+2020-09-26 15:27:53 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 15:27:53 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 15:27:53 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 15:27:53 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 15:27:53 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 15:27:53 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 15:27:53 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 15:27:53 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 15:27:53 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 15:27:53 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 15:27:53 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 15:27:53 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 15:27:53 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 15:27:53 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 15:27:53 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 15:31:30 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 15:31:30 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 15:31:30 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 15:31:30 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 15:31:30 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 15:31:30 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 15:31:30 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 15:31:30 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 15:31:30 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 15:31:30 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 15:31:30 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 15:31:30 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 15:31:30 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 15:31:30 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 15:31:30 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 15:40:10 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 15:40:10 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 15:40:10 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 15:40:10 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 15:40:10 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 15:40:10 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 15:40:10 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 15:40:10 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 15:40:10 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 15:40:10 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 15:40:10 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 15:40:10 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 15:40:10 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 15:40:10 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 15:40:10 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 15:42:04 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 15:42:04 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 15:42:04 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 15:42:04 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 15:42:04 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 15:42:04 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 15:42:04 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 15:42:04 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 15:42:04 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 15:42:04 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 15:42:04 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 15:42:04 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 15:42:04 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 15:42:04 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 15:42:04 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 15:46:06 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 15:46:06 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 15:46:06 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 15:46:06 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 15:46:06 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 15:46:06 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 15:46:06 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 15:46:06 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 15:46:06 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 15:46:06 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 15:46:06 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 15:46:06 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 15:46:06 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 15:46:06 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 15:46:06 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 15:48:39 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 15:48:39 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 15:48:39 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 15:48:39 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 15:48:39 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 15:48:39 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 15:48:39 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 15:48:39 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 15:48:39 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 15:48:39 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 15:48:39 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 15:48:39 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 15:48:39 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 15:48:39 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 15:48:39 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 15:48:39 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 15:53:55 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 15:53:55 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 15:53:55 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 15:53:55 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 15:53:55 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 15:53:55 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 15:53:55 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 15:53:55 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 15:53:55 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 15:53:55 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 15:53:55 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 15:53:55 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 15:53:55 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 15:53:55 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 15:53:55 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 15:53:55 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 15:54:08 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:54:08 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:54:08 ECH192.MainForm 4 通纯水
+2020-09-26 15:54:08 ECH192.MainForm 4 通纯水
+2020-09-26 15:54:08 ECH192.MainForm 4 通溶液2
+2020-09-26 15:54:08 ECH192.MainForm 4 通溶液2
+2020-09-26 15:54:08 ECH192.MainForm 4 通空气
+2020-09-26 15:54:08 ECH192.MainForm 4 通空气
+2020-09-26 15:54:09 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:54:09 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:54:09 ECH192.MainForm 4 通纯水
+2020-09-26 15:54:09 ECH192.MainForm 4 通纯水
+2020-09-26 15:54:09 ECH192.MainForm 4 通溶液2
+2020-09-26 15:54:09 ECH192.MainForm 4 通溶液2
+2020-09-26 15:54:09 ECH192.MainForm 4 通空气
+2020-09-26 15:54:09 ECH192.MainForm 4 通空气
+2020-09-26 15:54:09 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:54:09 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:54:09 ECH192.MainForm 4 通纯水
+2020-09-26 15:54:09 ECH192.MainForm 4 通纯水
+2020-09-26 15:54:09 ECH192.MainForm 4 通溶液2
+2020-09-26 15:54:09 ECH192.MainForm 4 通溶液2
+2020-09-26 15:54:09 ECH192.MainForm 4 通空气
+2020-09-26 15:54:09 ECH192.MainForm 4 通空气
+2020-09-26 15:54:09 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:54:09 ECH192.MainForm 4 IT法电沉积
+2020-09-26 15:54:09 ECH192.MainForm 4 通纯水
+2020-09-26 15:54:09 ECH192.MainForm 4 通纯水
+2020-09-26 15:54:09 ECH192.MainForm 4 通溶液2
+2020-09-26 15:54:09 ECH192.MainForm 4 通溶液2
+2020-09-26 15:54:09 ECH192.MainForm 4 通空气
+2020-09-26 15:54:09 ECH192.MainForm 4 通空气
+2020-09-26 16:02:04 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 16:02:04 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 16:02:04 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 16:02:04 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 16:02:04 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 16:02:04 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 16:02:04 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 16:02:04 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 16:02:04 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 16:02:04 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 16:02:04 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 16:02:04 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 16:02:04 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 16:02:04 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 16:02:04 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 16:02:04 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 16:02:08 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:02:08 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:02:08 ECH192.MainForm 4 通纯水
+2020-09-26 16:02:08 ECH192.MainForm 4 通纯水
+2020-09-26 16:02:08 ECH192.MainForm 4 通溶液2
+2020-09-26 16:02:08 ECH192.MainForm 4 通溶液2
+2020-09-26 16:02:08 ECH192.MainForm 4 通空气
+2020-09-26 16:02:08 ECH192.MainForm 4 通空气
+2020-09-26 16:02:08 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:02:08 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:02:08 ECH192.MainForm 4 通纯水
+2020-09-26 16:02:08 ECH192.MainForm 4 通纯水
+2020-09-26 16:02:08 ECH192.MainForm 4 通溶液2
+2020-09-26 16:02:08 ECH192.MainForm 4 通溶液2
+2020-09-26 16:02:08 ECH192.MainForm 4 通空气
+2020-09-26 16:02:08 ECH192.MainForm 4 通空气
+2020-09-26 16:02:08 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:02:08 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:02:08 ECH192.MainForm 4 通纯水
+2020-09-26 16:02:08 ECH192.MainForm 4 通纯水
+2020-09-26 16:02:08 ECH192.MainForm 4 通溶液2
+2020-09-26 16:02:08 ECH192.MainForm 4 通溶液2
+2020-09-26 16:02:08 ECH192.MainForm 4 通空气
+2020-09-26 16:02:08 ECH192.MainForm 4 通空气
+2020-09-26 16:02:09 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:02:09 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:02:09 ECH192.MainForm 4 通纯水
+2020-09-26 16:02:09 ECH192.MainForm 4 通纯水
+2020-09-26 16:02:09 ECH192.MainForm 4 通溶液2
+2020-09-26 16:02:09 ECH192.MainForm 4 通溶液2
+2020-09-26 16:02:09 ECH192.MainForm 4 通空气
+2020-09-26 16:02:09 ECH192.MainForm 4 通空气
+2020-09-26 16:04:26 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 16:04:26 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 16:04:26 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 16:04:26 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 16:04:26 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 16:04:26 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 16:04:26 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 16:04:26 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 16:04:26 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 16:04:26 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 16:04:26 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 16:04:26 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 16:04:26 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 16:04:26 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 16:04:26 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 16:04:26 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 16:04:37 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:04:37 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:04:37 ECH192.MainForm 4 通纯水
+2020-09-26 16:04:37 ECH192.MainForm 4 通纯水
+2020-09-26 16:04:37 ECH192.MainForm 4 通溶液2
+2020-09-26 16:04:37 ECH192.MainForm 4 通溶液2
+2020-09-26 16:04:37 ECH192.MainForm 4 通空气
+2020-09-26 16:04:37 ECH192.MainForm 4 通空气
+2020-09-26 16:04:37 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:04:37 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:04:37 ECH192.MainForm 4 通纯水
+2020-09-26 16:04:37 ECH192.MainForm 4 通纯水
+2020-09-26 16:04:37 ECH192.MainForm 4 通溶液2
+2020-09-26 16:04:37 ECH192.MainForm 4 通溶液2
+2020-09-26 16:04:37 ECH192.MainForm 4 通空气
+2020-09-26 16:04:37 ECH192.MainForm 4 通空气
+2020-09-26 16:04:37 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:04:37 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:04:37 ECH192.MainForm 4 通纯水
+2020-09-26 16:04:37 ECH192.MainForm 4 通纯水
+2020-09-26 16:04:37 ECH192.MainForm 4 通溶液2
+2020-09-26 16:04:37 ECH192.MainForm 4 通溶液2
+2020-09-26 16:04:37 ECH192.MainForm 4 通空气
+2020-09-26 16:04:37 ECH192.MainForm 4 通空气
+2020-09-26 16:04:38 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:04:38 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:04:38 ECH192.MainForm 4 通纯水
+2020-09-26 16:04:38 ECH192.MainForm 4 通纯水
+2020-09-26 16:04:38 ECH192.MainForm 4 通溶液2
+2020-09-26 16:04:38 ECH192.MainForm 4 通溶液2
+2020-09-26 16:04:38 ECH192.MainForm 4 通空气
+2020-09-26 16:04:38 ECH192.MainForm 4 通空气
+2020-09-26 16:08:25 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 16:08:25 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 16:08:25 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 16:08:25 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 16:08:25 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 16:08:25 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 16:08:25 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 16:08:25 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 16:08:25 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 16:08:25 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 16:08:25 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 16:08:25 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 16:08:25 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 16:08:25 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 16:08:25 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 16:08:25 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 16:10:04 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 16:10:04 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 16:10:04 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 16:10:04 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 16:10:04 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 16:10:04 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 16:10:04 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 16:10:04 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 16:10:04 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 16:10:04 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 16:10:04 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 16:10:04 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 16:10:04 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 16:10:04 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 16:10:04 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 16:10:04 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 16:10:06 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:10:06 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:10:06 ECH192.MainForm 4 通纯水
+2020-09-26 16:10:06 ECH192.MainForm 4 通纯水
+2020-09-26 16:10:06 ECH192.MainForm 4 通溶液2
+2020-09-26 16:10:06 ECH192.MainForm 4 通溶液2
+2020-09-26 16:10:06 ECH192.MainForm 4 通空气
+2020-09-26 16:10:06 ECH192.MainForm 4 通空气
+2020-09-26 16:10:06 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:10:06 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:10:06 ECH192.MainForm 4 通纯水
+2020-09-26 16:10:06 ECH192.MainForm 4 通纯水
+2020-09-26 16:10:06 ECH192.MainForm 4 通溶液2
+2020-09-26 16:10:06 ECH192.MainForm 4 通溶液2
+2020-09-26 16:10:06 ECH192.MainForm 4 通空气
+2020-09-26 16:10:06 ECH192.MainForm 4 通空气
+2020-09-26 16:10:07 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:10:07 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:10:07 ECH192.MainForm 4 通纯水
+2020-09-26 16:10:07 ECH192.MainForm 4 通纯水
+2020-09-26 16:10:07 ECH192.MainForm 4 通溶液2
+2020-09-26 16:10:07 ECH192.MainForm 4 通溶液2
+2020-09-26 16:10:07 ECH192.MainForm 4 通空气
+2020-09-26 16:10:07 ECH192.MainForm 4 通空气
+2020-09-26 16:10:07 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:10:07 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:10:07 ECH192.MainForm 4 通纯水
+2020-09-26 16:10:07 ECH192.MainForm 4 通纯水
+2020-09-26 16:10:07 ECH192.MainForm 4 通溶液2
+2020-09-26 16:10:07 ECH192.MainForm 4 通溶液2
+2020-09-26 16:10:07 ECH192.MainForm 4 通空气
+2020-09-26 16:10:07 ECH192.MainForm 4 通空气
+2020-09-26 16:18:09 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 16:18:09 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 16:18:09 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 16:18:09 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 16:18:09 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 16:18:09 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 16:18:09 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 16:18:09 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 16:18:09 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 16:18:09 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 16:18:09 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 16:18:09 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 16:18:09 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 16:18:09 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 16:18:09 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 16:18:09 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 16:39:25 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 16:39:25 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 16:39:25 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 16:39:25 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 16:39:25 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 16:39:25 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 16:39:25 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 16:39:25 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 16:39:25 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 16:39:25 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 16:39:25 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 16:39:25 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 16:39:25 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 16:39:25 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 16:39:25 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 16:39:25 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 16:42:21 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 16:42:21 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 16:42:21 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 16:42:21 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 16:42:21 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 16:42:21 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 16:42:21 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 16:42:21 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 16:42:21 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 16:42:21 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 16:42:21 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 16:42:21 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 16:42:21 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 16:42:21 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 16:42:21 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 16:42:21 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 16:47:28 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 16:47:28 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 16:47:28 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 16:47:28 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 16:47:28 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 16:47:28 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 16:47:28 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 16:47:28 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 16:47:28 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 16:47:28 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 16:47:28 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 16:47:28 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 16:47:28 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 16:47:28 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 16:47:28 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 16:47:28 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 16:48:34 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:48:34 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:48:34 ECH192.MainForm 4 通纯水
+2020-09-26 16:48:34 ECH192.MainForm 4 通纯水
+2020-09-26 16:48:34 ECH192.MainForm 4 通溶液2
+2020-09-26 16:48:34 ECH192.MainForm 4 通溶液2
+2020-09-26 16:48:34 ECH192.MainForm 4 通空气
+2020-09-26 16:48:34 ECH192.MainForm 4 通空气
+2020-09-26 16:48:34 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:48:34 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:48:34 ECH192.MainForm 4 通纯水
+2020-09-26 16:48:34 ECH192.MainForm 4 通纯水
+2020-09-26 16:48:34 ECH192.MainForm 4 通溶液2
+2020-09-26 16:48:34 ECH192.MainForm 4 通溶液2
+2020-09-26 16:48:34 ECH192.MainForm 4 通空气
+2020-09-26 16:48:34 ECH192.MainForm 4 通空气
+2020-09-26 16:48:34 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:48:34 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:48:34 ECH192.MainForm 4 通纯水
+2020-09-26 16:48:34 ECH192.MainForm 4 通纯水
+2020-09-26 16:48:34 ECH192.MainForm 4 通溶液2
+2020-09-26 16:48:34 ECH192.MainForm 4 通溶液2
+2020-09-26 16:48:34 ECH192.MainForm 4 通空气
+2020-09-26 16:48:34 ECH192.MainForm 4 通空气
+2020-09-26 16:48:34 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:48:34 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:48:34 ECH192.MainForm 4 通纯水
+2020-09-26 16:48:34 ECH192.MainForm 4 通纯水
+2020-09-26 16:48:34 ECH192.MainForm 4 通溶液2
+2020-09-26 16:48:34 ECH192.MainForm 4 通溶液2
+2020-09-26 16:48:34 ECH192.MainForm 4 通空气
+2020-09-26 16:48:34 ECH192.MainForm 4 通空气
+2020-09-26 16:48:37 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:48:37 ECH192.MainForm 4 IT法电沉积
+2020-09-26 16:48:37 ECH192.MainForm 4 通纯水
+2020-09-26 16:48:37 ECH192.MainForm 4 通纯水
+2020-09-26 16:48:37 ECH192.MainForm 4 通溶液2
+2020-09-26 16:48:37 ECH192.MainForm 4 通溶液2
+2020-09-26 16:48:37 ECH192.MainForm 4 通空气
+2020-09-26 16:48:37 ECH192.MainForm 4 通空气
+2020-09-26 16:48:37 ECH192.MainForm 5 IT法电沉积
+2020-09-26 16:48:37 ECH192.MainForm 5 IT法电沉积
+2020-09-26 16:48:37 ECH192.MainForm 5 通纯水
+2020-09-26 16:48:37 ECH192.MainForm 5 通纯水
+2020-09-26 16:48:37 ECH192.MainForm 5 通溶液2
+2020-09-26 16:48:37 ECH192.MainForm 5 通溶液2
+2020-09-26 16:48:37 ECH192.MainForm 5 通空气
+2020-09-26 16:48:37 ECH192.MainForm 5 通空气
+2020-09-26 16:48:37 ECH192.MainForm 5 针板下压
+2020-09-26 16:48:37 ECH192.MainForm 5 针板下压
+2020-09-26 16:48:37 ECH192.MainForm 5 IT法电沉积
+2020-09-26 16:48:37 ECH192.MainForm 5 IT法电沉积
+2020-09-26 16:48:37 ECH192.MainForm 5 通纯水
+2020-09-26 16:48:37 ECH192.MainForm 5 通纯水
+2020-09-26 16:48:37 ECH192.MainForm 5 通溶液2
+2020-09-26 16:48:37 ECH192.MainForm 5 通溶液2
+2020-09-26 16:48:37 ECH192.MainForm 5 通空气
+2020-09-26 16:48:37 ECH192.MainForm 5 通空气
+2020-09-26 16:48:37 ECH192.MainForm 5 针板下压
+2020-09-26 16:48:37 ECH192.MainForm 5 针板下压
+2020-09-26 16:48:38 ECH192.MainForm 6 IT法电沉积
+2020-09-26 16:48:38 ECH192.MainForm 6 通纯水
+2020-09-26 16:48:38 ECH192.MainForm 6 通溶液2
+2020-09-26 16:48:38 ECH192.MainForm 6 通空气
+2020-09-26 16:48:38 ECH192.MainForm 6 针板下压
+2020-09-26 16:48:38 ECH192.MainForm 6 针板下压
+2020-09-26 16:48:38 ECH192.MainForm 6 IT法电沉积
+2020-09-26 16:48:38 ECH192.MainForm 6 通纯水
+2020-09-26 16:48:38 ECH192.MainForm 6 通溶液2
+2020-09-26 16:48:38 ECH192.MainForm 6 通空气
+2020-09-26 16:48:38 ECH192.MainForm 6 针板下压
+2020-09-26 16:48:38 ECH192.MainForm 6 针板下压
+2020-09-26 16:48:38 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:48:38 ECH192.MainForm 7 通纯水
+2020-09-26 16:48:38 ECH192.MainForm 7 通溶液2
+2020-09-26 16:48:38 ECH192.MainForm 7 通空气
+2020-09-26 16:48:38 ECH192.MainForm 7 针板下压
+2020-09-26 16:48:38 ECH192.MainForm 7 针板下压
+2020-09-26 16:48:38 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:09 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 16:51:09 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 16:51:09 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 16:51:09 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 16:51:09 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 16:51:09 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 16:51:09 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 16:51:09 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 16:51:09 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 16:51:09 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 16:51:09 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 16:51:09 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 16:51:09 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 16:51:09 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 16:51:09 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 16:51:09 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 16:51:14 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:51:14 ECH192.MainForm 7 通纯水
+2020-09-26 16:51:14 ECH192.MainForm 7 通溶液2
+2020-09-26 16:51:14 ECH192.MainForm 7 通空气
+2020-09-26 16:51:14 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:14 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:14 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:14 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:51:14 ECH192.MainForm 7 通纯水
+2020-09-26 16:51:14 ECH192.MainForm 7 通溶液2
+2020-09-26 16:51:14 ECH192.MainForm 7 通空气
+2020-09-26 16:51:14 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:14 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:14 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:15 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:51:15 ECH192.MainForm 7 通纯水
+2020-09-26 16:51:15 ECH192.MainForm 7 通溶液2
+2020-09-26 16:51:15 ECH192.MainForm 7 通空气
+2020-09-26 16:51:15 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:15 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:15 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:15 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:51:15 ECH192.MainForm 7 通纯水
+2020-09-26 16:51:15 ECH192.MainForm 7 通溶液2
+2020-09-26 16:51:15 ECH192.MainForm 7 通空气
+2020-09-26 16:51:15 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:15 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:15 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:15 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:51:15 ECH192.MainForm 7 通纯水
+2020-09-26 16:51:15 ECH192.MainForm 7 通溶液2
+2020-09-26 16:51:15 ECH192.MainForm 7 通空气
+2020-09-26 16:51:15 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:15 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:15 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:16 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:51:16 ECH192.MainForm 7 通纯水
+2020-09-26 16:51:16 ECH192.MainForm 7 通溶液2
+2020-09-26 16:51:16 ECH192.MainForm 7 通空气
+2020-09-26 16:51:16 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:16 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:16 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:16 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:51:16 ECH192.MainForm 7 通纯水
+2020-09-26 16:51:16 ECH192.MainForm 7 通溶液2
+2020-09-26 16:51:16 ECH192.MainForm 7 通空气
+2020-09-26 16:51:16 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:16 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:16 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:20 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:20 ECH192.MainForm 7 通纯水
+2020-09-26 16:51:20 ECH192.MainForm 7 通溶液2
+2020-09-26 16:51:20 ECH192.MainForm 7 通空气
+2020-09-26 16:51:21 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:21 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:21 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:47 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:47 ECH192.MainForm 7 通纯水
+2020-09-26 16:51:47 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:51:47 ECH192.MainForm 7 通空气
+2020-09-26 16:51:47 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:47 ECH192.MainForm 7 针板下压
+2020-09-26 16:51:47 ECH192.MainForm 7 针板下压
+2020-09-26 16:54:20 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 16:54:20 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 16:54:20 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 16:54:20 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 16:54:20 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 16:54:20 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 16:54:20 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 16:54:20 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 16:54:20 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 16:54:20 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 16:54:20 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 16:54:20 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 16:54:20 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 16:54:20 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 16:54:20 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 16:54:20 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 16:58:49 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 16:58:49 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 16:58:49 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 16:58:49 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 16:58:49 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 16:58:49 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 16:58:49 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 16:58:49 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 16:58:49 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 16:58:49 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 16:58:49 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 16:58:49 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 16:58:49 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 16:58:49 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 16:58:49 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 16:58:49 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 16:58:52 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:52 ECH192.MainForm 7 通纯水
+2020-09-26 16:58:52 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:58:52 ECH192.MainForm 7 通空气
+2020-09-26 16:58:52 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:52 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:52 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:52 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:52 ECH192.MainForm 7 通纯水
+2020-09-26 16:58:52 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:58:52 ECH192.MainForm 7 通空气
+2020-09-26 16:58:52 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:52 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:52 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:52 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:52 ECH192.MainForm 7 通纯水
+2020-09-26 16:58:52 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:58:52 ECH192.MainForm 7 通空气
+2020-09-26 16:58:52 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:52 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:52 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:53 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:53 ECH192.MainForm 7 通纯水
+2020-09-26 16:58:53 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:58:53 ECH192.MainForm 7 通空气
+2020-09-26 16:58:53 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:53 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:53 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:53 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:53 ECH192.MainForm 7 通纯水
+2020-09-26 16:58:53 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:58:53 ECH192.MainForm 7 通空气
+2020-09-26 16:58:53 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:53 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:53 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:54 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:54 ECH192.MainForm 7 通纯水
+2020-09-26 16:58:54 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:58:54 ECH192.MainForm 7 通空气
+2020-09-26 16:58:54 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:54 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:54 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:54 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:54 ECH192.MainForm 7 通纯水
+2020-09-26 16:58:54 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:58:54 ECH192.MainForm 7 通空气
+2020-09-26 16:58:54 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:54 ECH192.MainForm 7 针板下压
+2020-09-26 16:58:54 ECH192.MainForm 7 针板下压
+2020-09-26 16:59:07 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:59:07 ECH192.MainForm 7 通纯水
+2020-09-26 16:59:07 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:59:07 ECH192.MainForm 7 通空气
+2020-09-26 16:59:07 ECH192.MainForm 7 针板下压
+2020-09-26 16:59:07 ECH192.MainForm 7 针板下压
+2020-09-26 16:59:07 ECH192.MainForm 7 针板下压
+2020-09-26 16:59:09 ECH192.MainForm 7 IT法电沉积
+2020-09-26 16:59:09 ECH192.MainForm 7 通纯水
+2020-09-26 16:59:09 ECH192.MainForm 7 针板下压
+2020-09-26 16:59:09 ECH192.MainForm 7 通空气
+2020-09-26 16:59:09 ECH192.MainForm 7 针板下压
+2020-09-26 16:59:09 ECH192.MainForm 7 针板下压
+2020-09-26 16:59:09 ECH192.MainForm 7 针板下压
+2020-09-26 17:10:59 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 17:10:59 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 17:10:59 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 17:10:59 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 17:10:59 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 17:10:59 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 17:10:59 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 17:10:59 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 17:10:59 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 17:10:59 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 17:10:59 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 17:10:59 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 17:10:59 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 17:10:59 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 17:10:59 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 17:10:59 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 17:11:56 ECH192.MainForm 7 IT法电沉积
+2020-09-26 17:11:56 ECH192.MainForm 7 通纯水
+2020-09-26 17:11:56 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:56 ECH192.MainForm 7 通空气
+2020-09-26 17:11:56 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:56 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:56 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:57 ECH192.MainForm 7 IT法电沉积
+2020-09-26 17:11:57 ECH192.MainForm 7 通纯水
+2020-09-26 17:11:57 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:57 ECH192.MainForm 7 通空气
+2020-09-26 17:11:57 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:57 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:57 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:57 ECH192.MainForm 7 IT法电沉积
+2020-09-26 17:11:57 ECH192.MainForm 7 通纯水
+2020-09-26 17:11:57 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:57 ECH192.MainForm 7 通空气
+2020-09-26 17:11:57 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:57 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:57 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:58 ECH192.MainForm 7 IT法电沉积
+2020-09-26 17:11:58 ECH192.MainForm 7 通纯水
+2020-09-26 17:11:58 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:58 ECH192.MainForm 7 通空气
+2020-09-26 17:11:58 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:58 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:58 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:58 ECH192.MainForm 7 IT法电沉积
+2020-09-26 17:11:58 ECH192.MainForm 7 通纯水
+2020-09-26 17:11:58 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:58 ECH192.MainForm 7 通空气
+2020-09-26 17:11:58 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:58 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:58 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:58 ECH192.MainForm 7 IT法电沉积
+2020-09-26 17:11:58 ECH192.MainForm 7 通纯水
+2020-09-26 17:11:58 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:58 ECH192.MainForm 7 通空气
+2020-09-26 17:11:58 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:58 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:58 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:59 ECH192.MainForm 7 IT法电沉积
+2020-09-26 17:11:59 ECH192.MainForm 7 通纯水
+2020-09-26 17:11:59 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:59 ECH192.MainForm 7 通空气
+2020-09-26 17:11:59 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:59 ECH192.MainForm 7 针板下压
+2020-09-26 17:11:59 ECH192.MainForm 7 针板下压
+2020-09-26 17:35:01 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 17:35:01 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 17:35:01 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 17:35:01 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 17:35:01 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 17:35:01 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 17:35:01 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 17:35:01 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 17:35:01 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 17:35:01 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 17:35:01 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 17:35:01 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 17:35:01 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 17:35:01 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 17:35:01 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 17:35:01 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 17:41:11 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 17:41:11 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 17:41:11 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 17:41:11 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 17:41:11 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 17:41:11 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 17:41:11 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 17:41:11 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 17:41:11 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 17:41:11 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 17:41:11 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 17:41:11 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 17:41:11 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 17:41:11 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 17:41:11 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 17:41:11 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 17:57:00 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 17:57:00 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 17:57:00 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 17:57:00 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 17:57:00 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 17:57:00 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 17:57:00 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 17:57:00 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 17:57:00 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 17:57:00 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 17:57:00 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 17:57:00 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 17:57:00 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 17:57:00 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 17:57:00 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 17:57:00 commandServer Listener (192.168.14.18:8765) was started
+2020-09-26 17:57:06 ECH192.MainForm 7 IT法电沉积
+2020-09-26 17:57:06 ECH192.MainForm 7 通纯水
+2020-09-26 17:57:06 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:06 ECH192.MainForm 7 通空气
+2020-09-26 17:57:06 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:06 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:06 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:06 ECH192.MainForm 7 IT法电沉积
+2020-09-26 17:57:06 ECH192.MainForm 7 通纯水
+2020-09-26 17:57:06 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:06 ECH192.MainForm 7 通空气
+2020-09-26 17:57:06 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:06 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:06 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:07 ECH192.MainForm 7 IT法电沉积
+2020-09-26 17:57:07 ECH192.MainForm 7 通纯水
+2020-09-26 17:57:07 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:07 ECH192.MainForm 7 通空气
+2020-09-26 17:57:07 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:07 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:07 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:07 ECH192.MainForm 7 IT法电沉积
+2020-09-26 17:57:07 ECH192.MainForm 7 通纯水
+2020-09-26 17:57:07 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:07 ECH192.MainForm 7 通空气
+2020-09-26 17:57:07 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:07 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:07 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:08 ECH192.MainForm 7 IT法电沉积
+2020-09-26 17:57:08 ECH192.MainForm 7 通纯水
+2020-09-26 17:57:08 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:08 ECH192.MainForm 7 通空气
+2020-09-26 17:57:08 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:08 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:08 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:08 ECH192.MainForm 7 IT法电沉积
+2020-09-26 17:57:08 ECH192.MainForm 7 通纯水
+2020-09-26 17:57:08 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:08 ECH192.MainForm 7 通空气
+2020-09-26 17:57:08 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:08 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:08 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:08 ECH192.MainForm 7 IT法电沉积
+2020-09-26 17:57:08 ECH192.MainForm 7 通纯水
+2020-09-26 17:57:08 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:08 ECH192.MainForm 7 通空气
+2020-09-26 17:57:08 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:08 ECH192.MainForm 7 针板下压
+2020-09-26 17:57:08 ECH192.MainForm 7 针板下压
+2020-09-26 18:04:54 CommunicationServer.Protocol.Command.CMDRestartSystem 重启设备成功!
+2020-09-26 18:08:49 commandServer The command CRCError(CommunicationServer.Protocol.Command.CMDCRCError) has been discovered
+2020-09-26 18:08:49 commandServer The command EnableChannels(CommunicationServer.Protocol.Command.CMDEnableChannels) has been discovered
+2020-09-26 18:08:49 commandServer The command GetIPMessage(CommunicationServer.Protocol.Command.CMDGetIPMessage) has been discovered
+2020-09-26 18:08:49 commandServer The command GetSampleData(CommunicationServer.Protocol.Command.CMDGetSampleData) has been discovered
+2020-09-26 18:08:49 commandServer The command SetITParam(CommunicationServer.Protocol.Command.CMDSetITParam) has been discovered
+2020-09-26 18:08:49 commandServer The command GetVersion(CommunicationServer.Protocol.Command.CMDGetVersion) has been discovered
+2020-09-26 18:08:49 commandServer The command HeadError(CommunicationServer.Protocol.Command.CMDHeadError) has been discovered
+2020-09-26 18:08:49 commandServer The command HeartBeat(CommunicationServer.Protocol.Command.CMDHeartBeat) has been discovered
+2020-09-26 18:08:49 commandServer The command RestartSystem(CommunicationServer.Protocol.Command.CMDRestartSystem) has been discovered
+2020-09-26 18:08:49 commandServer The command SetSensitivitys(CommunicationServer.Protocol.Command.CMDSetSensitivitys) has been discovered
+2020-09-26 18:08:49 commandServer The command StartSample(CommunicationServer.Protocol.Command.CMDStartSample) has been discovered
+2020-09-26 18:08:49 commandServer The command StopSample(CommunicationServer.Protocol.Command.CMDStopSample) has been discovered
+2020-09-26 18:08:49 commandServer The command TailError(CommunicationServer.Protocol.Command.CMDTailError) has been discovered
+2020-09-26 18:08:49 commandServer The command UnKnow(CommunicationServer.Protocol.Command.CMDUnknow) has been discovered
+2020-09-26 18:08:49 commandServer The command SetCVParam(CommunicationServer.Protocol.Command.CMDSetCVParam) has been discovered
+2020-09-26 18:08:49 commandServer Listener (192.168.14.18:8765) was started
