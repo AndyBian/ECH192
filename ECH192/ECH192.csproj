@@ -124,6 +124,9 @@
       <DependentUpon>IconResource.resx</DependentUpon>
     </Compile>
     <Compile Include="SysControl\UtilHelp.cs" />
+    <Compile Include="ToolControl\CRC.cs" />
+    <Compile Include="ToolControl\Instruction.cs" />
+    <Compile Include="ToolControl\InstructionTypeEnum.cs" />
     <Compile Include="UI\Arrow.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -290,5 +293,6 @@
       <Name>CommunicationServer</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

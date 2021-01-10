@@ -3,3 +3,63 @@ System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求�
    在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
    在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
    在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2021-01-10 15:32:15 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2021-01-10 15:34:48 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2021-01-10 15:40:53 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2021-01-10 15:49:20 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2021-01-10 15:51:31 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2021-01-10 15:53:05 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2021-01-10 15:57:27 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2021-01-10 16:07:43 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2021-01-10 16:11:23 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2021-01-10 16:13:29 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2021-01-10 16:14:24 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2021-01-10 16:15:29 commandServer Listener (192.168.14.18:8765) error: 在其上下文中，该请求的地址无效。
+System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)

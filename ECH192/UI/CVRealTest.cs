@@ -191,13 +191,34 @@ namespace ECH192.UI
 
             // 默认赋值
             List<double> currentvalue = new List<double>();
-            currentvalue.Add(0);
+            for(int i = 0; i < 1000; i++)
+            {
+                currentvalue.Add(i);
+            }
+           
             List<double> avgcurrentvalue = new List<double>();
-            avgcurrentvalue.Add(0);
+            for (int i = 0; i < 1000; i++)
+            {
+                avgcurrentvalue.Add(i);
+            }
             List<double> currentvolt = new List<double>();
-            currentvolt.Add(0);
+            for (int i = 0; i < 1000; i++)
+            {
+                currentvolt.Add(i);
+            }
             List<double> avgvolt = new List<double>();
-            avgvolt.Add(0);
+            for (int i = 0; i < 1000; i++)
+            {
+                avgvolt.Add(i);
+            }
+            //List<double> currentvalue = new List<double>();
+            //currentvalue.Add(0);
+            //List<double> avgcurrentvalue = new List<double>();
+            //avgcurrentvalue.Add(0);
+            //List<double> currentvolt = new List<double>();
+            //currentvolt.Add(0);
+            //List<double> avgvolt = new List<double>();
+            //avgvolt.Add(0);
             CVValue cvvalue = new CVValue(0, currentvalue, avgcurrentvalue, currentvolt, avgvolt);
 
             for (int i = 0; i < 16; i++)
