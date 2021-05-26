@@ -12,8 +12,14 @@ namespace CommunicationServer.CommonEntity
     /// </summary>
     public class JudgeParam
     {
+        //界面中每个通道最多显示的数据条数
+        public static int ShowCount = int.Parse(IniWrapper.Get("SystemParam", "ShowCount", "300", SysParam.IniFileFullName).ToString());
+
         //数据采集时是否需要开启自检
         public static bool SelfCheck = bool.Parse(IniWrapper.Get("SystemParam", "SelfCheck", "true", SysParam.IniFileFullName).ToString());
+
+        //测试完成后是否自动保存数据
+        public static bool AutoSave = bool.Parse(IniWrapper.Get("SystemParam", "AutoSave", "false", SysParam.IniFileFullName).ToString());
 
         //IT法最大合格电流
         public static string ITMaxCurrent = IniWrapper.Get("ITJudgeParam", "MaxCurrent", "10", SysParam.IniFileFullName).ToString();

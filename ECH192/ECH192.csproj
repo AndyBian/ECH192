@@ -108,6 +108,7 @@
     <Compile Include="Entity\NodeChn.cs" />
     <Compile Include="Entity\StepInfo.cs" />
     <Compile Include="Entity\TestParam.cs" />
+    <Compile Include="Entity\TestResultSerialize.cs" />
     <Compile Include="SysControl\CheckDataGridView.cs" />
     <Compile Include="SysControl\SystemParam.cs" />
     <Compile Include="MainForm.cs">
@@ -127,6 +128,8 @@
     <Compile Include="ToolControl\CRC.cs" />
     <Compile Include="ToolControl\Instruction.cs" />
     <Compile Include="ToolControl\InstructionTypeEnum.cs" />
+    <Compile Include="ToolControl\SerializeUtil.cs" />
+    <Compile Include="ToolControl\SerialUtil.cs" />
     <Compile Include="UI\Arrow.cs">
       <SubType>UserControl</SubType>
     </Compile>

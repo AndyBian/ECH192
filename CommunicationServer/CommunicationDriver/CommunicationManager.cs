@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 
 namespace CommunicationServer.CommunicationDriver
 {
+    [Serializable]
     public class CommunicationManager
     {
         //日志接口
@@ -417,6 +418,11 @@ namespace CommunicationServer.CommunicationDriver
         {
             List<int> CVValueInterval = new List<int>();
             List<int> counts = new List<int>();
+
+            if (values.Count == 0)
+            {
+                return new CVStatisticResult(CVValueInterval, counts);
+            }
 
             double maxvalue = values.Max();
             double minvalue = values.Min();

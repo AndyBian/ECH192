@@ -4,6 +4,7 @@ using CommunicationServer.Protocol.Entity;
 using ECH192.Entity;
 using ECH192.Entity.Enum;
 using ECH192.SysControl;
+using ECH192.ToolControl;
 using ECH192.UI;
 using LiteDB;
 using log4net;
@@ -12,6 +13,7 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Drawing;
+using System.IO.Ports;
 using System.Linq;
 using System.Threading;
 using System.Windows.Forms;
@@ -93,6 +95,11 @@ namespace ECH192
         DataSourceForm dataSourceForm;
 
         public static ILog logger = LogManager.GetLogger(typeof(MainForm));
+
+        /// <summary>
+        /// 串口实例
+        /// </summary>
+        SerialPort sp = new SerialPort();
 
         #region 测试步骤的控制参数
 
@@ -240,6 +247,7 @@ namespace ECH192
         //        return cp;
         //    }
         //}
+
 
         #endregion
 
@@ -754,7 +762,7 @@ namespace ECH192
         {
             txtITInitVolt.Text = TestParam.ITInitVolt;
             txtITTestTime.Text = TestParam.ITTestTime;
-            txtITSensitivity.Text = TestParam.ITSensitivity;
+            cbITSensitivity.SelectedIndex = int.Parse(TestParam.ITSensitivity) == 0 ? 0 : int.Parse(TestParam.ITSensitivity) - 2;
             txtITInterval.Text = TestParam.ITInterval;
             txtITStopTime.Text = TestParam.ITStopTime;
 
@@ -765,7 +773,7 @@ namespace ECH192
             txtCVScanSpeed.Text = TestParam.CVScanSpeed;
             txtCVScanCount.Text = TestParam.CVScanCount;
             txtCVScanInterval.Text = TestParam.CVInterval;
-            txtCVSensitivity.Text = TestParam.CVSensitivity;
+            cbCVSensitivity.SelectedIndex = int.Parse(TestParam.CVSensitivity) == 0 ? 0 : int.Parse(TestParam.CVSensitivity) - 2;
             txtCVStopTime.Text = TestParam.CVStopTime;
         }
 
@@ -996,6 +1004,12 @@ namespace ECH192
                 msgForm.ShowDialog();
                 return;
             }
+            if (CommunicationManager.GetDefaultDevice() == null)
+            {
+                MsgForm msgForm = new MsgForm("提示", "未有设备连接!");
+                msgForm.ShowDialog();
+                return;
+            }
 
             TestingStatus = true;
             IsDebug = true;
@@ -1010,7 +1024,15 @@ namespace ECH192
             if (!UtilHelp.CheckInput(txtITInitVolt.Text))
             {
                 MsgForm msg = new MsgForm("提示", "数值输入错误");
-                txtITInitVolt.Text = "10";
+                txtITInitVolt.Text = "-2500";
+                msg.ShowDialog();
+                return;
+            }
+            int value = int.Parse(txtITInitVolt.Text);
+            if (value < -2500 || value > 2500)
+            {
+                MsgForm msg = new MsgForm("提示", "数值范围为-2500~2500");
+                txtITInitVolt.Text = "-2500";
                 msg.ShowDialog();
                 return;
             }
@@ -1027,21 +1049,29 @@ namespace ECH192
                 msg.ShowDialog();
                 return;
             }
+            int value = int.Parse(txtITTestTime.Text);
+            if (value <0 || value > 1000)
+            {
+                MsgForm msg = new MsgForm("提示", "数值范围为0~1000");
+                txtITTestTime.Text = "10";
+                msg.ShowDialog();
+                return;
+            }
             IniWrapper.Write("ITParam", "TestTime", txtITTestTime.Text, SystemParam.IniFileFullName);
             TestParam.ITTestTime = txtITTestTime.Text;
         }
 
         private void txtITSensitivity_TextChanged(object sender, EventArgs e)
         {
-            if (!UtilHelp.CheckInput(txtITSensitivity.Text))
-            {
-                MsgForm msg = new MsgForm("提示", "数值输入错误");
-                txtITSensitivity.Text = "10";
-                msg.ShowDialog();
-                return;
-            }
-            IniWrapper.Write("ITParam", "Sensitivity", txtITSensitivity.Text, SystemParam.IniFileFullName);
-            TestParam.ITSensitivity = txtITSensitivity.Text;
+            //if (!UtilHelp.CheckInput(txtITSensitivity.Text))
+            //{
+            //    MsgForm msg = new MsgForm("提示", "数值输入错误");
+            //    txtITSensitivity.Text = "10";
+            //    msg.ShowDialog();
+            //    return;
+            //}
+            //IniWrapper.Write("ITParam", "Sensitivity", txtITSensitivity.Text, SystemParam.IniFileFullName);
+            //TestParam.ITSensitivity = txtITSensitivity.Text;
         }
 
         private void txtITInterval_TextChanged(object sender, EventArgs e)
@@ -1066,6 +1096,14 @@ namespace ECH192
                 msg.ShowDialog();
                 return;
             }
+            int value = int.Parse(txtITStopTime.Text);
+            if (value < 0 || value > 10000)
+            {
+                MsgForm msg = new MsgForm("提示", "数值范围为0~10000");
+                txtITStopTime.Text = "1000";
+                msg.ShowDialog();
+                return;
+            }
             IniWrapper.Write("ITParam", "StopTime", txtITStopTime.Text, SystemParam.IniFileFullName);
             TestParam.ITStopTime = txtITStopTime.Text;
         }
@@ -1075,10 +1113,21 @@ namespace ECH192
             if (!UtilHelp.CheckInput(txtCVInitVolt.Text))
             {
                 MsgForm msg = new MsgForm("提示", "数值输入错误");
-                txtCVInitVolt.Text = "10";
+                txtCVInitVolt.Text = "-2500";
                 msg.ShowDialog();
                 return;
             }
+
+            int value = int.Parse(txtCVInitVolt.Text);
+
+            if (value<-2500 || value > 2500)
+            {
+                MsgForm msg = new MsgForm("提示", "数值范围为-2500~2500");
+                txtCVInitVolt.Text = "-2500";
+                msg.ShowDialog();
+                return;
+            }
+
             IniWrapper.Write("CVParam", "InitVolt", txtCVInitVolt.Text, SystemParam.IniFileFullName);
             TestParam.CVInitVolt = txtCVInitVolt.Text;
         }
@@ -1088,7 +1137,15 @@ namespace ECH192
             if (!UtilHelp.CheckInput(txtCVMaxVolt.Text))
             {
                 MsgForm msg = new MsgForm("提示", "数值输入错误");
-                txtCVMaxVolt.Text = "10";
+                txtCVMaxVolt.Text = "-2500";
+                msg.ShowDialog();
+                return;
+            }
+            int value = int.Parse(txtCVMaxVolt.Text);
+            if (value < -2500 || value > 2500)
+            {
+                MsgForm msg = new MsgForm("提示", "数值范围为-2500~2500");
+                txtCVMaxVolt.Text = "-2500";
                 msg.ShowDialog();
                 return;
             }
@@ -1101,7 +1158,15 @@ namespace ECH192
             if (!UtilHelp.CheckInput(txtCVMinVolt.Text))
             {
                 MsgForm msg = new MsgForm("提示", "数值输入错误");
-                txtCVMinVolt.Text = "10";
+                txtCVMinVolt.Text = "-2500";
+                msg.ShowDialog();
+                return;
+            }
+            int value = int.Parse(txtCVMinVolt.Text);
+            if (value < -2500 || value > 2500)
+            {
+                MsgForm msg = new MsgForm("提示", "数值范围为-2500~2500");
+                txtCVMinVolt.Text = "-2500";
                 msg.ShowDialog();
                 return;
             }
@@ -1156,15 +1221,15 @@ namespace ECH192
 
         private void txtCVSensitivity_TextChanged(object sender, EventArgs e)
         {
-            if (!UtilHelp.CheckInput(txtCVSensitivity.Text))
-            {
-                MsgForm msg = new MsgForm("提示", "数值输入错误");
-                txtCVSensitivity.Text = "10";
-                msg.ShowDialog();
-                return;
-            }
-            IniWrapper.Write("CVParam", "Sensitivity", txtCVSensitivity.Text, SystemParam.IniFileFullName);
-            TestParam.CVSensitivity = txtCVSensitivity.Text;
+            //if (!UtilHelp.CheckInput(txtCVSensitivity.Text))
+            //{
+            //    MsgForm msg = new MsgForm("提示", "数值输入错误");
+            //    txtCVSensitivity.Text = "10";
+            //    msg.ShowDialog();
+            //    return;
+            //}
+            //IniWrapper.Write("CVParam", "Sensitivity", txtCVSensitivity.Text, SystemParam.IniFileFullName);
+            //TestParam.CVSensitivity = txtCVSensitivity.Text;
         }
 
         private void txtCVStopTime_TextChanged(object sender, EventArgs e)
@@ -1173,6 +1238,14 @@ namespace ECH192
             {
                 MsgForm msg = new MsgForm("提示", "数值输入错误");
                 txtCVStopTime.Text = "10";
+                msg.ShowDialog();
+                return;
+            }
+            int value = int.Parse(txtCVStopTime.Text);
+            if (value < 0 || value > 10000)
+            {
+                MsgForm msg = new MsgForm("提示", "数值范围为0~10000");
+                txtCVStopTime.Text = "1000";
                 msg.ShowDialog();
                 return;
             }
@@ -1188,6 +1261,16 @@ namespace ECH192
 
         private void InitJudgeParam()
         {
+            if (JudgeParam.SelfCheck)
+                cbSelfCheck.Checked = true;
+            else
+                cbSelfCheck.Checked = false;
+
+            if (JudgeParam.AutoSave)
+                cbAutoSave.Checked = true;
+            else
+                cbAutoSave.Checked = false;
+
             // IT法结果判定参数
             txtITMaxCurrent.Text = JudgeParam.ITMaxCurrent;
             txtITMinCurrent.Text = JudgeParam.ITMinCurrent;
@@ -1587,25 +1670,28 @@ namespace ECH192
                         for(int i = 1; i <= 6; i++)
                         {
                             List<ITValue> itvalues = CommunicationManager.ITValues.Where(p => p.Index >= (i - 1) * 32 && p.Index < i * 32).ToList();
+
+                            List<ITValue> filteritvalues = UtilHelp.FilterITData(itvalues, JudgeParam.ShowCount,int.Parse(TestParam.ITInterval));
+
                             switch (i)
                             {
                                 case 1:
-                                    ItRealTest1.SetData(itvalues);
+                                    ItRealTest1.SetData(filteritvalues);
                                     break;
                                 case 2:
-                                    ItRealTest2.SetData(itvalues);
+                                    ItRealTest2.SetData(filteritvalues);
                                     break;
                                 case 3:
-                                    ItRealTest3.SetData(itvalues);
+                                    ItRealTest3.SetData(filteritvalues);
                                     break;
                                 case 4:
-                                    ItRealTest4.SetData(itvalues);
+                                    ItRealTest4.SetData(filteritvalues);
                                     break;
                                 case 5:
-                                    ItRealTest5.SetData(itvalues);
+                                    ItRealTest5.SetData(filteritvalues);
                                     break;
                                 case 6:
-                                    ItRealTest6.SetData(itvalues);
+                                    ItRealTest6.SetData(filteritvalues);
                                     break;
                             }                            
                         }
@@ -1622,7 +1708,8 @@ namespace ECH192
                         if (ZoomItRealForm != null)
                         {
                             List<ITValue> itvalues = CommunicationManager.ITValues.Where(p => p.Index >= (ITGroupIndex - 1) * 32 && p.Index < ITGroupIndex * 32).ToList();
-                            ZoomItRealForm.SetData(itvalues);
+                            List<ITValue> filteritvalues = UtilHelp.FilterITData(itvalues, JudgeParam.ShowCount * 2, int.Parse(TestParam.ITInterval));
+                            ZoomItRealForm.SetData(filteritvalues);
                         }
 
                         break;
@@ -1632,26 +1719,28 @@ namespace ECH192
                         for (int i = 1; i <= 6; i++)
                         {
                             List<CVValue> cvvalues = CommunicationManager.CVValues.Where(p => p.Index >= (i - 1) * 32 && p.Index < i * 32).ToList();
+
+                            List<CVValue> filtercvvalues = UtilHelp.FilterCVData(cvvalues, JudgeParam.ShowCount);
                             switch (i)
                             {
                                 case 1:
-                                    CvRealTest1.SetData(cvvalues);
+                                    CvRealTest1.SetData(filtercvvalues);
                                     break;
-                                //case 2:
-                                //    CvRealTest2.SetData(cvvalues);
-                                //    break;
-                                //case 3:
-                                //    CvRealTest3.SetData(cvvalues);
-                                //    break;
-                                //case 4:
-                                //    CvRealTest4.SetData(cvvalues);
-                                //    break;
-                                //case 5:
-                                //    CvRealTest5.SetData(cvvalues);
-                                //    break;
-                                //case 6:
-                                //    CvRealTest6.SetData(cvvalues);
-                                //    break;
+                                case 2:
+                                    CvRealTest2.SetData(filtercvvalues);
+                                    break;
+                                case 3:
+                                    CvRealTest3.SetData(filtercvvalues);
+                                    break;
+                                case 4:
+                                    CvRealTest4.SetData(filtercvvalues);
+                                    break;
+                                case 5:
+                                    CvRealTest5.SetData(filtercvvalues);
+                                    break;
+                                case 6:
+                                    CvRealTest6.SetData(filtercvvalues);
+                                    break;
                             }
 
                         }
@@ -1677,7 +1766,8 @@ namespace ECH192
                         if (ZoomCvRealForm != null)
                         {
                             List<CVValue> cvvalues = CommunicationManager.CVValues.Where(p => p.Index >= (CVGroupIndex - 1) * 32 && p.Index < CVGroupIndex * 32).ToList();
-                            ZoomCvRealForm.SetData(cvvalues);
+                            List<CVValue> filtercvvalues = UtilHelp.FilterCVData(cvvalues, JudgeParam.ShowCount * 2);
+                            ZoomCvRealForm.SetData(filtercvvalues);
                         }
                         break;
                 }
@@ -1835,6 +1925,35 @@ namespace ECH192
 
         #endregion
 
+        #region 串口的相关操作
+
+        private bool OpenSerial()
+        {
+            try
+            {
+                if (sp.IsOpen)
+                    return true;
+                else
+                {
+                    sp.PortName = SerialParam.Name;
+                    sp.BaudRate = int.Parse(SerialParam.BaudRate);
+                    sp.DataBits = int.Parse(SerialParam.DataBits);
+                    sp.StopBits = (StopBits)int.Parse(SerialParam.StopBits);
+                    sp.Open();
+                }
+                if (sp.IsOpen)
+                    return true;
+                else
+                    return false;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+        }
+
+        #endregion
+
         /// <summary>
         /// 开始测试
         /// </summary>
@@ -1845,6 +1964,13 @@ namespace ECH192
             if (CommunicationManager.GetDefaultDevice() == null)
             {
                 MsgForm msgForm = new MsgForm("提示", "未有设备连接!");
+                msgForm.ShowDialog();
+                return;
+            }
+
+            if (!OpenSerial())
+            {
+                MsgForm msgForm = new MsgForm("提示", "串口制具连接失败!");
                 msgForm.ShowDialog();
                 return;
             }
@@ -1899,6 +2025,12 @@ namespace ECH192
 
             if (step >= steps.Count)
             {
+                // 如果设置了自动存储，则在自动测试完成整个测试之后进行数据存储
+                if (JudgeParam.AutoSave && AutoTesting)
+                {
+                    SaveTestResult();
+                }
+
                 stepindex = 0;
                 TestingStatus = false;
                 AutoTesting = false;
@@ -1908,6 +2040,7 @@ namespace ECH192
                 // 测试结束后将第一个置为可用，最后一个置为不可用
                 mainsteps[step - 1].UpdatePlayBackImage(ImageUnPlay, false, 100);
                 mainsteps[0].UpdatePlayBackImage(ImageMainPlay, true, 100);
+
                 return;
             }
 
@@ -1931,7 +2064,27 @@ namespace ECH192
                 case StepEnum.针板下压:
                     lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
 
-                    Thread.Sleep(2000);
+                    if (OpenSerial())
+                    {
+                        byte[] byts = ToolControl.Instruction.generateInstruction(ToolControl.InstructionTypeEnum.PRESS);
+                        ToolControl.SerialUtil.WriteSerial(sp, byts, byts.Length);
+                    }
+                    else
+                    {
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "串口打开失败：" + steps[step].stepname));  // 跨线程访问UI控件
+                        stepindex = 0;
+                        TestingStatus = false;
+                        AutoTesting = false;
+                        btnStart.Invoke(new Action(() => btnStart.BackgroundImage = ImagePlay));
+                        //将第一个设置为可运行
+                        mainsteps[0].UpdatePlayBackImage(ImageMainPlay, true, 0);
+                        //将其他步骤设置为不可运行
+                        for (int i = 1; i < mainsteps.Count; i++)
+                            mainsteps[i].UpdatePlayBackImage(ImageUnPlay, false, 0);
+                        return;
+                    }
+
+                    Thread.Sleep(steps[step].steptime);
 
                     if (IsDebug)
                         return;
@@ -1958,10 +2111,80 @@ namespace ECH192
                     }
                     
                     break;
+                case StepEnum.针板上升:
+                    lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
+
+                    if (OpenSerial())
+                    {
+                        byte[] byts = ToolControl.Instruction.generateInstruction(ToolControl.InstructionTypeEnum.UP);
+                        ToolControl.SerialUtil.WriteSerial(sp, byts, byts.Length);
+                    }
+                    else
+                    {
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "串口打开失败：" + steps[step].stepname));  // 跨线程访问UI控件
+                        stepindex = 0;
+                        TestingStatus = false;
+                        AutoTesting = false;
+                        btnStart.Invoke(new Action(() => btnStart.BackgroundImage = ImagePlay));
+                        //将第一个设置为可运行
+                        mainsteps[0].UpdatePlayBackImage(ImageMainPlay, true, 0);
+                        //将其他步骤设置为不可运行
+                        for (int i = 1; i < mainsteps.Count; i++)
+                            mainsteps[i].UpdatePlayBackImage(ImageUnPlay, false, 0);
+                        return;
+                    }
+
+                    Thread.Sleep(steps[step].steptime);
+
+                    if (IsDebug)
+                        return;
+
+                    if (AutoTesting)
+                    {
+                        stepindex += 1;
+                        teststep(stepindex);
+                    }
+                    else
+                    {
+                        mainsteps[stepindex].UpdatePlayBackImage(ImageUnPlay, false, 100);
+                        if ((stepindex + 1) >= mainsteps.Count)
+                        {
+                            stepindex = 0;
+                            mainsteps[stepindex].UpdatePlayBackImage(ImageMainPlay, true);
+                        }
+                        else
+                        {
+                            mainsteps[stepindex + 1].UpdatePlayBackImage(ImageMainPlay, true, 0);
+                            stepindex += 1;
+                            TestingStatus = false;
+                        }
+                    }
+
+                    break;
                 case StepEnum.通纯水:
                     lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
 
-                    Thread.Sleep(2000);
+                    if (OpenSerial())
+                    {
+                        byte[] byts = ToolControl.Instruction.generateInstruction(ToolControl.InstructionTypeEnum.CHANNEL1);
+                        ToolControl.SerialUtil.WriteSerial(sp, byts, byts.Length);
+                    }
+                    else
+                    {
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "串口打开失败：" + steps[step].stepname));  // 跨线程访问UI控件
+                        stepindex = 0;
+                        TestingStatus = false;
+                        AutoTesting = false;
+                        btnStart.Invoke(new Action(() => btnStart.BackgroundImage = ImagePlay));
+                        //将第一个设置为可运行
+                        mainsteps[0].UpdatePlayBackImage(ImageMainPlay, true, 0);
+                        //将其他步骤设置为不可运行
+                        for (int i = 1; i < mainsteps.Count; i++)
+                            mainsteps[i].UpdatePlayBackImage(ImageUnPlay, false, 0);
+                        return;
+                    }
+
+                    Thread.Sleep(steps[step].steptime);
 
                     if (IsDebug)
                         return;
@@ -1991,7 +2214,27 @@ namespace ECH192
                 case StepEnum.通空气:
                     lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
 
-                    Thread.Sleep(2000);
+                    if (OpenSerial())
+                    {
+                        byte[] byts = ToolControl.Instruction.generateInstruction(ToolControl.InstructionTypeEnum.CHANNEL2);
+                        ToolControl.SerialUtil.WriteSerial(sp, byts, byts.Length);
+                    }
+                    else
+                    {
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "串口打开失败：" + steps[step].stepname));  // 跨线程访问UI控件
+                        stepindex = 0;
+                        TestingStatus = false;
+                        AutoTesting = false;
+                        btnStart.Invoke(new Action(() => btnStart.BackgroundImage = ImagePlay));
+                        //将第一个设置为可运行
+                        mainsteps[0].UpdatePlayBackImage(ImageMainPlay, true, 0);
+                        //将其他步骤设置为不可运行
+                        for (int i = 1; i < mainsteps.Count; i++)
+                            mainsteps[i].UpdatePlayBackImage(ImageUnPlay, false, 0);
+                        return;
+                    }
+
+                    Thread.Sleep(steps[step].steptime);
 
                     if (IsDebug)
                         return;
@@ -2020,7 +2263,27 @@ namespace ECH192
                 case StepEnum.通溶液1:
                     lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
 
-                    Thread.Sleep(2000);
+                    if (OpenSerial())
+                    {
+                        byte[] byts = ToolControl.Instruction.generateInstruction(ToolControl.InstructionTypeEnum.CHANNEL3);
+                        ToolControl.SerialUtil.WriteSerial(sp, byts, byts.Length);
+                    }
+                    else
+                    {
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "串口打开失败：" + steps[step].stepname));  // 跨线程访问UI控件
+                        stepindex = 0;
+                        TestingStatus = false;
+                        AutoTesting = false;
+                        btnStart.Invoke(new Action(() => btnStart.BackgroundImage = ImagePlay));
+                        //将第一个设置为可运行
+                        mainsteps[0].UpdatePlayBackImage(ImageMainPlay, true, 0);
+                        //将其他步骤设置为不可运行
+                        for (int i = 1; i < mainsteps.Count; i++)
+                            mainsteps[i].UpdatePlayBackImage(ImageUnPlay, false, 0);
+                        return;
+                    }
+
+                    Thread.Sleep(steps[step].steptime);
 
                     if (IsDebug)
                         return;
@@ -2049,7 +2312,27 @@ namespace ECH192
                 case StepEnum.通溶液2:
                     lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
 
-                    Thread.Sleep(2000);
+                    if (OpenSerial())
+                    {
+                        byte[] byts = ToolControl.Instruction.generateInstruction(ToolControl.InstructionTypeEnum.CHANNEL4);
+                        ToolControl.SerialUtil.WriteSerial(sp, byts, byts.Length);
+                    }
+                    else
+                    {
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "串口打开失败：" + steps[step].stepname));  // 跨线程访问UI控件
+                        stepindex = 0;
+                        TestingStatus = false;
+                        AutoTesting = false;
+                        btnStart.Invoke(new Action(() => btnStart.BackgroundImage = ImagePlay));
+                        //将第一个设置为可运行
+                        mainsteps[0].UpdatePlayBackImage(ImageMainPlay, true, 0);
+                        //将其他步骤设置为不可运行
+                        for (int i = 1; i < mainsteps.Count; i++)
+                            mainsteps[i].UpdatePlayBackImage(ImageUnPlay, false, 0);
+                        return;
+                    }
+
+                    Thread.Sleep(steps[step].steptime);
 
                     if (IsDebug)
                         return;
@@ -2104,7 +2387,7 @@ namespace ECH192
                     datas.Add("sample_interval", TestParam.ITInterval);
                     datas.Add("quittime", TestParam.ITStopTime);
                     datas.Add("vtg", TestParam.ITInitVolt);
-                    datas.Add("np", ((int)(float.Parse(TestParam.ITTestTime) / float.Parse(TestParam.ITInterval))).ToString());
+                    datas.Add("np", ((int)(float.Parse(TestParam.ITTestTime) * 1000 / float.Parse(TestParam.ITInterval))).ToString());
                     CommandDriver.SendFrame(CMDDriver.commandServer.GetSessionByID(CommunicationManager.GetDefaultDevice().CommandSessionId), datas);
                     break;
                 case StepEnum.CV法扫描:
@@ -2163,5 +2446,159 @@ namespace ECH192
                 mainsteps[0].UpdatePlayBackImage(ImageMainStop, true, 0);
         }
 
+        private void cbITSensitivity_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            int value = 0;
+            if (cbITSensitivity.SelectedIndex != 0)
+            {
+                value = cbITSensitivity.SelectedIndex + 2;
+            }
+
+            IniWrapper.Write("ITParam", "Sensitivity", value, SystemParam.IniFileFullName);
+            TestParam.ITSensitivity = value.ToString();
+        }
+
+        private void cbCVSensitivity_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            int value = 0;
+            if (cbCVSensitivity.SelectedIndex != 0)
+            {
+                value = cbCVSensitivity.SelectedIndex + 2;
+            }
+
+            IniWrapper.Write("CVParam", "Sensitivity", value, SystemParam.IniFileFullName);
+            TestParam.CVSensitivity = value.ToString();
+        }
+
+        private void cbSelfCheck_CheckedChanged(object sender, EventArgs e)
+        {
+            if (cbSelfCheck.Checked)
+            {
+                IniWrapper.Write("SystemParam", "SelfCheck", true, SystemParam.IniFileFullName);
+                JudgeParam.SelfCheck = true;
+            }
+            else
+            {
+                IniWrapper.Write("SystemParam", "SelfCheck", false, SystemParam.IniFileFullName);
+                JudgeParam.SelfCheck = false;
+            }
+        }
+
+        private void cbAutoSave_CheckedChanged(object sender, EventArgs e)
+        {
+            if (cbAutoSave.Checked)
+            {
+                IniWrapper.Write("SystemParam", "AutoSave", true, SystemParam.IniFileFullName);
+                JudgeParam.AutoSave = true;
+            }
+            else
+            {
+                IniWrapper.Write("SystemParam", "AutoSave", false, SystemParam.IniFileFullName);
+                JudgeParam.AutoSave = false;
+            }
+        }
+
+        /// <summary>
+        /// 保存文件
+        /// </summary>
+        private void SaveTestResult(String SavePath = null)
+        {
+            try
+            {
+                // 测试完成后自动进行数据文件存储
+                TestResultSerialize testResultSerialize = new TestResultSerialize(CommunicationManager.ITValues, CommunicationManager.CVValues, CommunicationManager.NodeStatus);
+                string path = System.AppDomain.CurrentDomain.BaseDirectory + @"ResultFile";
+                
+                if (SavePath != null)
+                    path = SavePath;
+                else
+                {
+                    if (!System.IO.Directory.Exists(path))
+                    {
+                        System.IO.Directory.CreateDirectory(path);
+                    }
+                    path += "\\Result_" + DateTime.Now.ToString("yyyyMMddHHmmss")+".bin";
+                }
+
+                bool result = SerializeUtil.SaveObject(path, testResultSerialize);
+                if (result)
+                {
+                    logger.Info("测试结果保存成功");
+                    lbMessage.Invoke(new Action(() => lbMessage.Text = "测试结果保存成功!"));  // 跨线程访问UI控件
+                }
+                else
+                    logger.Info("测试结果保存失败");
+            }
+            catch (Exception)
+            {
+                logger.Info("测试结果保存失败");
+            }
+        }
+
+        /// <summary>
+        /// 手动保存测试结果
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void btnSaveResult_Click(object sender, EventArgs e)
+        {
+            //string localFilePath, fileNameExt, newFileName, FilePath; 
+            SaveFileDialog sfd = new SaveFileDialog();
+
+            //设置文件类型 
+            sfd.Filter = "ECH192文件（*.bin）|*.bin";
+
+            //设置默认文件类型显示顺序 
+            sfd.FilterIndex = 1;
+
+            //保存对话框是否记忆上次打开的目录 
+            sfd.RestoreDirectory = true;
+
+            //点了保存按钮进入 
+            if (sfd.ShowDialog() == DialogResult.OK)
+            {
+                string localFilePath = sfd.FileName.ToString(); //获得文件路径 
+                SaveTestResult(localFilePath);
+            }
+        }
+
+        /// <summary>
+        /// 手动加载测试结果
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void btnLoadResult_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog dialog = new OpenFileDialog();
+            dialog.Multiselect = true;//该值确定是否可以选择多个文件
+            dialog.Title = "请选择文件";
+            dialog.Filter = "ECH192文件(*.bin)|*.bin";
+
+            if (dialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            {
+                string file = dialog.FileName;
+
+                TestResultSerialize result = new TestResultSerialize();
+                try
+                {
+                    result = SerializeUtil.ReadObject<TestResultSerialize>(file);
+                }
+                catch (Exception)
+                {
+                    MsgForm msgForm = new MsgForm("提示", "文件解析失败!");
+                    msgForm.ShowDialog();
+                    return;
+                }
+
+                CommunicationManager.CVValues = result.CVValues;
+                CommunicationManager.ITValues = result.ITValues;
+                CommunicationManager.NodeStatus = result.NodeStatus;
+
+                UpdateDataSource(1);
+                UpdateDataSource(2);
+                UpdateNodeStatus(CommunicationManager.NodeStatus);
+                lbMessage.Invoke(new Action(() => lbMessage.Text = "测试结果文件打开成功!"));  // 跨线程访问UI控件
+            }
+        }
     }
 }

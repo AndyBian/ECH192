@@ -30,8 +30,8 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             this.gbFill = new System.Windows.Forms.GroupBox();
             this.MaintabControl = new System.Windows.Forms.TabControl();
             this.MainPage = new System.Windows.Forms.TabPage();
@@ -82,13 +82,13 @@
             this.CVStatisticPanelOne = new System.Windows.Forms.Panel();
             this.ProcessSetPage = new System.Windows.Forms.TabPage();
             this.gbCVParam = new System.Windows.Forms.GroupBox();
+            this.cbCVSensitivity = new System.Windows.Forms.ComboBox();
             this.cbCVScanDirection = new System.Windows.Forms.ComboBox();
             this.txtCVStopTime = new System.Windows.Forms.TextBox();
             this.label11 = new System.Windows.Forms.Label();
             this.txtCVScanInterval = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
-            this.txtCVSensitivity = new System.Windows.Forms.TextBox();
             this.txtCVScanCount = new System.Windows.Forms.TextBox();
             this.label14 = new System.Windows.Forms.Label();
             this.txtCVScanSpeed = new System.Windows.Forms.TextBox();
@@ -101,9 +101,9 @@
             this.txtCVMaxVolt = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.gbITParam = new System.Windows.Forms.GroupBox();
+            this.cbITSensitivity = new System.Windows.Forms.ComboBox();
             this.txtITStopTime = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.txtITSensitivity = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.txtITInterval = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
@@ -163,6 +163,10 @@
             this.gridviewDev = new System.Windows.Forms.DataGridView();
             this.CheckAllDev = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.gbDeviceOperation = new System.Windows.Forms.GroupBox();
+            this.btnLoadResult = new System.Windows.Forms.Button();
+            this.btnSaveResult = new System.Windows.Forms.Button();
+            this.cbAutoSave = new System.Windows.Forms.CheckBox();
+            this.cbSelfCheck = new System.Windows.Forms.CheckBox();
             this.btnRestart = new System.Windows.Forms.Button();
             this.lbCompany = new System.Windows.Forms.Label();
             this.lbMessage = new System.Windows.Forms.Label();
@@ -708,13 +712,13 @@
             // 
             // gbCVParam
             // 
+            this.gbCVParam.Controls.Add(this.cbCVSensitivity);
             this.gbCVParam.Controls.Add(this.cbCVScanDirection);
             this.gbCVParam.Controls.Add(this.txtCVStopTime);
             this.gbCVParam.Controls.Add(this.label11);
             this.gbCVParam.Controls.Add(this.txtCVScanInterval);
             this.gbCVParam.Controls.Add(this.label12);
             this.gbCVParam.Controls.Add(this.label13);
-            this.gbCVParam.Controls.Add(this.txtCVSensitivity);
             this.gbCVParam.Controls.Add(this.txtCVScanCount);
             this.gbCVParam.Controls.Add(this.label14);
             this.gbCVParam.Controls.Add(this.txtCVScanSpeed);
@@ -733,6 +737,24 @@
             this.gbCVParam.TabIndex = 3;
             this.gbCVParam.TabStop = false;
             this.gbCVParam.Text = "CV法参数";
+            // 
+            // cbCVSensitivity
+            // 
+            this.cbCVSensitivity.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbCVSensitivity.FormattingEnabled = true;
+            this.cbCVSensitivity.Items.AddRange(new object[] {
+            "Auto",
+            "1e-3",
+            "1e-4",
+            "1e-5",
+            "1e-6",
+            "1e-7",
+            "1e-8"});
+            this.cbCVSensitivity.Location = new System.Drawing.Point(141, 409);
+            this.cbCVSensitivity.Name = "cbCVSensitivity";
+            this.cbCVSensitivity.Size = new System.Drawing.Size(121, 29);
+            this.cbCVSensitivity.TabIndex = 30;
+            this.cbCVSensitivity.SelectedIndexChanged += new System.EventHandler(this.cbCVSensitivity_SelectedIndexChanged);
             // 
             // cbCVScanDirection
             // 
@@ -792,15 +814,6 @@
             this.label13.TabIndex = 20;
             this.label13.Text = "扫描段数";
             // 
-            // txtCVSensitivity
-            // 
-            this.txtCVSensitivity.Location = new System.Drawing.Point(142, 409);
-            this.txtCVSensitivity.MaxLength = 10;
-            this.txtCVSensitivity.Name = "txtCVSensitivity";
-            this.txtCVSensitivity.Size = new System.Drawing.Size(120, 29);
-            this.txtCVSensitivity.TabIndex = 23;
-            this.txtCVSensitivity.TextChanged += new System.EventHandler(this.txtCVSensitivity_TextChanged);
-            // 
             // txtCVScanCount
             // 
             this.txtCVScanCount.Location = new System.Drawing.Point(142, 315);
@@ -813,11 +826,11 @@
             // label14
             // 
             this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(13, 413);
+            this.label14.Location = new System.Drawing.Point(10, 413);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(127, 21);
+            this.label14.Size = new System.Drawing.Size(129, 21);
             this.label14.TabIndex = 22;
-            this.label14.Text = "电流灵敏度(a/V)";
+            this.label14.Text = "电流灵敏度(A/V)";
             // 
             // txtCVScanSpeed
             // 
@@ -831,20 +844,20 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(30, 272);
+            this.label6.Location = new System.Drawing.Point(16, 272);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(109, 21);
+            this.label6.Size = new System.Drawing.Size(124, 21);
             this.label6.TabIndex = 18;
-            this.label6.Text = "扫描速率(V/s)";
+            this.label6.Text = "扫描速率(mV/s)";
             // 
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(35, 84);
+            this.label10.Location = new System.Drawing.Point(30, 84);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(105, 21);
+            this.label10.Size = new System.Drawing.Size(110, 21);
             this.label10.TabIndex = 10;
-            this.label10.Text = "初始电位(uV)";
+            this.label10.Text = "初始电位(mV)";
             // 
             // txtCVMinVolt
             // 
@@ -867,20 +880,20 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(35, 178);
+            this.label7.Location = new System.Drawing.Point(30, 178);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(105, 21);
+            this.label7.Size = new System.Drawing.Size(110, 21);
             this.label7.TabIndex = 16;
-            this.label7.Text = "最小电位(uV)";
+            this.label7.Text = "最小电位(mV)";
             // 
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(35, 131);
+            this.label9.Location = new System.Drawing.Point(30, 131);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(105, 21);
+            this.label9.Size = new System.Drawing.Size(110, 21);
             this.label9.TabIndex = 12;
-            this.label9.Text = "最大电位(uV)";
+            this.label9.Text = "最大电位(mV)";
             // 
             // txtCVMaxVolt
             // 
@@ -902,9 +915,9 @@
             // 
             // gbITParam
             // 
+            this.gbITParam.Controls.Add(this.cbITSensitivity);
             this.gbITParam.Controls.Add(this.txtITStopTime);
             this.gbITParam.Controls.Add(this.label5);
-            this.gbITParam.Controls.Add(this.txtITSensitivity);
             this.gbITParam.Controls.Add(this.label4);
             this.gbITParam.Controls.Add(this.txtITInterval);
             this.gbITParam.Controls.Add(this.label3);
@@ -919,6 +932,24 @@
             this.gbITParam.TabIndex = 2;
             this.gbITParam.TabStop = false;
             this.gbITParam.Text = "IT法参数";
+            // 
+            // cbITSensitivity
+            // 
+            this.cbITSensitivity.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbITSensitivity.FormattingEnabled = true;
+            this.cbITSensitivity.Items.AddRange(new object[] {
+            "Auto",
+            "1e-3",
+            "1e-4",
+            "1e-5",
+            "1e-6",
+            "1e-7",
+            "1e-8"});
+            this.cbITSensitivity.Location = new System.Drawing.Point(140, 185);
+            this.cbITSensitivity.Name = "cbITSensitivity";
+            this.cbITSensitivity.Size = new System.Drawing.Size(121, 29);
+            this.cbITSensitivity.TabIndex = 29;
+            this.cbITSensitivity.SelectedIndexChanged += new System.EventHandler(this.cbITSensitivity_SelectedIndexChanged);
             // 
             // txtITStopTime
             // 
@@ -938,23 +969,14 @@
             this.label5.TabIndex = 8;
             this.label5.Text = "静止时间(ms)";
             // 
-            // txtITSensitivity
-            // 
-            this.txtITSensitivity.Location = new System.Drawing.Point(140, 184);
-            this.txtITSensitivity.MaxLength = 10;
-            this.txtITSensitivity.Name = "txtITSensitivity";
-            this.txtITSensitivity.Size = new System.Drawing.Size(120, 29);
-            this.txtITSensitivity.TabIndex = 7;
-            this.txtITSensitivity.TextChanged += new System.EventHandler(this.txtITSensitivity_TextChanged);
-            // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(10, 188);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(127, 21);
+            this.label4.Size = new System.Drawing.Size(129, 21);
             this.label4.TabIndex = 6;
-            this.label4.Text = "电流灵敏度(a/V)";
+            this.label4.Text = "电流灵敏度(A/V)";
             // 
             // txtITInterval
             // 
@@ -1004,11 +1026,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(33, 82);
+            this.label1.Location = new System.Drawing.Point(27, 82);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(105, 21);
+            this.label1.Size = new System.Drawing.Size(110, 21);
             this.label1.TabIndex = 0;
-            this.label1.Text = "初始电位(uV)";
+            this.label1.Text = "初始电位(mV)";
             // 
             // gbShowStep
             // 
@@ -1519,25 +1541,25 @@
             this.gridviewDev.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.gridviewDev.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.DisplayedCells;
             this.gridviewDev.BackgroundColor = System.Drawing.Color.White;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(165)))), ((int)(((byte)(202)))));
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.gridviewDev.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(165)))), ((int)(((byte)(202)))));
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.gridviewDev.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
             this.gridviewDev.ColumnHeadersHeight = 50;
             this.gridviewDev.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.CheckAllDev});
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(169)))), ((int)(((byte)(206)))));
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.Silver;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(165)))), ((int)(((byte)(202)))));
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.gridviewDev.DefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(169)))), ((int)(((byte)(206)))));
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.Color.Silver;
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(165)))), ((int)(((byte)(202)))));
+            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.gridviewDev.DefaultCellStyle = dataGridViewCellStyle6;
             this.gridviewDev.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gridviewDev.EnableHeadersVisualStyles = false;
             this.gridviewDev.Location = new System.Drawing.Point(3, 25);
@@ -1558,6 +1580,10 @@
             // 
             // gbDeviceOperation
             // 
+            this.gbDeviceOperation.Controls.Add(this.btnLoadResult);
+            this.gbDeviceOperation.Controls.Add(this.btnSaveResult);
+            this.gbDeviceOperation.Controls.Add(this.cbAutoSave);
+            this.gbDeviceOperation.Controls.Add(this.cbSelfCheck);
             this.gbDeviceOperation.Controls.Add(this.btnRestart);
             this.gbDeviceOperation.Dock = System.Windows.Forms.DockStyle.Top;
             this.gbDeviceOperation.Location = new System.Drawing.Point(3, 3);
@@ -1566,6 +1592,50 @@
             this.gbDeviceOperation.TabIndex = 1;
             this.gbDeviceOperation.TabStop = false;
             this.gbDeviceOperation.Text = "操作栏";
+            // 
+            // btnLoadResult
+            // 
+            this.btnLoadResult.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.btnLoadResult.Location = new System.Drawing.Point(442, 29);
+            this.btnLoadResult.Name = "btnLoadResult";
+            this.btnLoadResult.Size = new System.Drawing.Size(150, 35);
+            this.btnLoadResult.TabIndex = 34;
+            this.btnLoadResult.Text = "加载测试结果";
+            this.btnLoadResult.UseVisualStyleBackColor = true;
+            this.btnLoadResult.Click += new System.EventHandler(this.btnLoadResult_Click);
+            // 
+            // btnSaveResult
+            // 
+            this.btnSaveResult.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.btnSaveResult.Location = new System.Drawing.Point(239, 28);
+            this.btnSaveResult.Name = "btnSaveResult";
+            this.btnSaveResult.Size = new System.Drawing.Size(150, 35);
+            this.btnSaveResult.TabIndex = 33;
+            this.btnSaveResult.Text = "保存测试结果";
+            this.btnSaveResult.UseVisualStyleBackColor = true;
+            this.btnSaveResult.Click += new System.EventHandler(this.btnSaveResult_Click);
+            // 
+            // cbAutoSave
+            // 
+            this.cbAutoSave.AutoSize = true;
+            this.cbAutoSave.Location = new System.Drawing.Point(769, 38);
+            this.cbAutoSave.Name = "cbAutoSave";
+            this.cbAutoSave.Size = new System.Drawing.Size(157, 25);
+            this.cbAutoSave.TabIndex = 32;
+            this.cbAutoSave.Text = "测试结果自动存储";
+            this.cbAutoSave.UseVisualStyleBackColor = true;
+            this.cbAutoSave.CheckedChanged += new System.EventHandler(this.cbAutoSave_CheckedChanged);
+            // 
+            // cbSelfCheck
+            // 
+            this.cbSelfCheck.AutoSize = true;
+            this.cbSelfCheck.Location = new System.Drawing.Point(645, 38);
+            this.cbSelfCheck.Name = "cbSelfCheck";
+            this.cbSelfCheck.Size = new System.Drawing.Size(93, 25);
+            this.cbSelfCheck.TabIndex = 31;
+            this.cbSelfCheck.Text = "自检模式";
+            this.cbSelfCheck.UseVisualStyleBackColor = true;
+            this.cbSelfCheck.CheckedChanged += new System.EventHandler(this.cbSelfCheck_CheckedChanged);
             // 
             // btnRestart
             // 
@@ -1664,6 +1734,7 @@
             this.gbDeviceInfo.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.gridviewDev)).EndInit();
             this.gbDeviceOperation.ResumeLayout(false);
+            this.gbDeviceOperation.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -1694,7 +1765,6 @@
         private System.Windows.Forms.TextBox txtCVScanInterval;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.TextBox txtCVSensitivity;
         private System.Windows.Forms.TextBox txtCVScanCount;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.TextBox txtCVScanSpeed;
@@ -1709,7 +1779,6 @@
         private System.Windows.Forms.GroupBox gbITParam;
         private System.Windows.Forms.TextBox txtITStopTime;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox txtITSensitivity;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txtITInterval;
         private System.Windows.Forms.Label label3;
@@ -1806,6 +1875,12 @@
         private System.Windows.Forms.DataGridViewCheckBoxColumn CheckAllDev;
         private System.Windows.Forms.Button btnDataSource;
         private System.Windows.Forms.ToolTip ChannelInfoTip;
+        private System.Windows.Forms.ComboBox cbITSensitivity;
+        private System.Windows.Forms.ComboBox cbCVSensitivity;
+        private System.Windows.Forms.CheckBox cbSelfCheck;
+        private System.Windows.Forms.Button btnLoadResult;
+        private System.Windows.Forms.Button btnSaveResult;
+        private System.Windows.Forms.CheckBox cbAutoSave;
     }
 }
 

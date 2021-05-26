@@ -38,4 +38,3 @@ E:\ECH192\ECH192\CommunicationServer\obj\x64\Debug\CommunicationServer.csproj.Co
 E:\ECH192\ECH192\CommunicationServer\obj\x64\Debug\CommunicationServer.csproj.CopyComplete
 E:\ECH192\ECH192\CommunicationServer\obj\x64\Debug\CommunicationServer.dll
 E:\ECH192\ECH192\CommunicationServer\obj\x64\Debug\CommunicationServer.pdb
-E:\ECH192\ECH192\CommunicationServer\obj\x64\Debug\CommunicationServer.csprojAssemblyReference.cache

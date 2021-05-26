@@ -30,6 +30,14 @@ namespace CommunicationServer.CommonEntity
         // 采集的电压平均值（例如索引0和1的平均值是一样的）
         public List<double> AvgVoltageValue { get; set; }
 
+        public CVValue()
+        {
+            CurrentValue = new List<double>();
+            AvgCurrentValue = new List<double>();
+            VoltageValue = new List<double>();
+            AvgVoltageValue = new List<double>();
+        }
+
         public CVValue(int index, List<double> currentvalue, List<double> avgcurrentvalue, List<double> voltvalue, List<double> avgvoltvalue)
         {
             this.Index = index;

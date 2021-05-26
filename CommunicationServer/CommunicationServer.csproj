@@ -91,6 +91,7 @@
     <Compile Include="CommonEntity\ITStatisticResult.cs" />
     <Compile Include="CommonEntity\ITValue.cs" />
     <Compile Include="CommonEntity\JudgeParam.cs" />
+    <Compile Include="CommonEntity\SerialParam.cs" />
     <Compile Include="CommunicationDriver\CommandDriver.cs" />
     <Compile Include="CommunicationDriver\CommunicationManager.cs" />
     <Compile Include="CommunicationDriver\InstructionEnum.cs" />

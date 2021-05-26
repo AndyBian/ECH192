@@ -11,6 +11,7 @@ using System.Windows.Forms.DataVisualization.Charting;
 using ECH192.SysControl;
 using ECH192.Entity;
 using CommunicationServer.CommonEntity;
+using log4net;
 
 namespace ECH192.UI
 {
@@ -18,6 +19,8 @@ namespace ECH192.UI
     {
         // 实时展示的序号(96个通道分为6组)
         public int Index = -1;
+
+        public static ILog logger = LogManager.GetLogger(typeof(CVRealTest));
 
         // 放大显示
         public delegate void ZoomShowDelegate(int index);
@@ -91,42 +94,42 @@ namespace ECH192.UI
 
             // 初始化X轴显示信息
             // 初始值是0-1000nA，每个间隔100nA
-            chartArea1.AxisX.Minimum = 0;
-            chartArea1.AxisX.Maximum = 100;
-            chartArea1.AxisX.Interval = 20;
-            chartArea1.AxisX.MajorGrid.Interval = 10;
-            chartArea1.AxisX.MajorTickMark.Interval = 10;
-            chartArea1.AxisX.IsMarginVisible = false;
-            chartArea1.AxisX.MajorGrid.LineColor = Color.LightGray;
-            chartArea1.AxisX.MinorGrid.LineColor = Color.LightGray;
-            chartArea1.AxisX.MajorGrid.LineDashStyle = ChartDashStyle.Dot;
-            chartArea1.AxisX.MinorGrid.LineDashStyle = ChartDashStyle.Dot;
-            chartArea1.AxisX.Title = "电流(nA)";
-            chartArea1.AxisX.TitleFont = new Font("微软雅黑", 12);
-
-            // 初始化Y轴显示信息
-            // 初始值是0-100，每个间隔10个
-            chartArea1.AxisY.TextOrientation = TextOrientation.Rotated270;
-            chartArea1.AxisY.Minimum = 0;
-            chartArea1.AxisY.MajorGrid.LineColor = Color.LightGray;
-            chartArea1.AxisY.MinorGrid.LineColor = Color.LightGray;
-            chartArea1.AxisY.MajorGrid.LineDashStyle = ChartDashStyle.Dot;
-            chartArea1.AxisY.MinorGrid.LineDashStyle = ChartDashStyle.Dot;
-            chartArea1.AxisY.Title = "电压(mV)";
-            chartArea1.AxisY.TitleFont = new Font("微软雅黑", 12);
             chartArea1.AxisY.Minimum = 0;
             chartArea1.AxisY.Maximum = 100;
             chartArea1.AxisY.Interval = 10;
             chartArea1.AxisY.MajorGrid.Interval = 10;
             chartArea1.AxisY.MajorTickMark.Interval = 10;
+            chartArea1.AxisY.IsMarginVisible = false;
+            chartArea1.AxisY.MajorGrid.LineColor = Color.LightGray;
+            chartArea1.AxisY.MinorGrid.LineColor = Color.LightGray;
+            chartArea1.AxisY.MajorGrid.LineDashStyle = ChartDashStyle.Dot;
+            chartArea1.AxisY.MinorGrid.LineDashStyle = ChartDashStyle.Dot;
+            chartArea1.AxisY.Title = "电流(nA)";
+            chartArea1.AxisY.TitleFont = new Font("微软雅黑", 12);
 
-            chartArea1.AxisY.LabelAutoFitStyle = LabelAutoFitStyles.IncreaseFont;
-            chartArea1.AxisX.LabelStyle.Font = new Font("微软雅黑", 12);
+            // 初始化Y轴显示信息
+            // 初始值是0-100，每个间隔10个
+            //chartArea1.AxisX.TextOrientation = TextOrientation.Rotated270;
+            chartArea1.AxisX.Minimum = 0;
+            chartArea1.AxisX.MajorGrid.LineColor = Color.LightGray;
+            chartArea1.AxisX.MinorGrid.LineColor = Color.LightGray;
+            chartArea1.AxisX.MajorGrid.LineDashStyle = ChartDashStyle.Dot;
+            chartArea1.AxisX.MinorGrid.LineDashStyle = ChartDashStyle.Dot;
+            chartArea1.AxisX.Title = "电位(mV)";
+            chartArea1.AxisX.TitleFont = new Font("微软雅黑", 12);
+            chartArea1.AxisX.Minimum = 0;
+            chartArea1.AxisX.Maximum = 100;
+            chartArea1.AxisX.Interval = 20;
+            chartArea1.AxisX.MajorGrid.Interval = 10;
+            chartArea1.AxisX.MajorTickMark.Interval = 10;
+
+            chartArea1.AxisX.LabelAutoFitStyle = LabelAutoFitStyles.IncreaseFont;
+            chartArea1.AxisY.LabelStyle.Font = new Font("微软雅黑", 12);
             //chartArea1.AxisX.LabelStyle.ForeColor = Color.FromArgb(65, 165, 202);
 
-            chartArea1.CursorX.IsUserEnabled = true;
-            chartArea1.CursorX.IsUserSelectionEnabled = true;
-            chartArea1.AxisX.ScaleView.Zoomable = false;
+            chartArea1.CursorY.IsUserEnabled = true;
+            chartArea1.CursorY.IsUserSelectionEnabled = true;
+            chartArea1.AxisY.ScaleView.Zoomable = false;
             chartArea1.BorderColor = Color.Black;
             chartArea1.BorderWidth = 2;
             chartArea1.BorderDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Solid;
@@ -177,48 +180,47 @@ namespace ECH192.UI
         /// <param name="result"></param>
         public void InitData()
         {
-            chartArea1.AxisX.Minimum = 0;
-            chartArea1.AxisX.Maximum = 100;
-            chartArea1.AxisX.Interval = 20;
-            chartArea1.AxisX.MajorGrid.Interval = 10;
-            chartArea1.AxisX.MajorTickMark.Interval = 10;
-
             chartArea1.AxisY.Minimum = 0;
             chartArea1.AxisY.Maximum = 100;
             chartArea1.AxisY.Interval = 10;
             chartArea1.AxisY.MajorGrid.Interval = 10;
             chartArea1.AxisY.MajorTickMark.Interval = 10;
 
-            // 默认赋值
-            List<double> currentvalue = new List<double>();
-            for(int i = 0; i < 1000; i++)
-            {
-                currentvalue.Add(i);
-            }
-           
-            List<double> avgcurrentvalue = new List<double>();
-            for (int i = 0; i < 1000; i++)
-            {
-                avgcurrentvalue.Add(i);
-            }
-            List<double> currentvolt = new List<double>();
-            for (int i = 0; i < 1000; i++)
-            {
-                currentvolt.Add(i);
-            }
-            List<double> avgvolt = new List<double>();
-            for (int i = 0; i < 1000; i++)
-            {
-                avgvolt.Add(i);
-            }
+            chartArea1.AxisX.Minimum = 0;
+            chartArea1.AxisX.Maximum = 100;
+            chartArea1.AxisX.Interval = 20;
+            chartArea1.AxisX.MajorGrid.Interval = 10;
+            chartArea1.AxisX.MajorTickMark.Interval = 10;
+
+            //// 默认赋值
             //List<double> currentvalue = new List<double>();
-            //currentvalue.Add(0);
+            //for (int i = 0; i < 10000; i++)
+            //{
+            //    currentvalue.Add(i % 100);
+            //}
             //List<double> avgcurrentvalue = new List<double>();
-            //avgcurrentvalue.Add(0);
+            //for (int i = 0; i < 10000; i++)
+            //{
+            //    avgcurrentvalue.Add(i%100);
+            //}
             //List<double> currentvolt = new List<double>();
-            //currentvolt.Add(0);
+            //for (int i = 0; i < 10000; i++)
+            //{
+            //    currentvolt.Add(i % 100);
+            //}
             //List<double> avgvolt = new List<double>();
-            //avgvolt.Add(0);
+            //for (int i = 0; i < 10000; i++)
+            //{
+            //    avgvolt.Add(i % 100);
+            //}
+            List<double> currentvalue = new List<double>();
+            currentvalue.Add(0);
+            List<double> avgcurrentvalue = new List<double>();
+            avgcurrentvalue.Add(0);
+            List<double> currentvolt = new List<double>();
+            currentvolt.Add(0);
+            List<double> avgvolt = new List<double>();
+            avgvolt.Add(0);
             CVValue cvvalue = new CVValue(0, currentvalue, avgcurrentvalue, currentvolt, avgvolt);
 
             for (int i = 0; i < 16; i++)
@@ -231,8 +233,11 @@ namespace ECH192.UI
             {
                 // 逐条数据绘制
                 for (int j = 0; j < 16; j++)
-                    chart1.Series[j].Points.AddXY(cvvalue.AvgCurrentValue[i], cvvalue.AvgVoltageValue[i]);
+                    chart1.Series[j].Points.AddXY(cvvalue.AvgVoltageValue[i], cvvalue.AvgCurrentValue[i]);
             }
+            //// 逐条数据绘制
+            //for (int j = 0; j < 1; j++)
+            //    chart1.Series[j].Points.DataBindXY(cvvalue.AvgCurrentValue, cvvalue.AvgVoltageValue);
         }
 
         /// <summary>
@@ -273,19 +278,32 @@ namespace ECH192.UI
                 minvalues.Add(cvvalues[i].AvgVoltageValue.Min());
             }
 
-            chartArea1.AxisX.Maximum = maxvalues.Max() + 100;
-            chartArea1.AxisX.Minimum = minvalues.Min() - 100;
+            int Interval = (int)(Math.Abs(maxvalues.Max() - minvalues.Min()) * 0.1);
+
+            if (Interval == 0)
+                Interval = 1000;
+
+            chartArea1.AxisX.Maximum = maxvalues.Max() + Interval;
+            chartArea1.AxisX.Minimum = minvalues.Min() - Interval;
             chartArea1.AxisX.Interval = (chartArea1.AxisX.Maximum - chartArea1.AxisX.Minimum) / 10;
             chartArea1.AxisX.MajorGrid.Interval = (chartArea1.AxisX.Maximum - chartArea1.AxisX.Minimum) / 10; ;
             chartArea1.AxisX.MajorTickMark.Interval = (chartArea1.AxisX.Maximum - chartArea1.AxisX.Minimum) / 10; ;
 
-            // 逐条数据绘制
-            for (int i = 0; i < 16; i++)
+            try
             {
-                for (int k = 0; k < cvvalues[i * 2].AvgCurrentValue.Count; k++)
+                // 逐条数据绘制
+                for (int i = 0; i < 16; i++)
                 {
-                    chart1.Series[i].Points.AddXY(cvvalues[i * 2].AvgVoltageValue[k], cvvalues[i * 2].AvgCurrentValue[k]);
+                    //for (int k = 0; k < cvvalues[i * 2].AvgCurrentValue.Count; k++)
+                    //{
+                    //    chart1.Series[i].Points.AddXY(cvvalues[i * 2].AvgVoltageValue[k], cvvalues[i * 2].AvgCurrentValue[k]);
+                    //}
+                    chart1.Series[i].Points.DataBindXY(cvvalues[i * 2].AvgVoltageValue, cvvalues[i * 2].AvgCurrentValue);
                 }
+            }
+            catch (Exception ex)
+            {
+                logger.Error("CVReal Test error:" + ex.ToString());
             }
         }
 

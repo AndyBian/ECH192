@@ -20,6 +20,8 @@ namespace ECH192.UI
         // 实时展示的序号(96个通道分为6组)
         public int Index = -1;
 
+        public static ILog logger = LogManager.GetLogger(typeof(ITRealTest));
+
         // 放大显示
         public delegate void ZoomShowDelegate(int index);
         public ZoomShowDelegate zoomshow;
@@ -102,7 +104,7 @@ namespace ECH192.UI
             chartArea1.AxisX.MinorGrid.LineColor = Color.LightGray;
             chartArea1.AxisX.MajorGrid.LineDashStyle = ChartDashStyle.Dot;
             chartArea1.AxisX.MinorGrid.LineDashStyle = ChartDashStyle.Dot;
-            chartArea1.AxisX.Title = "时间";
+            chartArea1.AxisX.Title = "时间(s)";
             chartArea1.AxisX.TitleFont = new Font("微软雅黑", 12);
 
             // 初始化Y轴显示信息
@@ -237,24 +239,37 @@ namespace ECH192.UI
                 minvalues.Add(itvalues[i].AvgCurrentValue.Min());
             }
 
-            chartArea1.AxisY.Maximum = maxvalues.Max() + 100;
-            chartArea1.AxisY.Minimum = minvalues.Min() - 100;
+            int Interval = (int)(Math.Abs(maxvalues.Max() - minvalues.Min()) * 0.1);
+
+            if (Interval == 0)
+                Interval = 1000;
+
+            chartArea1.AxisY.Maximum = maxvalues.Max() + Interval;
+            chartArea1.AxisY.Minimum = minvalues.Min() - Interval;
             chartArea1.AxisY.Interval = (chartArea1.AxisY.Maximum - chartArea1.AxisY.Minimum) / 10;
             chartArea1.AxisY.MajorGrid.Interval = (chartArea1.AxisY.Maximum - chartArea1.AxisY.Minimum) / 10;
             chartArea1.AxisY.MajorTickMark.Interval = (chartArea1.AxisY.Maximum - chartArea1.AxisY.Minimum) / 10;
 
-            chartArea1.AxisX.Maximum = itvalues[0].Time.Count + 1;
-            chartArea1.AxisX.Interval = itvalues[0].Time.Count / 5;
-            chartArea1.AxisX.MajorGrid.Interval = itvalues[0].Time.Count / 5;
-            chartArea1.AxisX.MajorTickMark.Interval = itvalues[0].Time.Count / 5;
+            chartArea1.AxisX.Maximum = (int)(itvalues[0].Time.Max() + 1);
+            chartArea1.AxisX.Interval = (int)(itvalues[0].Time.Max() / 5);
+            chartArea1.AxisX.MajorGrid.Interval = (int)(itvalues[0].Time.Max() / 5);
+            chartArea1.AxisX.MajorTickMark.Interval = (int)(itvalues[0].Time.Max() / 5);
 
-            // 逐条数据绘制
-            for (int i = 0; i < 16; i++)
+            try
             {
-                for (int k = 0; k < itvalues[i * 2].AvgCurrentValue.Count; k++)
+                // 逐条数据绘制
+                for (int i = 0; i < 16; i++)
                 {
-                    chart1.Series[i].Points.AddXY(itvalues[i * 2].Time[k], itvalues[i * 2].AvgCurrentValue[k]);
+                    //for (int k = 0; k < itvalues[i * 2].AvgCurrentValue.Count; k++)
+                    //{
+                    //    chart1.Series[i].Points.AddXY(itvalues[i * 2].Time[k], itvalues[i * 2].AvgCurrentValue[k]);
+                    //}
+                    chart1.Series[i].Points.DataBindXY(itvalues[i * 2].Time, itvalues[i * 2].AvgCurrentValue);
                 }
+            }
+            catch (Exception ex)
+            {
+                logger.Error("ITReal Test error:" + ex.ToString());
             }
         }
 

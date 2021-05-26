@@ -9,6 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace CommunicationServer.Protocol.Command
@@ -73,7 +74,7 @@ namespace CommunicationServer.Protocol.Command
                         int cveachlength = 192 * 4 + 4;
                         for (int j = 0; j < fd.data.nitem; j++)
                         {
-                            double vvalue = BitConverter.ToInt32(requestInfo.Data.ToArray(), j * cveachlength + requestInfo.Offset);
+                            double vvalue = BitConverter.ToInt32(requestInfo.Data.ToArray(), j * cveachlength + requestInfo.Offset) - 2500;
                             for (int i = 0; i < fd.data.chn; i++)
                             {
                                 double ch1value = BitConverter.ToInt32(requestInfo.Data.ToArray(), j * cveachlength + 4 + i * 4 + requestInfo.Offset);
@@ -103,6 +104,7 @@ namespace CommunicationServer.Protocol.Command
             //获取数据未结束，继续获取下一条数据
             if (fd.data.finish != 100)
             {
+                Thread.Sleep(2000);
                 //继续获取下一条数据
                 Dictionary<string, dynamic> datas = new Dictionary<string, dynamic>();
                 datas.Add("cmd", 9);

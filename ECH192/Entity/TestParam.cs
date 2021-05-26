@@ -18,7 +18,7 @@ namespace ECH192.Entity
         //IT测试运行时间
         public static string ITTestTime = IniWrapper.Get("ITParam", "TestTime", "0.2", SystemParam.IniFileFullName).ToString();
         //IT电流灵敏度
-        public static string ITSensitivity = IniWrapper.Get("ITParam", "Sensitivity", "0.2", SystemParam.IniFileFullName).ToString();
+        public static string ITSensitivity = IniWrapper.Get("ITParam", "Sensitivity", "0", SystemParam.IniFileFullName).ToString();
         //IT采样间隔
         public static string ITInterval = IniWrapper.Get("ITParam", "Interval", "0.2", SystemParam.IniFileFullName).ToString();
         //IT静止时间
@@ -39,7 +39,7 @@ namespace ECH192.Entity
         //CV采样间隔
         public static string CVInterval = IniWrapper.Get("CVParam", "Interval", "0.2", SystemParam.IniFileFullName).ToString();
         //CV电流灵敏度
-        public static string CVSensitivity = IniWrapper.Get("CVParam", "Sensitivity", "0.2", SystemParam.IniFileFullName).ToString();
+        public static string CVSensitivity = IniWrapper.Get("CVParam", "Sensitivity", "0", SystemParam.IniFileFullName).ToString();
         //CV静止时间
         public static string CVStopTime = IniWrapper.Get("CVParam", "StopTime", "0.2", SystemParam.IniFileFullName).ToString();
     }

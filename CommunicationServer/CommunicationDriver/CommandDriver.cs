@@ -247,7 +247,7 @@ namespace CommunicationServer.CommunicationDriver
                             }
                             if (Datas.TryGetValue("vtg", out obj))
                             {
-                                framedata.vtg = int.Parse(obj);
+                                framedata.vtg = int.Parse(obj) * 1000 + 2500000;
                             }
                             if (Datas.TryGetValue("np", out obj))
                             {
@@ -262,7 +262,7 @@ namespace CommunicationServer.CommunicationDriver
                             framedata = new FrameData();
                             if (Datas.TryGetValue("vtg_init", out obj))
                             {
-                                framedata.vtg_init = int.Parse(obj);
+                                framedata.vtg_init = int.Parse(obj) * 1000 + 2500000;
                             }
                             if (Datas.TryGetValue("quittime", out obj))
                             {
@@ -270,11 +270,11 @@ namespace CommunicationServer.CommunicationDriver
                             }
                             if (Datas.TryGetValue("vtg_max", out obj))
                             {
-                                framedata.vtg_max = int.Parse(obj);
+                                framedata.vtg_max = int.Parse(obj) * 1000 + 2500000;
                             }
                             if (Datas.TryGetValue("vtg_min", out obj))
                             {
-                                framedata.vtg_min = int.Parse(obj);
+                                framedata.vtg_min = int.Parse(obj) * 1000 + 2500000;
                             }
                             if (Datas.TryGetValue("dir", out obj))
                             {
@@ -324,15 +324,16 @@ namespace CommunicationServer.CommunicationDriver
                         case 1:
                             framebuffer = new FrameBuffer(8, 1);
                             framedata = new FrameData();
-                            framegroup = new FrameGroup();
+                            
                             if (Datas.TryGetValue("current", out obj))
                             {
-                                for (int i = 0; i < SysParam.HoleNum; i++)
-                                {
-                                    framegroup.index = i;
-                                    framegroup.current = int.Parse(obj);
-                                    framedata.group.Add(framegroup);
-                                }
+                                //for (int i = 0; i < SysParam.HoleNum; i++)
+                                //{
+                                framegroup = new FrameGroup();
+                                framegroup.index = 0;
+                                framegroup.current = int.Parse(obj);
+                                framedata.group.Add(framegroup);
+                                //}
                             }
                             framebuffer.data = framedata;
                             requestinfo = GenerateRequestInfo(framebuffer);

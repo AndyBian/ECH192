@@ -9,6 +9,7 @@ namespace CommunicationServer.CommonEntity
     /// <summary>
     /// it法电沉积采集数据
     /// </summary>
+    [Serializable]
     public class ITValue:IComparable
     {
         public int Index { get; set; }
@@ -18,6 +19,13 @@ namespace CommunicationServer.CommonEntity
         public List<double> CurrentValue { get; set; }
 
         public List<double> AvgCurrentValue { get; set; }
+
+        public ITValue()
+        {
+            Time = new List<float>();
+            CurrentValue = new List<double>();
+            AvgCurrentValue = new List<double>();
+        }
 
         public ITValue(int index,List<double> currentvalue,List<double> avgcurrentvalue)
         {

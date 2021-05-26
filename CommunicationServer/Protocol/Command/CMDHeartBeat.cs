@@ -26,10 +26,11 @@ namespace CommunicationServer.Protocol.Command
             }
         }
 
-        public void ExecuteCommand(CommandSession session, ECHRequestInfo requestInfo)
+        public async void ExecuteCommand(CommandSession session, ECHRequestInfo requestInfo)
         {
             //每10秒钟发送一次心跳包
-            Thread.Sleep(10 * 1000);
+            //Thread.Sleep(1000);
+            await Task.Delay(10000);
 
             Dictionary<string, dynamic> datas = new Dictionary<string, dynamic>();
             datas.Add("cmd", 3);

@@ -23,6 +23,8 @@ namespace ECH192.Entity.Enum
 
         IT法电沉积,
 
-        CV法扫描
+        CV法扫描,
+
+        针板上升
     }
 }
