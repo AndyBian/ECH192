@@ -2061,11 +2061,10 @@ namespace ECH192
             Dictionary<string, dynamic> datas;
             switch (steptype)
             {
-                case StepEnum.针板下压:
-                    lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
-
+                case StepEnum.针板下压:                   
                     if (OpenSerial())
                     {
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
                         byte[] byts = ToolControl.Instruction.generateInstruction(ToolControl.InstructionTypeEnum.PRESS);
                         ToolControl.SerialUtil.WriteSerial(sp, byts, byts.Length);
                     }
@@ -2084,10 +2083,14 @@ namespace ECH192
                         return;
                     }
 
-                    Thread.Sleep(steps[step].steptime);
+                    Thread.Sleep(steps[step].steptime * 1000);
 
                     if (IsDebug)
+                    {
+                        TestingStatus = false;
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "针板下压完成"));  // 跨线程访问UI控件
                         return;
+                    }
 
                     if (AutoTesting)
                     {
@@ -2106,16 +2109,16 @@ namespace ECH192
                         {
                             mainsteps[stepindex + 1].UpdatePlayBackImage(ImageMainPlay, true, 0);
                             stepindex += 1;
-                            TestingStatus = false;
+                            
                         }
+                        TestingStatus = false;
                     }
-                    
+                    lbMessage.Invoke(new Action(() => lbMessage.Text = "针板下压完成"));  // 跨线程访问UI控件
                     break;
                 case StepEnum.针板上升:
-                    lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
-
                     if (OpenSerial())
                     {
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
                         byte[] byts = ToolControl.Instruction.generateInstruction(ToolControl.InstructionTypeEnum.UP);
                         ToolControl.SerialUtil.WriteSerial(sp, byts, byts.Length);
                     }
@@ -2134,10 +2137,14 @@ namespace ECH192
                         return;
                     }
 
-                    Thread.Sleep(steps[step].steptime);
+                    Thread.Sleep(steps[step].steptime * 1000);
 
                     if (IsDebug)
+                    {
+                        TestingStatus = false;
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "针板上升完成"));  // 跨线程访问UI控件
                         return;
+                    }
 
                     if (AutoTesting)
                     {
@@ -2156,16 +2163,16 @@ namespace ECH192
                         {
                             mainsteps[stepindex + 1].UpdatePlayBackImage(ImageMainPlay, true, 0);
                             stepindex += 1;
-                            TestingStatus = false;
+                            
                         }
+                        TestingStatus = false;
                     }
-
+                    lbMessage.Invoke(new Action(() => lbMessage.Text = "针板上升完成"));  // 跨线程访问UI控件
                     break;
                 case StepEnum.通纯水:
-                    lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
-
                     if (OpenSerial())
                     {
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
                         byte[] byts = ToolControl.Instruction.generateInstruction(ToolControl.InstructionTypeEnum.CHANNEL1);
                         ToolControl.SerialUtil.WriteSerial(sp, byts, byts.Length);
                     }
@@ -2184,10 +2191,14 @@ namespace ECH192
                         return;
                     }
 
-                    Thread.Sleep(steps[step].steptime);
+                    Thread.Sleep(steps[step].steptime * 1000);
 
                     if (IsDebug)
+                    {
+                        TestingStatus = false;
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "通纯水完成"));  // 跨线程访问UI控件
                         return;
+                    }
 
                     if (AutoTesting)
                     {
@@ -2205,17 +2216,16 @@ namespace ECH192
                         else
                         {
                             mainsteps[stepindex + 1].UpdatePlayBackImage(ImageMainPlay, true, 0);
-                            stepindex += 1;
-                            TestingStatus = false;
+                            stepindex += 1;                            
                         }
+                        TestingStatus = false;
                     }
-                    
+                    lbMessage.Invoke(new Action(() => lbMessage.Text = "通纯水完成"));  // 跨线程访问UI控件
                     break;
                 case StepEnum.通空气:
-                    lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
-
                     if (OpenSerial())
                     {
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
                         byte[] byts = ToolControl.Instruction.generateInstruction(ToolControl.InstructionTypeEnum.CHANNEL2);
                         ToolControl.SerialUtil.WriteSerial(sp, byts, byts.Length);
                     }
@@ -2234,10 +2244,14 @@ namespace ECH192
                         return;
                     }
 
-                    Thread.Sleep(steps[step].steptime);
+                    Thread.Sleep(steps[step].steptime * 1000);
 
                     if (IsDebug)
+                    {
+                        TestingStatus = false;
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "通空气完成"));  // 跨线程访问UI控件
                         return;
+                    }
 
                     if (AutoTesting)
                     {
@@ -2256,15 +2270,15 @@ namespace ECH192
                         {
                             mainsteps[stepindex + 1].UpdatePlayBackImage(ImageMainPlay, true, 0);
                             stepindex += 1;
-                            TestingStatus = false;
                         }
+                        TestingStatus = false;
                     }
+                    lbMessage.Invoke(new Action(() => lbMessage.Text = "通空气完成"));  // 跨线程访问UI控件
                     break;
                 case StepEnum.通溶液1:
-                    lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
-
                     if (OpenSerial())
                     {
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
                         byte[] byts = ToolControl.Instruction.generateInstruction(ToolControl.InstructionTypeEnum.CHANNEL3);
                         ToolControl.SerialUtil.WriteSerial(sp, byts, byts.Length);
                     }
@@ -2283,10 +2297,14 @@ namespace ECH192
                         return;
                     }
 
-                    Thread.Sleep(steps[step].steptime);
+                    Thread.Sleep(steps[step].steptime * 1000);
 
                     if (IsDebug)
+                    {
+                        TestingStatus = false;
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "通溶液1完成"));  // 跨线程访问UI控件
                         return;
+                    }
 
                     if (AutoTesting)
                     {
@@ -2305,15 +2323,16 @@ namespace ECH192
                         {
                             mainsteps[stepindex + 1].UpdatePlayBackImage(ImageMainPlay, true, 0);
                             stepindex += 1;
-                            TestingStatus = false;
+                            
                         }
+                        TestingStatus = false;
                     }
+                    lbMessage.Invoke(new Action(() => lbMessage.Text = "通溶液1完成"));  // 跨线程访问UI控件
                     break;
                 case StepEnum.通溶液2:
-                    lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
-
                     if (OpenSerial())
                     {
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
                         byte[] byts = ToolControl.Instruction.generateInstruction(ToolControl.InstructionTypeEnum.CHANNEL4);
                         ToolControl.SerialUtil.WriteSerial(sp, byts, byts.Length);
                     }
@@ -2332,10 +2351,14 @@ namespace ECH192
                         return;
                     }
 
-                    Thread.Sleep(steps[step].steptime);
+                    Thread.Sleep(steps[step].steptime * 1000);
 
                     if (IsDebug)
+                    {
+                        TestingStatus = false;
+                        lbMessage.Invoke(new Action(() => lbMessage.Text = "通溶液2完成"));  // 跨线程访问UI控件
                         return;
+                    }
 
                     if (AutoTesting)
                     {
@@ -2354,9 +2377,11 @@ namespace ECH192
                         {
                             mainsteps[stepindex + 1].UpdatePlayBackImage(ImageMainPlay, true, 0);
                             stepindex += 1;
-                            TestingStatus = false;
+                            
                         }
+                        TestingStatus = false;
                     }
+                    lbMessage.Invoke(new Action(() => lbMessage.Text = "通溶液2完成"));  // 跨线程访问UI控件
                     break;
                 case StepEnum.IT法电沉积:
                     lbMessage.Invoke(new Action(() => lbMessage.Text = "开始" + steps[step].stepname));  // 跨线程访问UI控件
